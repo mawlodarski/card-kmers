@@ -85,7 +85,8 @@ gunzip wildcard/*.gz
 rgi load --card_json ./card.json   --kmer_database ./wildcard/61_kmer_db.json   --amr_kmers ./wildcard/all_amr_61mers.txt   --kmer_size 61   --local > kmer_load.61.log 2>&1
 ```
 
-3) **Classify**  
+3) **Classify**
+
 RGI BWT BAM input (metagenomic reads, recommended)
 ```
 rgi kmer_query --bwt --kmer_size 61 --threads 8 --minimum 10 \
