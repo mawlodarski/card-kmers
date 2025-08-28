@@ -1,7 +1,7 @@
 # CARD k-mers
 Fast, AMR-aware k-mer classification to predict **pathogen-of-origin** (species/genus) and **genomic context** (chromosome vs plasmid) for reads that encode antimicrobial resistance (ARG) genes.  
 
-> Built to work hand-in-glove with the Comprehensive Antibiotic Resistance Database (CARD) and the Resistance Gene Identifier (RGI). Implements the `rgi kmer_query` workflow and ships reproducible validation pipelines and visualizations.  
+> Built to work hand-in-glove with the Comprehensive Antibiotic Resistance Database (CARD) and the Resistance Gene Identifier (RGI). 
 > CARD : https://card.mcmaster.ca  
 > CARD GitHub : https://github.com/arpcard  
 
@@ -29,6 +29,9 @@ See the [manuscript for methods and benchmarking results](https://github.com/wlo
 - [Interpreting output](#interpreting-output)  
 - [Choosing k-mer size](#choosing-k-mer-size)  
 - [Reproducing validation](#reproducing-validation)  
+- [Build a custom k-mer database](#build-a-custom-k-mer-database-optional)  
+- [Validation data](#validation-data)  
+- [Supplementary data](#supplementary-data)  
 - [Performance notes](#performance-notes)  
 - [Cite](#cite)  
 - [License](#license)  
@@ -47,10 +50,9 @@ See the [manuscript for methods and benchmarking results](https://github.com/wlo
 
 ## When to use
 - You want to link detected **ARGs** to their most likely **pathogen host** and **genomic context**.  
-- You favor **precision over recall** (conservative assignments minimize false positives).  
 
 > **Important**: CARD k-mers assumes inputs encode ARGs.  
-> Run RGI (`rgi bwt`) first to filter for AMR reads.  
+> Run RGI (`rgi bwt`) first to filter reads for AMR reads.  
 > For non-AMR reads, use a general taxonomy tool.  
 
 ---
@@ -84,7 +86,7 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/61_kmer_db.json   
 
 ---
 
-## Quickstart: Classify
+## Quickstart: Classify reads
 
 **RGI BWT BAM input (metagenomic reads, recommended)**  
 ```bash
@@ -104,7 +106,6 @@ rgi kmer_query --fasta --kmer_size 61 --threads 8 --minimum 10   --input data/sa
 ---
 
 ## End-to-end workflow
-Scripts and Snakemake pipeline are included to automate:
 1. Download CARD data  
 2. Load precompiled k-mers  
 3. Run `rgi kmer_query` on inputs  
@@ -113,7 +114,7 @@ Scripts and Snakemake pipeline are included to automate:
 ---
 
 ## Input types
-- **FASTA**: ARG-containing reads or contigs  
+- **FASTA**: ARG-containing reads or contigs, genomes
 - **RGI JSON**: results from `rgi main` on assemblies  
 - **RGI BWT BAM**: mapped metagenomic reads from `rgi bwt`  
 
@@ -151,7 +152,8 @@ Prediction: Escherichia coli (chromosome)
 Taxonomic kmers: Escherichia coli: 16
 Genomic kmers: chr or pls: 0 | plasmid: 0 | chr: 5
 ```
-<img width="1093" height="144" alt="Screenshot 2025-08-28 at 2 21 41 PM" src="https://github.com/user-attachments/assets/5e955efe-7661-4989-a85f-ca74be76a724" />
+<img width="1033" height="144" alt="Screenshot 2025-08-28 at 3 01 45 PM" src="https://github.com/user-attachments/assets/e26570a3-1cc7-4351-8baa-e5c803641400" />
+Interpretation: This ARG read is predicted to originate from *Escherichia coli*, chromosome-borne.  
 
 ---
 
@@ -178,21 +180,60 @@ Each read = one JSON object.
   }
 }
 ```
-<img width="1093" height="489" alt="Screenshot 2025-08-28 at 2 21 25 PM" src="https://github.com/user-attachments/assets/0764aaf4-96b1-4229-9cb2-6e2e6738a814" />
-
-Interpretation: This ARG read is predicted to originate from *Escherichia coli*, plasmid-borne.  
+<img width="1033" height="470" alt="Screenshot 2025-08-28 at 3 02 41 PM" src="https://github.com/user-attachments/assets/31c8b48c-5215-4093-a5b2-3926e511b894" />
 
 ---
 
-## Choosing k-mer size
-- **61-mers (default)**: higher accuracy, slower queries  
-- **15-mers**: faster builds, ~80% accuracy plateau  
+## Build a custom k-mer database (optional)
+
+CARD provides precompiled 61-mers, but you can also build custom k-mer sets at other sizes (e.g., 31-mers or 15-mers) using `rgi kmer_build`. This is useful if you want to explore accuracy vs. runtime trade-offs.
+
+### Example: build k=31 with 20 threads
+```bash
+# Assumes CARD annotation FASTA and wildcard prevalence files exist
+rgi kmer_build   --input_directory ./wildcard   --card card_database_v3.0.1.fasta   -k 31   --threads 20   --batch_size 100000
+```
+
+### Re-run with a different k without regenerating intermediates
+```bash
+rgi kmer_build   --input_directory ./wildcard   --card card_database_v3.0.1.fasta   -k 33   --threads 20   --batch_size 100000   --skip
+```
+
+### Load your custom database
+```bash
+rgi load --card_json ./card.json   --kmer_database ./wildcard/31_kmer_db.json   --amr_kmers    ./wildcard/all_amr_31mers.txt   --kmer_size 31   --local
+```
+
+**Tips**  
+- Smaller k (e.g., 15) → faster queries, slightly less precise.  
+- Larger k (e.g., 61) → higher precision, slower.  
+- Adjust `--minimum` coverage threshold when using smaller k to avoid spurious hits.  
 
 ---
 
-## Reproducing validation
-Validation manifests and notebooks are provided in `data/validation/` and `notebooks/`.  
-They reproduce the pathogen/genomic benchmarks in the manuscript.  
+## Validation data
+
+To reproduce manuscript results, curated validation sets are included under `data/validation/`:
+
+```
+data/validation/
+├─ pathogen/         # For species/genus benchmarks
+│  ├─ MANIFEST.csv   # Allele IDs, species/genus labels, train/test split
+│  ├─ checksums.txt
+│  └─ README.md
+└─ genomic/          # For chromosome vs plasmid benchmarks
+   ├─ MANIFEST.csv   # Allele IDs, genomic context labels, train/test split
+   ├─ checksums.txt
+   └─ README.md
+```
+
+Each **`MANIFEST.csv`** is tab-delimited and records:  
+- `allele_id`  
+- `species` or `context` (chromosome/plasmid)  
+- `split` (train/test)  
+- `file_path` to the allele FASTA  
+
+This structure ensures full reproducibility of validation figures and metrics.  
 
 ---
 
@@ -204,13 +245,6 @@ The repository includes **UMAP visualizations** used to visualize species-level 
 - Format: `.csv` (tab-delimited) containing sequence IDs, taxonomic labels, genomic context, pathogen name, etc.
 
 **Note:** These supplementary files are intended for figure reproduction and method transparency, not for routine use in k-mer classification.
-
----
-
-## Performance notes
-- Query speed scales with threads  
-- Pre-filter reads with `rgi` for efficiency  
-- Memory usage stable across thread counts  
 
 ---
 
