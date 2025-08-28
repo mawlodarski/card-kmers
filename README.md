@@ -1,5 +1,5 @@
 # CARD k-mers
-Fast, AMR-aware k-mer classification to predict **pathogen-of-origin** (species/genus) and **genomic context** (chromosome vs plasmid) for reads that encode antimicrobial resistance (ARG) genes. 
+Fast command line AMR-aware k-mer classification to predict **pathogen-of-origin** (species/genus) and **genomic context** (chromosome vs plasmid) for reads that encode antimicrobial resistance (ARG) genes. 
 
 > Built to work hand-in-glove with the Comprehensive Antibiotic Resistance Database (CARD) and the Resistance Gene Identifier (RGI). Implements the `rgi kmer_query` workflow and ships reproducible validation pipelines and visualizations.  
 > CARD : https://card.mcmaster.ca  
@@ -86,7 +86,6 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/61_kmer_db.json   
 ```
 
 3) **Classify**
-bash
 -
 RGI BWT BAM input (metagenomic reads, recommended)
 ```
