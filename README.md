@@ -196,6 +196,17 @@ They reproduce the pathogen/genomic benchmarks in the manuscript.
 
 ---
 
+## Supplementary data
+
+The repository includes **UMAP visualizations** used to visualize species-level and genomic-context clustering of ARG-associated k-mers in the manuscript.  
+
+- Files are provided in `data/supplementary/umap/`  
+- Format: `.csv` (tab-delimited) containing sequence IDs, taxonomic labels, genomic context, pathogen name, etc.
+
+**Note:** These supplementary files are intended for figure reproduction and method transparency, not for routine use in k-mer classification.
+
+---
+
 ## Performance notes
 - Query speed scales with threads  
 - Pre-filter reads with `rgi` for efficiency  
