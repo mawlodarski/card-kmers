@@ -91,13 +91,13 @@ RGI BWT BAM input (metagenomic reads, recommended)
 ```
 rgi kmer_query --bwt --kmer_size 61 --threads 8 --minimum 10 \
   --input data/sample/example_rgi_bwt.bam \
-  --output results/example_bwt --local
+  --output results/example_bwt 
 ```
 RGI JSON input
 ```
 rgi kmer_query --rgi --kmer_size 61 --threads 8 --minimum 10 \
   --input data/sample/example_rgi_main.json \
-  --output results/example_rgi_main --local
+  --output results/example_rgi_main
 ```
 FASTA input
 ```
@@ -142,7 +142,7 @@ Validation manifests and notebooks included under `data/validation/` and `notebo
 
 ---
 
-## Visualization
+## Future updates: output visualization
 
 - Sunburst plots  
 - Stacked bar accuracy plots  
