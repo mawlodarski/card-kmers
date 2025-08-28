@@ -86,7 +86,6 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/61_kmer_db.json   
 ```
 
 3) **Classify**
--
 RGI BWT BAM input (metagenomic reads, recommended)
 ```
 rgi kmer_query --bwt --kmer_size 61 --threads 8 --minimum 10 \
