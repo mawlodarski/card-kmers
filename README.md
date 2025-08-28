@@ -120,8 +120,8 @@ Scripts and Snakemake pipeline are included to automate:
 ---
 
 ## Outputs
-- **TXT summaries** (for FASTA / RGI JSON inputs)  
-- **JSON evidence files** (for BAM inputs)  
+- **TXT summaries**
+- **JSON evidence files**
 
 Both formats report:
 - total k-mers per sequence  
