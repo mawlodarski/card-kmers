@@ -40,38 +40,29 @@ See the paper for methods, validation design, and results.
 - **ARG-aware taxonomy**: species and genus predictions tailored to resistance gene sequence space  
 - **Genomic origin**: predicts chromosome vs plasmid (or both) for contextual AMR risk  
 - **Multi-format input**: FASTA, RGI JSON (assemblies), RGI BAM (metagenomic reads)  
-- **Evidence-style outputs**: human-readable summaries plus JSON with counts per taxon/context  
-- **Batteries-included validation**: Snakemake + notebooks to reproduce benchmarks and figures
+- **Outputs**: human-readable summaries plus JSON with counts per taxon/context  
+- **Validation Data**: Data and workflow to reproduce manuscript results
 
 ---
 
 ## When to use
-- You already filtered or detected **ARG-containing reads** (e.g., via `rgi`).
 - You need **pathogen-of-origin** (species/genus) and **genomic context** of ARGs from short reads.
 - You favor **low false positives** over forced assignments.
 
-> **Assumption**: Inputs encode AMR genes (the k-mer reference is AMR-specific). For non-AMR reads, run a general taxonomy classifier first.
+> **Assumption**: Inputs encode AMR genes (the k-mer reference is AMR-specific).
+> Run RGI bwt module first to align reads to CARD's protein homolog models : https://github.com/arpcard/rgi/blob/master/docs/rgi_bwt.rst  
+>  For non-AMR reads, run a general taxonomy classifier first.
 
 ---
 
 ## Install
 
-### Option A — Conda (recommended)
-```bash
-conda env create -f environment.yml
-conda activate card-kmers
-```
-
-### Option B — Docker
-```bash
-docker build -t card-kmers:latest .
-docker run --rm -it -v "$PWD":/work -w /work card-kmers:latest bash
-```
-
----
+###  STEP 1 - Install RGI
+https://github.com/arpcard/rgi/tree/master
 
 ## Quickstart
 
+###  STEP 2 - Load CARD data + k-mers
 1) **Fetch CARD data**
 ```bash
 rgi clean --local
@@ -95,8 +86,25 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/61_kmer_db.json   
 ```
 
 3) **Classify**
-```bash
-rgi kmer_query --fasta --kmer_size 61 --threads 8 --minimum 10   --input data/sample/example_reads.fasta   --output results/example_fasta --local
+bash
+-
+RGI BWT BAM input (metagenomic reads, recommended)
+```
+rgi kmer_query --bwt --kmer_size 61 --threads 8 --minimum 10 \
+  --input data/sample/example_rgi_bwt.bam \
+  --output results/example_bwt --local
+```
+RGI JSON input
+```
+rgi kmer_query --rgi --kmer_size 61 --threads 8 --minimum 10 \
+  --input data/sample/example_rgi_main.json \
+  --output results/example_rgi_main --local
+```
+FASTA input
+```
+rgi kmer_query --fasta --kmer_size 61 --threads 8 --minimum 10 \
+  --input data/sample/example_reads.fasta \
+  --output results/example_fasta 
 ```
 
 ---
@@ -118,7 +126,7 @@ Scripts and Snakemake pipeline included.
 ## Outputs
 
 - TXT summaries
-- JSON evidence files
+- JSON files
 
 ---
 
