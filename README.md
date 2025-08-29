@@ -211,43 +211,6 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/31_kmer_db.json   
 
 ---
 
-## Validation data
-
-To reproduce manuscript results, curated validation sets are included under `data/validation/`:
-
-```
-data/validation/
-├─ pathogen/         # For species/genus benchmarks
-│  ├─ MANIFEST.csv   # Allele IDs, species/genus labels, train/test split
-│  ├─ checksums.txt
-│  └─ README.md
-└─ genomic/          # For chromosome vs plasmid benchmarks
-   ├─ MANIFEST.csv   # Allele IDs, genomic context labels, train/test split
-   ├─ checksums.txt
-   └─ README.md
-```
-
-Each **`MANIFEST.csv`** is tab-delimited and records:  
-- `allele_id`  
-- `species` or `context` (chromosome/plasmid)  
-- `split` (train/test)  
-- `file_path` to the allele FASTA  
-
-This structure ensures full reproducibility of validation figures and metrics.  
-
----
-
-## Supplementary data
-
-The repository includes **UMAP visualizations** used to visualize species-level and genomic-context clustering of ARG-associated k-mers in the manuscript.  
-
-- Files are provided in `data/supplementary/umap/`  
-- Format: `.csv` (tab-delimited) containing sequence IDs, taxonomic labels, genomic context, pathogen name, etc.
-
-**Note:** These supplementary files are intended for figure reproduction and method transparency, not for routine use in k-mer classification.
-
----
-
 ## Cite
 If you use CARD k-mers in a publication, please cite:  
 
