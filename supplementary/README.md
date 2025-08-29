@@ -12,10 +12,3 @@ This folder contains the **UMAP analysis** used in the manuscript to explore **u
 
 - **`umap.py`** — script to project the above into 2D with UMAP.  
 - **`umap_unclassified.html`** — interactive visualization (open in a browser).
-
-## Run
-```bash
-python umap.py \
-  --input unclassified_table.csv \
-  --html umap_unclassified.html
-
