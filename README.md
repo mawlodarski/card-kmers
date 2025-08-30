@@ -22,7 +22,7 @@ If you use CARD k-mers in a publication, please cite:
 
 > Wlodarski, M.A., T.T.Y. Lau, B.P. Alcock, A.R. Raphenya, T.E. Ta, F. Maguire, R.G. Beiko, & A.G. McArthur. CARD k-mers: Unmasking the pathogen hosts and genomic contexts of antimicrobial resistance genes in metagenomic sequences. Manuscript in preparation. 
 
-Validation Data: [validation](/valdiation/)
+Validation Data: [validation](/validation/)
 
 Supplementary Figures: [supplementary](/supplementary/)
 
