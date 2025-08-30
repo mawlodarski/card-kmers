@@ -23,6 +23,8 @@ If you use CARD k-mers in a publication, please cite:
 
 ---
 
+[[TOC]]
+
 ## Table of contents
 - [Features](#features)  
 - [When to use](#when-to-use)  
@@ -32,13 +34,7 @@ If you use CARD k-mers in a publication, please cite:
 - [Input types](#input-types)  
 - [Outputs](#outputs)  
 - [Interpreting output](#interpreting-output)  
-- [Choosing k-mer size](#choosing-k-mer-size)  
-- [Reproducing validation](#reproducing-validation)  
 - [Build a custom k-mer database](#build-a-custom-k-mer-database-optional)  
-- [Validation data](#validation-data)  
-- [Supplementary data](#supplementary-data)  
-- [Performance notes](#performance-notes)  
-- [Cite](#cite)  
 - [License](#license)  
 - [Contributing](#contributing)  
 
