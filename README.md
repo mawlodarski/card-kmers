@@ -38,8 +38,6 @@ Supplementary Figures: [supplementary](/supplementary/)
 - [Outputs](#outputs)  
 - [Interpreting output](#interpreting-output)  
 - [Build a custom k-mer database](#build-a-custom-k-mer-database-optional)  
-- [License](#license)  
-- [Contributing](#contributing)  
 
 ---
 
