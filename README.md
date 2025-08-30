@@ -85,7 +85,7 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/61_kmer_db.json   
 
 ---
 
-## Quickstart: Classify reads
+## Quickstart
 
 **RGI BWT BAM input (metagenomic reads, recommended)**  
 ```bash
