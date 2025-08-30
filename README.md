@@ -3,7 +3,7 @@ Fast, AMR-aware k-mer classification to predict **pathogen-of-origin** (species/
 
 > Built to work hand-in-glove with the Comprehensive Antibiotic Resistance Database (CARD) and the Resistance Gene Identifier (RGI). 
 > CARD : https://card.mcmaster.ca  
-> CARD GitHub : https://github.com/arpcard  
+> RGI GitHub : https://github.com/arpcard/rgi
 
 ---
 
@@ -14,7 +14,12 @@ General k-mer taxonomic tools (e.g., Kraken2, CLARK) excel on broad sequence spa
 - **Low erroneous call rate** via a conservative decision logic  
 - **Genomic context calls** (chromosome, plasmid, or both)  
 
-See the [manuscript for methods and benchmarking results](https://github.com/wlodarsm/card_k-mers/tree/main).
+---
+
+## Cite
+If you use CARD k-mers in a publication, please cite:  
+
+> Wlodarski, M.A. *et al.* “CARD k-mers: Unmasking the Pathogen Hosts and Genomic Contexts of Antimicrobial Resistance Genes in Metagenomic Sequences.”  
 
 ---
 
@@ -208,13 +213,6 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/31_kmer_db.json   
 - Smaller k (e.g., 15) → faster queries, slightly less precise.  
 - Larger k (e.g., 61) → higher precision, slower.  
 - Adjust `--minimum` coverage threshold when using smaller k to avoid spurious hits.  
-
----
-
-## Cite
-If you use CARD k-mers in a publication, please cite:  
-
-> Wlodarski, M.A. *et al.* “CARD k-mers: Unmasking the Pathogen Hosts and Genomic Contexts of Antimicrobial Resistance Genes in Metagenomic Sequences.”  
 
 ---
 
