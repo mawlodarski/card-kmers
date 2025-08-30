@@ -23,10 +23,8 @@ If you use CARD k-mers in a publication, please cite:
 
 ---
 
-[[TOC]]
-
 ## Table of contents
-- [Features](#features)  
+- [Features](#features)
 - [When to use](#when-to-use)  
 - [Install](#install)  
 - [Quickstart](#quickstart)  
