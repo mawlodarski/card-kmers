@@ -213,12 +213,3 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/31_kmer_db.json   
 - Larger k (e.g., 61) → higher precision, slower.  
 - Adjust `--minimum` coverage threshold when using smaller k to avoid spurious hits.  
 
----
-
-## License
-Apache-2.0  
-
----
-
-## Contributing
-Please read `CODE_OF_CONDUCT.md` and `CONTRIBUTING.md`.  
