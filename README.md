@@ -148,14 +148,6 @@ rgi kmer_query --fasta --kmer_size 61 --threads 8 --minimum 10   --input data/sa
 
 ---
 
-## End-to-end workflow
-1. Download CARD data  
-2. Load precompiled k-mers  
-3. Run `rgi kmer_query` on inputs  
-4. Summarize + visualize  
-
----
-
 ## Input types
 - **FASTA**: ARG-containing reads or contigs, genomes
 - **RGI JSON**: results from `rgi main` on assemblies  
@@ -175,7 +167,7 @@ Both formats report:
 
 ---
 
-## Interpreting output
+### Step 4 — Summarize and interpret results
 
 **TXT output (FASTA, Figure 2A)**  
 Each row = one sequence.  
