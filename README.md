@@ -1,9 +1,21 @@
 # CARD k-mers
-Fast, AMR-aware k-mer classification to predict **pathogen-of-origin** (species/genus) and **genomic context** (chromosome vs plasmid) for reads that encode antimicrobial resistance (ARG) genes.  
+Fast, AMR-aware k-mer classification to predict **pathogen-of-origin** (species/genus) 
+and **genomic context** (chromosome vs plasmid) for reads that encode antimicrobial 
+resistance (ARG) genes.  
 
-> Built to work hand-in-glove with the Comprehensive Antibiotic Resistance Database (CARD) and the Resistance Gene Identifier (RGI). 
+> Built to work hand-in-glove with the Comprehensive Antibiotic Resistance Database (CARD) 
+> and the Resistance Gene Identifier (RGI).  
 > CARD : https://card.mcmaster.ca  
-> RGI GitHub : https://github.com/arpcard/rgi
+> RGI GitHub : https://github.com/arpcard/rgi  
+
+---
+
+CARD k-mers is designed for **metagenomic AMR surveillance** across clinical and 
+wastewater/environmental settings. After AMR reads are identified with RGI, 
+CARD k-mers can predict the most likely **pathogen-of-origin** and whether resistance 
+genes are encoded on **chromosomes or plasmids**. It supports genomes, genome assemblies, 
+metagenomic contigs, and metagenomic reads, providing high-confidence linkage between 
+ARGs and their microbial hosts.
 
 ---
 
