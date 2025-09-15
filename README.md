@@ -19,6 +19,23 @@ ARGs and their microbial hosts.
 
 ---
 
+## Table of contents
+- [Why CARD k-mers?](#why-card-k-mers)  
+- [Features](#features)
+- [When to use](#when-to-use)  
+- [End-to-end workflow](#end-to-end-workflow)
+- [Step 1 — Install RGI](#step-1--install-rgi)
+- [Step 2 — Load CARD data & precompiled k-mers](#step-2--load-card-data--precompiled-k-mers)
+- [Step 3 — Run RGI kmer_query](#step-3--run-rgi-kmer_query)
+- [Step 4 — Summarize and interpret results](#step-4--summarize-and-interpret-results)  
+- [Input types](#input-types)  
+- [Outputs](#outputs)  
+- [CARD k-mer Classifier Output](#card-k-mer-classifier-output)
+- [Build a custom k-mer database](#build-a-custom-k-mer-database-optional)
+- [Contact & issues](#contact--issues)
+
+---
+
 ## Why CARD k-mers?
 
 General k-mer taxonomic tools (e.g., Kraken2, CLARK) excel on broad sequence space but underperform on AMR-focused reads. CARD k-mers narrows the reference to **ARG alleles from CARD-R**, enabling:
