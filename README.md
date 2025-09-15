@@ -59,6 +59,14 @@ Supplementary Figures: [supplementary](/supplementary/)
 
 ---
 
+## End-to-end workflow
+1. Download CARD data  
+2. Load precompiled k-mers  
+3. Run `rgi kmer_query` on inputs  
+4. Summarize + visualize  
+
+---
+
 ## Install
 
 ### Step 1 — Install RGI
@@ -84,6 +92,40 @@ mkdir -p wildcard && tar -xjf wildcard_data.tar.bz2 -C wildcard
 gunzip wildcard/*.gz
 
 rgi load --card_json ./card.json   --kmer_database ./wildcard/61_kmer_db.json   --amr_kmers ./wildcard/all_amr_61mers.txt   --kmer_size 61 --local > kmer_load.61.log 2>&1
+```
+
+---
+
+RGI kmer_query
+
+```bash
+rgi kmer_query -h
+```
+
+```bash
+usage: rgi kmer_query [-h] -i INPUT [--bwt] [--rgi] [--fasta] -k K [-m MIN]
+                      [-n THREADS] -o OUTPUT [--local] [--debug]
+
+Resistance Gene Identifier - 6.0.2 - Kmer Query
+
+Tests sequenes using CARD*kmers
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        Input file (bam file from RGI*BWT, json file of RGI results, fasta file of sequences)
+  --bwt                 Specify if the input file for analysis is a bam file generated from RGI*BWT
+  --rgi                 Specify if the input file is a RGI results json file
+  --fasta               Specify if the input file is a fasta file of sequences
+  -k K, --kmer_size K   length of k
+  -m MIN, --minimum MIN
+                        Minimum number of kmers in the called category for the classification to be made (default=10).
+  -n THREADS, --threads THREADS
+                        number of threads (CPUs) to use (default=1)
+  -o OUTPUT, --output OUTPUT
+                        Output file name.
+  --local               use local database (default: uses database in executable directory)
+  --debug               debug mode
 ```
 
 ---
