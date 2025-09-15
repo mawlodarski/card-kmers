@@ -65,7 +65,7 @@ Supplementary Figures: [supplementary](/supplementary/)
 ## End-to-end workflow
 1. Download CARD data  
 2. Load precompiled k-mers  
-3. Run `rgi kmer_query` on inputs  
+3. Run `rgi kmer_query` on input sequences encoding ARGs  
 4. Summarize + visualize  
 
 ---
