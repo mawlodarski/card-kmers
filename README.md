@@ -54,7 +54,7 @@ Supplementary Figures: [supplementary](/supplementary/)
 - You want to link detected **ARGs** to their most likely **pathogen host** and **genomic context**.  
 
 > **Important**: CARD k-mers assumes inputs encode ARGs.  
-> Run RGI (`rgi bwt`) first to filter reads for AMR reads.  
+> Run RGI (`rgi bwt`) first to filter reads for AMR reads.  : https://github.com/arpcard/rgi/blob/master/docs/rgi_bwt.rst  
 > For non-AMR reads, use a general taxonomy tool.  
 
 ---
