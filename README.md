@@ -32,11 +32,15 @@ Supplementary Figures: [supplementary](/supplementary/)
 - [Features](#features)
 - [When to use](#when-to-use)  
 - [End-to-end workflow](#end-to-end-workflow)
-- [Step 1 - Install RGI](#Step-1-—-Install-RGI)
+- [Step 1 — Install RGI](#step-1--install-rgi)
+- [Step 2 — Load CARD data & precompiled k-mers](#step-2--load-card-data--precompiled-k-mers)
+- [Step 3 — Run RGI kmer_query](#step-3--run-rgi-kmer_query)
+- [Step 4 — Summarize and interpret results](#step-4--summarize-and-interpret-results)  
 - [Input types](#input-types)  
 - [Outputs](#outputs)  
-- [Interpreting output](#interpreting-output)  
-- [Build a custom k-mer database](#build-a-custom-k-mer-database-optional)  
+- [CARD k-mer Classifier Output](#card-k-mer-classifier-output)
+- [Build a custom k-mer database](#build-a-custom-k-mer-database-optional)
+- [Contact & issues](#contact--issues)
 
 ---
 
@@ -218,6 +222,79 @@ Each read = one JSON object.
 
 ---
 
+## CARD k-mer Classifier Output
+
+The CARD k-mer classifier produces structured outputs depending on the input type.  
+
+### CARD k-mer Classifier Output for a FASTA file
+
++----------------------------------------------------------+----------------------------------------------------+
+| Field                                                    | Contents                                           |
++==========================================================+====================================================+
+| Sequence                                                 | Sequence defline in the FASTA file                 |
++----------------------------------------------------------+----------------------------------------------------+
+| Total # kmers                                            | Total # k-mers in the sequence                     |
++----------------------------------------------------------+----------------------------------------------------+
+| # of AMR kmers                                           | Total # AMR k-mers in the sequence                 |
++----------------------------------------------------------+----------------------------------------------------+
+| CARD k-mer Prediction                                    | Taxonomic prediction, with indication if the k-mers|
+|                                                          | are known exclusively from chromosomes, exclusively|
+|                                                          | from plasmids, or can be found in either           |
++----------------------------------------------------------+----------------------------------------------------+
+| Taxonomic kmers                                          | Number of k-mer hits broken down by taxonomy       |
++----------------------------------------------------------+----------------------------------------------------+
+| Genomic kmers                                            | Number of k-mer hits exclusive to chromosomes,     |
+|                                                          | exclusively to plasmids, or found in either        |
++----------------------------------------------------------+----------------------------------------------------+
+
+---
+
+### CARD k-mer Classifier Output for RGI main results
+
++----------------------------------------------------------+----------------------------------------------------+
+| Field                                                    | Contents                                           |
++==========================================================+====================================================+
+| ORF_ID                                                   | Open Reading Frame identifier (from RGI results)   |
++----------------------------------------------------------+----------------------------------------------------+
+| Contig                                                   | Source Sequence (from RGI results)                 |
++----------------------------------------------------------+----------------------------------------------------+
+| Cut_Off                                                  | RGI Detection Paradigm (from RGI results)          |
++----------------------------------------------------------+----------------------------------------------------+
+| CARD k-mer Prediction                                    | Taxonomic prediction, with indication if the k-mers|
+|                                                          | are known exclusively from chromosomes, exclusively|
+|                                                          | from plasmids, or can be found in either           |
++----------------------------------------------------------+----------------------------------------------------+
+| Taxonomic kmers                                          | Number of k-mer hits broken down by taxonomy       |
++----------------------------------------------------------+----------------------------------------------------+
+| Genomic kmers                                            | Number of k-mer hits exclusive to chromosomes,     |
+|                                                          | exclusively to plasmids, or found in either        |
++----------------------------------------------------------+----------------------------------------------------+
+
+---
+
+### CARD k-mer Classifier Output for RGI bwt results
+
+As with RGI bwt analysis, output is produced at both the allele and gene level:
+
++----------------------------------------------------------+----------------------------------------------------+
+| Field                                                    | Contents                                           |
++==========================================================+====================================================+
+| Reference Sequence / ARO term                            | Reference allele or gene ARO term to which reads   |
+|                                                          | have been mapped                                   |
++----------------------------------------------------------+----------------------------------------------------+
+| Mapped reads with k-mer DB hits                          | **Number of reads** classified                     |
++----------------------------------------------------------+----------------------------------------------------+
+| CARD k-mer Prediction                                    | **Number of reads** classified for each allele or  |
+|                                                          | gene, with indication if the k-mers are known      |
+|                                                          | exclusively from chromosomes, exclusively from     |
+|                                                          | plasmids, or can be found in either                |
++----------------------------------------------------------+----------------------------------------------------+
+| Subsequent fields                                        | Detected k-mers within the context of the k-mer    |
+|                                                          | logic tree                                         |
++----------------------------------------------------------+----------------------------------------------------+
+
+---
+
 ## Build a custom k-mer database (optional)
 
 CARD provides precompiled 61-mers, but you can also build custom k-mer sets at other sizes (e.g., 31-mers or 15-mers) using `rgi kmer_build`. This is useful if you want to explore accuracy vs. runtime trade-offs.
@@ -241,5 +318,14 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/31_kmer_db.json   
 **Tips**  
 - Smaller k (e.g., 15) → faster queries, slightly less precise.  
 - Larger k (e.g., 61) → higher precision, slower.  
-- Adjust `--minimum` coverage threshold when using smaller k to avoid spurious hits.  
+- Adjust `--minimum` coverage threshold when using smaller k to avoid spurious hits.
+
+## Contact & issues
+
+Questions, bugs, or feature requests?
+
+- Open an issue in this repository (preferred for bugs/feature requests).
+- Email: wlodarsm@mcmaster.ca  
+- Or contact the CARD team: card@mcmaster.ca
+
 
