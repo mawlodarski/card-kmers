@@ -228,47 +228,27 @@ The CARD k-mer classifier produces structured outputs depending on the input typ
 
 ### CARD k-mer Classifier Output for a FASTA file
 
-+----------------------------------------------------------+----------------------------------------------------+
-| Field                                                    | Contents                                           |
-+==========================================================+====================================================+
-| Sequence                                                 | Sequence defline in the FASTA file                 |
-+----------------------------------------------------------+----------------------------------------------------+
-| Total # kmers                                            | Total # k-mers in the sequence                     |
-+----------------------------------------------------------+----------------------------------------------------+
-| # of AMR kmers                                           | Total # AMR k-mers in the sequence                 |
-+----------------------------------------------------------+----------------------------------------------------+
-| CARD k-mer Prediction                                    | Taxonomic prediction, with indication if the k-mers|
-|                                                          | are known exclusively from chromosomes, exclusively|
-|                                                          | from plasmids, or can be found in either           |
-+----------------------------------------------------------+----------------------------------------------------+
-| Taxonomic kmers                                          | Number of k-mer hits broken down by taxonomy       |
-+----------------------------------------------------------+----------------------------------------------------+
-| Genomic kmers                                            | Number of k-mer hits exclusive to chromosomes,     |
-|                                                          | exclusively to plasmids, or found in either        |
-+----------------------------------------------------------+----------------------------------------------------+
+| Field                 | Contents                                                                                              |
+| --------------------- | ----------------------------------------------------------------------------------------------------- |
+| Sequence              | Sequence defline in the FASTA file                                                                    |
+| Total # kmers         | Total number of k-mers in the sequence                                                                |
+| # of AMR kmers        | Total number of AMR k-mers in the sequence                                                            |
+| CARD k-mer Prediction | Taxonomic prediction, with indication if k-mers are chromosome-only, plasmid-only, or present in both |
+| Taxonomic kmers       | Number of k-mer hits broken down by taxonomy                                                          |
+| Genomic kmers         | Number of k-mer hits exclusive to chromosomes, plasmids, or both                                      |
 
 ---
 
 ### CARD k-mer Classifier Output for RGI main results
 
-+----------------------------------------------------------+----------------------------------------------------+
-| Field                                                    | Contents                                           |
-+==========================================================+====================================================+
-| ORF_ID                                                   | Open Reading Frame identifier (from RGI results)   |
-+----------------------------------------------------------+----------------------------------------------------+
-| Contig                                                   | Source Sequence (from RGI results)                 |
-+----------------------------------------------------------+----------------------------------------------------+
-| Cut_Off                                                  | RGI Detection Paradigm (from RGI results)          |
-+----------------------------------------------------------+----------------------------------------------------+
-| CARD k-mer Prediction                                    | Taxonomic prediction, with indication if the k-mers|
-|                                                          | are known exclusively from chromosomes, exclusively|
-|                                                          | from plasmids, or can be found in either           |
-+----------------------------------------------------------+----------------------------------------------------+
-| Taxonomic kmers                                          | Number of k-mer hits broken down by taxonomy       |
-+----------------------------------------------------------+----------------------------------------------------+
-| Genomic kmers                                            | Number of k-mer hits exclusive to chromosomes,     |
-|                                                          | exclusively to plasmids, or found in either        |
-+----------------------------------------------------------+----------------------------------------------------+
+| Field                 | Contents                                                                                              |
+| --------------------- | ----------------------------------------------------------------------------------------------------- |
+| ORF\_ID               | Open Reading Frame identifier (from RGI results)                                                      |
+| Contig                | Source sequence (from RGI results)                                                                    |
+| Cut\_Off              | RGI detection paradigm (from RGI results)                                                             |
+| CARD k-mer Prediction | Taxonomic prediction, with indication if k-mers are chromosome-only, plasmid-only, or present in both |
+| Taxonomic kmers       | Number of k-mer hits broken down by taxonomy                                                          |
+| Genomic kmers         | Number of k-mer hits exclusive to chromosomes, plasmids, or both                                      |
 
 ---
 
@@ -276,22 +256,12 @@ The CARD k-mer classifier produces structured outputs depending on the input typ
 
 As with RGI bwt analysis, output is produced at both the allele and gene level:
 
-+----------------------------------------------------------+----------------------------------------------------+
-| Field                                                    | Contents                                           |
-+==========================================================+====================================================+
-| Reference Sequence / ARO term                            | Reference allele or gene ARO term to which reads   |
-|                                                          | have been mapped                                   |
-+----------------------------------------------------------+----------------------------------------------------+
-| Mapped reads with k-mer DB hits                          | **Number of reads** classified                     |
-+----------------------------------------------------------+----------------------------------------------------+
-| CARD k-mer Prediction                                    | **Number of reads** classified for each allele or  |
-|                                                          | gene, with indication if the k-mers are known      |
-|                                                          | exclusively from chromosomes, exclusively from     |
-|                                                          | plasmids, or can be found in either                |
-+----------------------------------------------------------+----------------------------------------------------+
-| Subsequent fields                                        | Detected k-mers within the context of the k-mer    |
-|                                                          | logic tree                                         |
-+----------------------------------------------------------+----------------------------------------------------+
+| Field                           | Contents                                                                                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Reference Sequence / ARO term   | Reference allele or gene ARO term to which reads have been mapped                                                                    |
+| Mapped reads with k-mer DB hits | **Number of reads** classified                                                                                                       |
+| CARD k-mer Prediction           | **Number of reads** classified for each allele/gene, with indication if k-mers are chromosome-only, plasmid-only, or present in both |
+| Subsequent fields               | Detected k-mers within the context of the k-mer logic tree                                                                           |
 
 ---
 
