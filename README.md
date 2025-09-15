@@ -49,7 +49,7 @@ Supplementary Figures: [supplementary](/supplementary/)
 - **Genomic origin**: predicts chromosome vs plasmid context for mobility risk assessment  
 - **Flexible input**: FASTA, RGI JSON (assemblies), RGI BAM (metagenomic reads)  
 - **Outputs**: human-readable TXT summaries and structured JSON evidence files  
-- **Validation data**: workflows and manifests included to reproduce published benchmarks  
+- **Validation data**: workflows and datasets included to reproduce published benchmarks  
 
 ---
 
