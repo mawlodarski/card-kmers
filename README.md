@@ -14,6 +14,20 @@ General k-mer taxonomic tools (e.g., Kraken2, CLARK) excel on broad sequence spa
 - **Low erroneous call rate** via a conservative decision logic  
 - **Genomic context calls** (chromosome, plasmid, or both)  
 
+The strength of CARD k-mers comes from the **CARD Resistomes, Variants, &
+Prevalence (CARD-R)** dataset, one of the most comprehensive in-silico resources
+for AMR gene diversity. Built by applying the Resistance Gene Identifier (RGI)
+across 414 pathogens, 24,291 chromosomes, 2,662 genomic islands, 48,212 plasmids,
+and 172,216 WGS assemblies, CARD-R captures 279,120 AMR alleles with extensive
+allelic variation. From this resource, pathogen- and context-specific k-mers were
+extracted to form a massive pre-computed reference set that underpins the accuracy
+of CARD k-mers. This scale allows confident predictions of pathogen host and
+genomic context (chromosome vs. plasmid), with results grounded in the curated
+AMR detection models of CARD and continuously improving as new genomes and
+variants are added. Users can explore these data through the
+[CARD Prevalence dataset](https://card.mcmaster.ca/prevalence), with further
+background available in the [CARD 2023 manuscript](https://card.mcmaster.ca).
+
 ---
 
 ## Citation
