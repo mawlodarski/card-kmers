@@ -25,7 +25,7 @@ of CARD k-mers. This scale allows confident predictions of pathogen host and
 genomic context (chromosome vs. plasmid), with results grounded in the curated
 AMR detection models of CARD and continuously improving as new genomes and
 variants are added. Users can explore these data through the
-[CARD Prevalence dataset](https://card.mcmaster.ca/prevalence), with further
+[CARD Resistomes dataset](https://card.mcmaster.ca/prevalence), with further
 background available in the [CARD 2023 manuscript](https://card.mcmaster.ca).
 
 ---
