@@ -164,7 +164,7 @@ rgi kmer_query --fasta --kmer_size 61 --threads 8 --minimum 10   --input data/sa
 
 Both formats report:
 - total k-mers per sequence  
-- # of ARG k-mers  
+- number of AMR k-mers  
 - predicted pathogen (species/genus)  
 - genomic context (chromosome/plasmid/both)  
 
