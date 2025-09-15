@@ -95,8 +95,7 @@ rgi load --card_json ./card.json   --kmer_database ./wildcard/61_kmer_db.json   
 ```
 
 ---
-
-RGI kmer_query
+### Step 3 — Run RGI kmer_query
 
 ```bash
 rgi kmer_query -h
