@@ -4,7 +4,7 @@ message: "If you use CARD k-mers in a publication, please cite:"
 repository-code: "https://github.com/mawlodarski/card-kmers"
 title: "CARD k-mers: Unmasking the pathogen hosts and genomic contexts of antimicrobial resistance genes in metagenomic sequences."
 journal: "bioRxiv"
-doi: "pending"
+doi: "10.1101/2025.09.15.676352"
 authors:
   -
     family-names: "Wlodarski"
