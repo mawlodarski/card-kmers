@@ -3,6 +3,7 @@
 This folder contains the **UMAP analysis** used in the manuscript to explore **unclassified AMR alleles** (i.e. alleles with no confident CARD k-mer assignment).
 
 ## Files
+- **`alleles_species_counts.csv`** — table of each ARG allele in CARD-R and the number of pathogens associated with it  
 - **`unclassified_table.csv`** — input table of unclassified alleles  
   Columns:  
   - `species`: known host species  
