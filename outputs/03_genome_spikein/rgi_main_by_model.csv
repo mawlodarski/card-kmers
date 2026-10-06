@@ -1,0 +1,17 @@
+sample_id,species,run,model_type,n_hits
+C0004,Escherichia coli,all,protein homolog model,50
+C0004,Escherichia coli,all,protein overexpression model,5
+C0004,Escherichia coli,all,protein variant model,3
+C0004,Escherichia coli,phm,protein homolog model,50
+C0039,Klebsiella pneumoniae,all,protein homolog model,22
+C0039,Klebsiella pneumoniae,all,protein overexpression model,2
+C0039,Klebsiella pneumoniae,all,protein variant model,2
+C0039,Klebsiella pneumoniae,phm,protein homolog model,22
+C0224,Pseudomonas aeruginosa,all,protein homolog model,49
+C0224,Pseudomonas aeruginosa,all,protein overexpression model,7
+C0224,Pseudomonas aeruginosa,all,protein variant model,1
+C0224,Pseudomonas aeruginosa,phm,protein homolog model,49
+C1745,Salmonella enterica,all,protein homolog model,34
+C1745,Salmonella enterica,all,protein overexpression model,3
+C1745,Salmonella enterica,all,protein variant model,4
+C1745,Salmonella enterica,phm,protein homolog model,34

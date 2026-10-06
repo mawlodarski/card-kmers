@@ -1,0 +1,11 @@
+tool,true_context,true_n,predicted_category,count,pct_of_true,pct_of_true_lo,pct_of_true_hi,n_predicted,pct_of_predicted,pct_of_predicted_lo,pct_of_predicted_hi,is_exact_match,bootstrap_draws
+CARD k-mers (61-mer),chromosome,7314,chromosome,4590,62.7564,61.6075,63.7818,4605,99.6743,99.5042,99.8278,1,2000
+CARD k-mers (61-mer),chromosome,7314,plasmid,12,0.1641,0.082,0.2598,188,6.383,3.0483,9.7839,0,2000
+CARD k-mers (61-mer),chromosome,7314,chr + plasmid,2587,35.3705,34.3451,36.4643,3268,79.1616,77.7739,80.5297,0,2000
+CARD k-mers (61-mer),chromosome,7314,unclassified,117,1.5997,1.3396,1.9005,138,84.7826,78.2946,90.7153,0,2000
+CARD k-mers (61-mer),chromosome,7314,rejected,8,0.1094,0.041,0.1914,8,100.0,100.0,100.0,0,2000
+CARD k-mers (61-mer),plasmid,893,chromosome,15,1.6797,0.8959,2.5756,4605,0.3257,0.1722,0.4958,0,2000
+CARD k-mers (61-mer),plasmid,893,plasmid,176,19.7088,17.1333,22.2844,188,93.617,90.2161,96.9517,1,2000
+CARD k-mers (61-mer),plasmid,893,chr + plasmid,681,76.2598,73.6842,79.0594,3268,20.8384,19.4703,22.2261,0,2000
+CARD k-mers (61-mer),plasmid,893,unclassified,21,2.3516,1.3438,3.3595,138,15.2174,9.2847,21.7054,0,2000
+CARD k-mers (61-mer),plasmid,893,rejected,0,0.0,0.0,0.0,8,0.0,0.0,0.0,0,2000

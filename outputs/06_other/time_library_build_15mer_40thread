@@ -1,0 +1,23 @@
+	Command being timed: "/workspace/lab/mcarthurlab/wlodarsm/rgi_dev/rgi/rgi kmer_build -i wildcard/ -c card_database_v3.3.0.fasta -k 15 -n 40"
+	User time (seconds): 26037.12
+	System time (seconds): 444.24
+	Percent of CPU this job got: 2708%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 16:17.78
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 8140932
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 33445877
+	Voluntary context switches: 452778
+	Involuntary context switches: 3363249
+	Swaps: 0
+	File system inputs: 4336600
+	File system outputs: 6971264
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

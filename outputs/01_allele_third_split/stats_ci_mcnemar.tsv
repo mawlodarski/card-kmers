@@ -1,0 +1,29 @@
+tool	metric	k	n	estimate_pct	ci_lo_pct	ci_hi_pct
+CARD k-mers (61)	correct species / D	77894	103389	75.341	75.077	75.602
+CARD k-mers (61)	error / D	1292	103389	1.25	1.184	1.319
+CARD k-mers (61)	correct species / calls	77894	82277	94.673	94.517	94.824
+CARD k-mers (61)	error / calls	1292	82277	1.57	1.488	1.658
+CARD k-mers (61)	genus-or-better / D	80985	103389	78.33	78.078	78.58
+Kraken2 (CARD)	correct species / D	81505	103389	78.833	78.583	79.081
+Kraken2 (CARD)	error / D	10483	103389	10.139	9.957	10.325
+Kraken2 (CARD)	correct species / calls	81505	96063	84.845	84.617	85.071
+Kraken2 (CARD)	error / calls	10483	96063	10.913	10.717	11.111
+Kraken2 (CARD)	genus-or-better / D	85580	103389	82.775	82.543	83.004
+Kraken2 (default)	correct species / D	66772	103389	64.583	64.291	64.874
+Kraken2 (default)	error / D	15120	103389	14.624	14.41	14.841
+Kraken2 (default)	correct species / calls	66772	95270	70.087	69.796	70.377
+Kraken2 (default)	error / calls	15120	95270	15.871	15.64	16.104
+Kraken2 (default)	genus-or-better / D	80150	103389	77.523	77.267	77.776
+CLARK	correct species / D	62652	103389	60.598	60.3	60.896
+CLARK	error / D	2098	103389	2.029	1.945	2.117
+CLARK	correct species / calls	62652	68182	91.889	91.682	92.092
+CLARK	error / calls	2098	68182	3.077	2.95	3.209
+CLARK	genus-or-better / D	66084	103389	63.918	63.625	64.21
+
+pair_A	pair_B	b	c	p_exact	p_holm
+CARD k-mers (61)	Kraken2 (CARD)	2021	5632	0.0	0.0
+CARD k-mers (61)	Kraken2 (default)	17180	6058	0.0	0.0
+CARD k-mers (61)	CLARK	19606	4364	0.0	0.0
+Kraken2 (CARD)	Kraken2 (default)	17551	2818	0.0	0.0
+Kraken2 (CARD)	CLARK	21235	2382	0.0	0.0
+Kraken2 (default)	CLARK	7848	3728	0.0	0.0

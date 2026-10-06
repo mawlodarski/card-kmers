@@ -1,66 +1,29 @@
-# Validation Data
+# Validation
 
-This folder contains the curated **training and testing datasets** used to benchmark CARD k-mers against other classifiers (Kraken2, CLARK, KITSUNE) as described in the manuscript. These datasets ensure that validation can be reproduced exactly as reported.
+This folder holds the reusable scoring scripts for CARD k-mers validation. The
+underlying datasets previously stored here (training/testing FASTAs, the CARD-R index,
+and the earlier KITSUNE-era genomic/plasmid validation sets) have been superseded by
+the complete, versioned final-results deposit in **[`/outputs`](/outputs/)**, which backs
+the current manuscript (v10 revision) and additionally covers the k-mer size sweep,
+genome/allele spike-ins, and sewage surveillance tests that this folder predates.
 
----
+- Training/testing splits + CARD-R ground truth → [`/outputs/00_reference_inputs`](/outputs/00_reference_inputs/)
+- Per-allele classifier outputs and scored benchmark tables → [`/outputs/01_allele_third_split`](/outputs/01_allele_third_split/)
 
-## Files overview
-
-- **`card-r.fasta`**  
-  The complete **CARD-R allele reference set**.  
-  - Basis for both training and testing splits.  
-  - Contains all curated AMR alleles sampled across pathogens and plasmids.  
-
-- **`training.fasta`**  
-  The **custom training database** for k-mer methods.  
-  - Used to build the CARD k-mers database.  
-  - Also used as the AMR-restricted database for **Kraken2 (CARD)**.  
-  - Represents ~two-thirds of the CARD-R alleles (training split).  
-
-- **`testing.fasta`**  
-  The **held-out validation sequences** for pathogen benchmarking.  
-  - Used to test **CARD k-mers**, **Kraken2**, **Kraken2 (CARD)**, **CLARK**, and **KITSUNE pathogen classifiers**.  
-  - Contains ~one-third of the CARD-R alleles (test split).  
-  - Each sequence is labeled with the **ground-truth pathogen species/genus** for accuracy evaluation.  
-
-- **`genomic.fasta`**  
-  The **validation sequences for genomic context benchmarking**.  
-  - Used to test **CARD k-mers genomic classifier** (chromosome vs plasmid vs both).  
-  - Sequences are labeled with **genomic context ground truth**.  
-
-- **`plasmid.fasta`**  
-  Specialized validation set for the **KITSUNE k-mer size validation**.  
-
-- **`index-for-model-sequences.json` (or equivalent manifest)**  
-  Mapping file with **ground-truth labels** for all validation sequences.  
-
----
-
-## Reproducing the manuscript tests
-
-Follow these steps to recreate the benchmarking experiments exactly as described:
-
-### 1. Build training/standard databases and classify `testing.fasta`
-- **CARD k-mers**:  
-  ```bash
-  rgi kmer_build     --input_directory training.fasta     --card card-r.fasta     -k 61     --threads 20
-  ```
-- **Kraken2 (CARD)**: build Kraken2 database from `training.fasta`, classify `testing.fasta`
-- **Kraken2**: build Kraken2 standard database, classify `testing.fasta`
-- **CLARK**: build CLARK database, classify `testing.fasta`
-- **KITSUNE**: build pathogen or plasmid k-mer CRE curves with KITSUNE
-
-Compare predictions to **ground truth** in `index-for-model-sequences.json`.  
-
-### 3. Run genomic validation
-- Classify `genomic.fasta` with CARD k-mers genomic classifier.  
-- Compare predicted **chromosome/plasmid/both** labels against genomic type ground truth labels in `index-for-model-sequences.json`.  
+KITSUNE is no longer part of the tool comparison in the current manuscript (only CARD
+k-mers, Kraken2 default, Kraken2 (CARD), and CLARK), so the standalone genomic/plasmid
+validation FASTAs built for it were retired rather than carried forward; genomic-context
+scoring is now done via `per_allele_context.tsv` in `01_allele_third_split`.
 
 ---
 
 # Validation Scripts
 
-This folder includes two Python scripts for scoring **CARD k-mers validation experiments** against the curated ground truth: one for **species/genus accuracy**, and one for **genomic context**.
+Two Python scripts for scoring **CARD k-mers validation experiments** against curated
+ground truth: one for **species/genus accuracy**, and one for **genomic context**. Both
+expect query TXT outputs from FASTA-mode `rgi kmer_query` and a CARD-R index JSON — use
+`/outputs/00_reference_inputs/index-for-model-sequences-cardr-4.0.0.json.gz` (gunzipped)
+as the index.
 
 ---
 
@@ -79,7 +42,7 @@ Evaluates **CARD k-mers TXT (FASTA-mode) outputs** against the CARD-R index to m
 
 ### Usage
 ```bash
-python species_test.py   --card_file data/validation/card_r_index.json   --query_file results/example_fasta.txt
+python species_test.py --card_file index-for-model-sequences-cardr-4.0.0.json --query_file results/example_fasta.txt
 ```
 
 ### Output
@@ -111,21 +74,13 @@ Metrics include:
 
 ### Usage
 ```bash
-python genomic_test.py   --card_file data/validation/card_r_index.json   --query_file results/example_fasta.txt   --ksize 61
+python genomic_test.py --card_file index-for-model-sequences-cardr-4.0.0.json --query_file results/example_fasta.txt --ksize 61
 ```
 
 ## Notes
 - Both scripts expect **query TXT outputs** from FASTA-mode `rgi kmer_query`.  
-- These scripts allow quick reproduction of the **accuracy tables** reported in the manuscript.  
-
-## Notes
-
 - Ground-truth labels are derived from CARD curation of **Resistomes & Variants** and **Prevalence data**.  
 - Use the **same k-mer sizes** reported in the manuscript (CARD k-mers: 61 bp) to replicate results.  
-- For reproducibility, always record:  
-  - CARD data version  
-  - RGI version  
-  - Tool versions (Kraken2, CLARK, KITSUNE)  
-  - k-mer size used  
+- For reproducibility, always record: CARD data version, RGI version, tool versions (Kraken2, CLARK), k-mer size used.
 
 ---

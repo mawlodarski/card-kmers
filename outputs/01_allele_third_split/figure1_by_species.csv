@@ -1,0 +1,1261 @@
+species,tool,tool_key,support,tp,fp,fn,precision,recall,f1,precision_defined,correct_species,genus_only,wrong_species_right_genus,erroneous,unclassified,rejected
+Achromobacter insolitus,CARD k-mers (61-mer),card_kmers_61,25,24,0,1,1.0,0.96,0.979592,1,24,0,0,0,1,0
+Achromobacter xylosoxidans,CARD k-mers (61-mer),card_kmers_61,243,211,1,32,0.995283,0.868313,0.927473,1,211,8,0,2,22,0
+Acinetobacter baumannii,CARD k-mers (61-mer),card_kmers_61,3793,2952,70,841,0.976837,0.778276,0.866324,1,2952,76,22,61,670,12
+Acinetobacter calcoaceticus,CARD k-mers (61-mer),card_kmers_61,74,46,0,28,1.0,0.621622,0.766667,1,46,26,2,0,0,0
+Acinetobacter haemolyticus,CARD k-mers (61-mer),card_kmers_61,19,14,0,5,1.0,0.736842,0.848485,1,14,0,0,1,4,0
+Acinetobacter indicus,CARD k-mers (61-mer),card_kmers_61,13,1,2,12,0.333333,0.076923,0.125,1,1,0,0,1,11,0
+Acinetobacter johnsonii,CARD k-mers (61-mer),card_kmers_61,26,21,0,5,1.0,0.807692,0.893617,1,21,0,1,0,4,0
+Acinetobacter junii,CARD k-mers (61-mer),card_kmers_61,10,7,2,3,0.777778,0.7,0.736842,1,7,0,0,0,3,0
+Acinetobacter lwoffii,CARD k-mers (61-mer),card_kmers_61,19,15,0,4,1.0,0.789474,0.882353,1,15,0,0,0,4,0
+Acinetobacter nosocomialis,CARD k-mers (61-mer),card_kmers_61,211,169,8,42,0.954802,0.800948,0.871134,1,169,32,0,2,7,1
+Acinetobacter pittii,CARD k-mers (61-mer),card_kmers_61,410,299,17,111,0.946203,0.729268,0.823691,1,299,85,10,3,13,0
+Acinetobacter radioresistens,CARD k-mers (61-mer),card_kmers_61,15,9,0,6,1.0,0.6,0.75,1,9,0,2,1,3,0
+Acinetobacter towneri,CARD k-mers (61-mer),card_kmers_61,4,0,0,4,0.0,0.0,0.0,0,0,0,1,1,2,0
+Acinetobacter wuhouensis,CARD k-mers (61-mer),card_kmers_61,3,0,0,3,0.0,0.0,0.0,0,0,0,1,1,1,0
+Actinobacillus indolicus,CARD k-mers (61-mer),card_kmers_61,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Actinobacillus pleuropneumoniae,CARD k-mers (61-mer),card_kmers_61,29,22,0,7,1.0,0.758621,0.862745,1,22,0,0,5,2,0
+Actinobacillus porcitonsillarum,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,1,0,0,0,0
+Aeromonas caviae,CARD k-mers (61-mer),card_kmers_61,156,117,3,39,0.975,0.75,0.847826,1,117,9,1,4,25,0
+Aeromonas enteropelogenes,CARD k-mers (61-mer),card_kmers_61,14,13,0,1,1.0,0.928571,0.962963,1,13,1,0,0,0,0
+Aeromonas hydrophila,CARD k-mers (61-mer),card_kmers_61,187,146,0,41,1.0,0.780749,0.876877,1,146,32,2,1,6,0
+Aeromonas veronii,CARD k-mers (61-mer),card_kmers_61,284,236,4,48,0.983333,0.830986,0.900763,1,236,33,0,0,15,0
+Aggregatibacter actinomycetemcomitans,CARD k-mers (61-mer),card_kmers_61,41,41,0,0,1.0,1.0,1.0,1,41,0,0,0,0,0
+Alcaligenes faecalis,CARD k-mers (61-mer),card_kmers_61,22,19,0,3,1.0,0.863636,0.926829,1,19,0,0,1,2,0
+Aliarcobacter butzleri,CARD k-mers (61-mer),card_kmers_61,39,39,0,0,1.0,1.0,1.0,1,39,0,0,0,0,0
+Anaerostipes hadrus,CARD k-mers (61-mer),card_kmers_61,16,15,1,1,0.9375,0.9375,0.9375,1,15,0,0,0,1,0
+Avibacterium paragallinarum,CARD k-mers (61-mer),card_kmers_61,16,9,4,7,0.692308,0.5625,0.62069,1,9,0,0,0,7,0
+Bacillus amyloliquefaciens,CARD k-mers (61-mer),card_kmers_61,35,15,4,20,0.789474,0.428571,0.555556,1,15,1,12,0,7,0
+Bacillus anthracis,CARD k-mers (61-mer),card_kmers_61,23,9,1,14,0.9,0.391304,0.545455,1,9,4,8,0,1,1
+Bacillus cereus,CARD k-mers (61-mer),card_kmers_61,640,408,75,232,0.84472,0.6375,0.726625,1,408,103,39,1,89,0
+Bacillus halotolerans,CARD k-mers (61-mer),card_kmers_61,50,48,0,2,1.0,0.96,0.979592,1,48,2,0,0,0,0
+Bacillus pumilus,CARD k-mers (61-mer),card_kmers_61,59,53,1,6,0.981481,0.898305,0.938053,1,53,0,0,0,6,0
+Bacillus subtilis,CARD k-mers (61-mer),card_kmers_61,560,539,5,21,0.990809,0.9625,0.976449,1,539,7,2,3,9,0
+Bacillus tequilensis,CARD k-mers (61-mer),card_kmers_61,11,8,0,3,1.0,0.727273,0.842105,1,8,1,2,0,0,0
+Bacillus thuringiensis,CARD k-mers (61-mer),card_kmers_61,260,97,39,163,0.713235,0.373077,0.489899,1,97,37,66,3,57,0
+Bacillus velezensis,CARD k-mers (61-mer),card_kmers_61,119,81,14,38,0.852632,0.680672,0.757009,1,81,10,5,3,20,0
+Bacteroides caccae,CARD k-mers (61-mer),card_kmers_61,16,12,0,4,1.0,0.75,0.857143,1,12,0,1,0,3,0
+Bacteroides fragilis,CARD k-mers (61-mer),card_kmers_61,142,90,4,52,0.957447,0.633803,0.762712,1,90,0,1,2,49,0
+Bacteroides ovatus,CARD k-mers (61-mer),card_kmers_61,36,18,6,18,0.75,0.5,0.6,1,18,0,2,2,13,1
+Bacteroides thetaiotaomicron,CARD k-mers (61-mer),card_kmers_61,62,25,5,37,0.833333,0.403226,0.543478,1,25,0,3,3,31,0
+Bifidobacterium animalis,CARD k-mers (61-mer),card_kmers_61,9,7,0,2,1.0,0.777778,0.875,1,7,0,0,1,1,0
+Bifidobacterium bifidum,CARD k-mers (61-mer),card_kmers_61,43,37,1,6,0.973684,0.860465,0.91358,1,37,0,0,0,6,0
+Bifidobacterium breve,CARD k-mers (61-mer),card_kmers_61,34,24,0,10,1.0,0.705882,0.827586,1,24,1,2,1,6,0
+Bifidobacterium dentium,CARD k-mers (61-mer),card_kmers_61,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Bifidobacterium longum,CARD k-mers (61-mer),card_kmers_61,142,113,2,29,0.982609,0.795775,0.879377,1,113,3,1,5,20,0
+Bifidobacterium thermophilum,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Blautia producta,CARD k-mers (61-mer),card_kmers_61,5,1,3,4,0.25,0.2,0.222222,1,1,0,0,1,2,1
+Bordetella bronchiseptica,CARD k-mers (61-mer),card_kmers_61,27,21,1,6,0.954545,0.777778,0.857143,1,21,0,2,1,3,0
+Bordetella hinzii,CARD k-mers (61-mer),card_kmers_61,14,14,0,0,1.0,1.0,1.0,1,14,0,0,0,0,0
+Bordetella holmesii,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Bordetella parapertussis,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Bordetella pertussis,CARD k-mers (61-mer),card_kmers_61,2,2,3,0,0.4,1.0,0.571429,1,2,0,0,0,0,0
+Bordetella petrii,CARD k-mers (61-mer),card_kmers_61,5,1,0,4,1.0,0.2,0.333333,1,1,0,0,0,3,1
+Bordetella trematum,CARD k-mers (61-mer),card_kmers_61,13,12,0,1,1.0,0.923077,0.96,1,12,0,0,1,0,0
+Brachyspira pilosicoli,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Brevibacillus brevis,CARD k-mers (61-mer),card_kmers_61,31,30,0,1,1.0,0.967742,0.983607,1,30,0,0,0,1,0
+Brevibacillus laterosporus,CARD k-mers (61-mer),card_kmers_61,19,18,0,1,1.0,0.947368,0.972973,1,18,0,0,0,1,0
+Brucella abortus,CARD k-mers (61-mer),card_kmers_61,13,7,0,6,1.0,0.538462,0.7,1,7,0,1,0,5,0
+Brucella canis,CARD k-mers (61-mer),card_kmers_61,3,1,0,2,1.0,0.333333,0.5,1,1,0,1,0,1,0
+Brucella inopinata,CARD k-mers (61-mer),card_kmers_61,2,1,0,1,1.0,0.5,0.666667,1,1,1,0,0,0,0
+Brucella intermedia,CARD k-mers (61-mer),card_kmers_61,12,12,1,0,0.923077,1.0,0.96,1,12,0,0,0,0,0
+Brucella melitensis,CARD k-mers (61-mer),card_kmers_61,17,17,1,0,0.944444,1.0,0.971429,1,17,0,0,0,0,0
+Brucella ovis,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Brucella suis,CARD k-mers (61-mer),card_kmers_61,7,6,2,1,0.75,0.857143,0.8,1,6,0,0,0,1,0
+Burkholderia ambifaria,CARD k-mers (61-mer),card_kmers_61,70,55,0,15,1.0,0.785714,0.88,1,55,14,1,0,0,0
+Burkholderia cenocepacia,CARD k-mers (61-mer),card_kmers_61,234,191,9,43,0.955,0.816239,0.880184,1,191,39,0,1,3,0
+Burkholderia cepacia,CARD k-mers (61-mer),card_kmers_61,280,214,0,66,1.0,0.764286,0.866397,1,214,53,9,2,2,0
+Burkholderia contaminans,CARD k-mers (61-mer),card_kmers_61,67,42,1,25,0.976744,0.626866,0.763636,1,42,21,0,1,3,0
+Burkholderia dolosa,CARD k-mers (61-mer),card_kmers_61,12,8,0,4,1.0,0.666667,0.8,1,8,4,0,0,0,0
+Burkholderia glumae,CARD k-mers (61-mer),card_kmers_61,6,5,0,1,1.0,0.833333,0.909091,1,5,1,0,0,0,0
+Burkholderia lata,CARD k-mers (61-mer),card_kmers_61,40,12,1,28,0.923077,0.3,0.45283,1,12,24,1,0,3,0
+Burkholderia mallei,CARD k-mers (61-mer),card_kmers_61,6,3,0,3,1.0,0.5,0.666667,1,3,1,0,0,2,0
+Burkholderia multivorans,CARD k-mers (61-mer),card_kmers_61,219,200,0,19,1.0,0.913242,0.954654,1,200,17,0,1,1,0
+Burkholderia oklahomensis,CARD k-mers (61-mer),card_kmers_61,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Burkholderia pseudomallei,CARD k-mers (61-mer),card_kmers_61,302,288,1,14,0.99654,0.953642,0.974619,1,288,3,0,4,7,0
+Burkholderia thailandensis,CARD k-mers (61-mer),card_kmers_61,18,13,0,5,1.0,0.722222,0.83871,1,13,5,0,0,0,0
+Burkholderia vietnamiensis,CARD k-mers (61-mer),card_kmers_61,69,64,0,5,1.0,0.927536,0.962406,1,64,5,0,0,0,0
+Campylobacter coli,CARD k-mers (61-mer),card_kmers_61,265,111,12,154,0.902439,0.418868,0.572165,1,111,17,13,3,120,1
+Campylobacter concisus,CARD k-mers (61-mer),card_kmers_61,44,44,0,0,1.0,1.0,1.0,1,44,0,0,0,0,0
+Campylobacter fetus,CARD k-mers (61-mer),card_kmers_61,3,2,0,1,1.0,0.666667,0.8,1,2,0,0,0,1,0
+Campylobacter jejuni,CARD k-mers (61-mer),card_kmers_61,678,496,16,182,0.96875,0.731563,0.833613,1,496,21,9,3,147,2
+Campylobacter showae,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Capnocytophaga gingivalis,CARD k-mers (61-mer),card_kmers_61,1,0,1,1,0.0,0.0,0.0,1,0,0,0,0,1,0
+Capnocytophaga sputigena,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Chlamydia psittaci,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Chlamydia suis,CARD k-mers (61-mer),card_kmers_61,26,26,2,0,0.928571,1.0,0.962963,1,26,0,0,0,0,0
+Chlamydia trachomatis,CARD k-mers (61-mer),card_kmers_61,20,19,0,1,1.0,0.95,0.974359,1,19,1,0,0,0,0
+Chryseobacterium nakagawai,CARD k-mers (61-mer),card_kmers_61,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Chryseobacterium taklimakanense,CARD k-mers (61-mer),card_kmers_61,1,0,2,1,0.0,0.0,0.0,1,0,0,0,0,1,0
+Citrobacter amalonaticus,CARD k-mers (61-mer),card_kmers_61,226,197,1,29,0.994949,0.871681,0.929245,1,197,2,6,1,18,2
+Citrobacter freundii,CARD k-mers (61-mer),card_kmers_61,1038,766,37,272,0.953923,0.737958,0.832156,1,766,64,36,14,158,0
+Citrobacter koseri,CARD k-mers (61-mer),card_kmers_61,217,208,2,9,0.990476,0.958525,0.974239,1,208,1,0,1,7,0
+Citrobacter portucalensis,CARD k-mers (61-mer),card_kmers_61,258,131,37,127,0.779762,0.507752,0.615023,1,131,47,12,9,59,0
+Citrobacter werkmanii,CARD k-mers (61-mer),card_kmers_61,140,80,5,60,0.941176,0.571429,0.711111,1,80,16,10,3,30,1
+Citrobacter youngae,CARD k-mers (61-mer),card_kmers_61,69,33,4,36,0.891892,0.478261,0.622642,1,33,20,5,2,9,0
+Clostridium botulinum,CARD k-mers (61-mer),card_kmers_61,68,53,0,15,1.0,0.779412,0.876033,1,53,7,3,0,5,0
+Clostridium butyricum,CARD k-mers (61-mer),card_kmers_61,10,9,0,1,1.0,0.9,0.947368,1,9,0,0,0,1,0
+Clostridium perfringens,CARD k-mers (61-mer),card_kmers_61,77,71,1,6,0.986111,0.922078,0.95302,1,71,0,0,2,3,1
+Clostridium sporogenes,CARD k-mers (61-mer),card_kmers_61,18,5,3,13,0.625,0.277778,0.384615,1,5,13,0,0,0,0
+Clostridium tetani,CARD k-mers (61-mer),card_kmers_61,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Collinsella aerofaciens,CARD k-mers (61-mer),card_kmers_61,8,4,2,4,0.666667,0.5,0.571429,1,4,0,0,0,4,0
+Comamonas testosteroni,CARD k-mers (61-mer),card_kmers_61,12,11,0,1,1.0,0.916667,0.956522,1,11,0,0,0,1,0
+Corynebacterium amycolatum,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Corynebacterium diphtheriae,CARD k-mers (61-mer),card_kmers_61,10,2,2,8,0.5,0.2,0.285714,1,2,0,0,3,5,0
+Corynebacterium jeikeium,CARD k-mers (61-mer),card_kmers_61,6,3,1,3,0.75,0.5,0.6,1,3,1,0,0,2,0
+Corynebacterium urealyticum,CARD k-mers (61-mer),card_kmers_61,2,1,0,1,1.0,0.5,0.666667,1,1,0,1,0,0,0
+Coxiella burnetii,CARD k-mers (61-mer),card_kmers_61,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Cronobacter condimenti,CARD k-mers (61-mer),card_kmers_61,5,2,0,3,1.0,0.4,0.571429,1,2,0,1,0,1,1
+Cronobacter dublinensis,CARD k-mers (61-mer),card_kmers_61,131,117,2,14,0.983193,0.89313,0.936,1,117,6,0,0,8,0
+Cronobacter malonaticus,CARD k-mers (61-mer),card_kmers_61,92,57,3,35,0.95,0.619565,0.75,1,57,23,1,0,11,0
+Cronobacter sakazakii,CARD k-mers (61-mer),card_kmers_61,354,320,3,34,0.990712,0.903955,0.945347,1,320,21,2,0,11,0
+Cronobacter turicensis,CARD k-mers (61-mer),card_kmers_61,38,22,0,16,1.0,0.578947,0.733333,1,22,15,0,0,1,0
+Cronobacter universalis,CARD k-mers (61-mer),card_kmers_61,6,1,1,5,0.5,0.166667,0.25,1,1,2,2,0,0,1
+Cupriavidus campinensis,CARD k-mers (61-mer),card_kmers_61,5,4,0,1,1.0,0.8,0.888889,1,4,1,0,0,0,0
+Cupriavidus metallidurans,CARD k-mers (61-mer),card_kmers_61,8,6,0,2,1.0,0.75,0.857143,1,6,1,0,0,1,0
+Cutibacterium acnes,CARD k-mers (61-mer),card_kmers_61,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Delftia tsuruhatensis,CARD k-mers (61-mer),card_kmers_61,10,8,0,2,1.0,0.8,0.888889,1,8,0,0,0,1,1
+Edwardsiella tarda,CARD k-mers (61-mer),card_kmers_61,35,33,0,2,1.0,0.942857,0.970588,1,33,0,0,1,1,0
+Eggerthella lenta,CARD k-mers (61-mer),card_kmers_61,6,1,0,5,1.0,0.166667,0.285714,1,1,0,0,0,5,0
+Eikenella corrodens,CARD k-mers (61-mer),card_kmers_61,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Elizabethkingia anophelis,CARD k-mers (61-mer),card_kmers_61,71,61,0,10,1.0,0.859155,0.924242,1,61,5,0,0,5,0
+Elizabethkingia miricola,CARD k-mers (61-mer),card_kmers_61,24,13,1,11,0.928571,0.541667,0.684211,1,13,8,0,1,2,0
+Enterobacter asburiae,CARD k-mers (61-mer),card_kmers_61,562,364,26,198,0.933333,0.647687,0.764706,1,364,91,21,3,83,0
+Enterobacter cancerogenus,CARD k-mers (61-mer),card_kmers_61,64,51,0,13,1.0,0.796875,0.886957,1,51,5,2,0,6,0
+Enterobacter chengduensis,CARD k-mers (61-mer),card_kmers_61,18,3,1,15,0.75,0.166667,0.272727,1,3,7,3,0,5,0
+Enterobacter cloacae,CARD k-mers (61-mer),card_kmers_61,825,557,43,268,0.928333,0.675152,0.781754,1,557,97,60,8,101,2
+Enterobacter hormaechei,CARD k-mers (61-mer),card_kmers_61,1870,1292,73,578,0.94652,0.690909,0.798764,1,1292,50,16,65,446,1
+Enterobacter kobei,CARD k-mers (61-mer),card_kmers_61,304,230,10,74,0.958333,0.756579,0.845588,1,230,14,7,8,44,1
+Enterobacter roggenkampii,CARD k-mers (61-mer),card_kmers_61,531,411,26,120,0.940503,0.774011,0.849174,1,411,45,13,2,60,0
+Enterocloster clostridioformis,CARD k-mers (61-mer),card_kmers_61,18,9,2,9,0.818182,0.5,0.62069,1,9,0,0,1,8,0
+Enterococcus faecalis,CARD k-mers (61-mer),card_kmers_61,549,347,16,202,0.955923,0.632058,0.760965,1,347,0,14,9,179,0
+Enterococcus faecium,CARD k-mers (61-mer),card_kmers_61,773,317,32,456,0.908309,0.410091,0.565062,1,317,2,5,22,425,2
+Enterococcus hirae,CARD k-mers (61-mer),card_kmers_61,18,10,1,8,0.909091,0.555556,0.689655,1,10,0,1,3,4,0
+Erysipelatoclostridium ramosum,CARD k-mers (61-mer),card_kmers_61,4,0,0,4,0.0,0.0,0.0,0,0,0,0,3,1,0
+Erysipelothrix rhusiopathiae,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Escherichia albertii,CARD k-mers (61-mer),card_kmers_61,663,623,18,40,0.971919,0.939668,0.955521,1,623,25,4,0,11,0
+Escherichia coli,CARD k-mers (61-mer),card_kmers_61,31823,21298,498,10525,0.977152,0.669264,0.79442,1,21298,129,41,245,10073,37
+Escherichia fergusonii,CARD k-mers (61-mer),card_kmers_61,353,198,13,155,0.938389,0.560907,0.702128,1,198,85,22,4,43,1
+Escherichia marmotae,CARD k-mers (61-mer),card_kmers_61,251,213,12,38,0.946667,0.848606,0.894958,1,213,14,10,0,14,0
+Eubacterium maltosivorans,CARD k-mers (61-mer),card_kmers_61,1,0,1,1,0.0,0.0,0.0,1,0,1,0,0,0,0
+Faecalibacterium prausnitzii,CARD k-mers (61-mer),card_kmers_61,14,4,0,10,1.0,0.285714,0.444444,1,4,0,0,3,7,0
+Francisella philomiragia,CARD k-mers (61-mer),card_kmers_61,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Francisella tularensis,CARD k-mers (61-mer),card_kmers_61,11,10,0,1,1.0,0.909091,0.952381,1,10,0,0,0,1,0
+Fusobacterium nucleatum,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Gardnerella vaginalis,CARD k-mers (61-mer),card_kmers_61,30,27,0,3,1.0,0.9,0.947368,1,27,0,0,0,3,0
+Glaesserella parasuis,CARD k-mers (61-mer),card_kmers_61,45,38,1,7,0.974359,0.844444,0.904762,1,38,0,0,0,7,0
+Granulibacter bethesdensis,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Haemophilus influenzae,CARD k-mers (61-mer),card_kmers_61,207,196,0,11,1.0,0.94686,0.972705,1,196,2,1,3,5,0
+Haemophilus parainfluenzae,CARD k-mers (61-mer),card_kmers_61,49,42,1,7,0.976744,0.857143,0.913043,1,42,4,0,1,2,0
+Helicobacter cinaedi,CARD k-mers (61-mer),card_kmers_61,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Helicobacter pullorum,CARD k-mers (61-mer),card_kmers_61,8,4,0,4,1.0,0.5,0.666667,1,4,0,0,0,4,0
+Helicobacter pylori,CARD k-mers (61-mer),card_kmers_61,3933,3930,2,3,0.999491,0.999237,0.999364,1,3930,0,0,0,2,1
+Histophilus somni,CARD k-mers (61-mer),card_kmers_61,21,14,0,7,1.0,0.666667,0.8,1,14,0,0,2,5,0
+Inquilinus limosus,CARD k-mers (61-mer),card_kmers_61,4,3,0,1,1.0,0.75,0.857143,1,3,0,0,0,0,1
+Klebsiella aerogenes,CARD k-mers (61-mer),card_kmers_61,619,550,7,69,0.987433,0.88853,0.935374,1,550,9,3,13,44,0
+Klebsiella huaxiensis,CARD k-mers (61-mer),card_kmers_61,17,10,5,7,0.666667,0.588235,0.625,1,10,3,1,0,3,0
+Klebsiella michiganensis,CARD k-mers (61-mer),card_kmers_61,619,514,34,105,0.937956,0.830372,0.880891,1,514,26,2,11,64,2
+Klebsiella oxytoca,CARD k-mers (61-mer),card_kmers_61,358,295,6,63,0.980066,0.824022,0.895296,1,295,8,26,4,25,0
+Klebsiella pneumoniae,CARD k-mers (61-mer),card_kmers_61,6586,3817,135,2769,0.96584,0.579563,0.724426,1,3817,70,25,215,2433,26
+Klebsiella quasipneumoniae,CARD k-mers (61-mer),card_kmers_61,1300,1092,24,208,0.978495,0.84,0.903974,1,1092,36,11,6,154,1
+Kosakonia arachidis,CARD k-mers (61-mer),card_kmers_61,5,0,0,5,0.0,0.0,0.0,0,0,0,0,0,4,1
+Lactobacillus crispatus,CARD k-mers (61-mer),card_kmers_61,10,5,0,5,1.0,0.5,0.666667,1,5,0,0,0,5,0
+Lactobacillus iners,CARD k-mers (61-mer),card_kmers_61,8,4,0,4,1.0,0.5,0.666667,1,4,0,0,0,4,0
+Lactobacillus johnsonii,CARD k-mers (61-mer),card_kmers_61,6,2,7,4,0.222222,0.333333,0.266667,1,2,0,0,0,4,0
+Lactococcus garvieae,CARD k-mers (61-mer),card_kmers_61,8,6,0,2,1.0,0.75,0.857143,1,6,0,0,1,1,0
+Laribacter hongkongensis,CARD k-mers (61-mer),card_kmers_61,27,23,2,4,0.92,0.851852,0.884615,1,23,0,0,2,1,1
+Leclercia adecarboxylata,CARD k-mers (61-mer),card_kmers_61,98,94,1,4,0.989474,0.959184,0.974093,1,94,0,0,1,3,0
+Legionella pneumophila,CARD k-mers (61-mer),card_kmers_61,44,40,0,4,1.0,0.909091,0.952381,1,40,0,0,1,3,0
+Leminorella grimontii,CARD k-mers (61-mer),card_kmers_61,3,0,0,3,0.0,0.0,0.0,0,0,0,0,0,3,0
+Leptospira borgpetersenii,CARD k-mers (61-mer),card_kmers_61,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Ligilactobacillus animalis,CARD k-mers (61-mer),card_kmers_61,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Listeria innocua,CARD k-mers (61-mer),card_kmers_61,52,43,0,9,1.0,0.826923,0.905263,1,43,7,0,1,1,0
+Listeria monocytogenes,CARD k-mers (61-mer),card_kmers_61,355,325,5,30,0.984848,0.915493,0.948905,1,325,8,0,8,13,1
+Macrococcus canis,CARD k-mers (61-mer),card_kmers_61,18,13,2,5,0.866667,0.722222,0.787879,1,13,0,0,3,2,0
+Megasphaera stantonii,CARD k-mers (61-mer),card_kmers_61,3,0,0,3,0.0,0.0,0.0,0,0,0,0,0,3,0
+Methylorubrum populi,CARD k-mers (61-mer),card_kmers_61,3,2,0,1,1.0,0.666667,0.8,1,2,0,0,0,1,0
+Micrococcus luteus,CARD k-mers (61-mer),card_kmers_61,4,3,0,1,1.0,0.75,0.857143,1,3,0,0,0,1,0
+Mobiluncus mulieris,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Moraxella catarrhalis,CARD k-mers (61-mer),card_kmers_61,35,27,1,8,0.964286,0.771429,0.857143,1,27,0,0,3,5,0
+Moraxella osloensis,CARD k-mers (61-mer),card_kmers_61,12,10,0,2,1.0,0.833333,0.909091,1,10,0,0,0,2,0
+Morganella morganii,CARD k-mers (61-mer),card_kmers_61,219,183,7,36,0.963158,0.835616,0.894866,1,183,0,0,1,35,0
+Mycobacterium avium,CARD k-mers (61-mer),card_kmers_61,44,31,1,13,0.96875,0.704545,0.815789,1,31,1,0,2,10,0
+Mycobacterium colombiense,CARD k-mers (61-mer),card_kmers_61,25,23,0,2,1.0,0.92,0.958333,1,23,1,0,0,1,0
+Mycobacterium intracellulare,CARD k-mers (61-mer),card_kmers_61,43,40,0,3,1.0,0.930233,0.963855,1,40,3,0,0,0,0
+Mycobacterium kansasii,CARD k-mers (61-mer),card_kmers_61,7,5,0,2,1.0,0.714286,0.833333,1,5,2,0,0,0,0
+Mycobacterium leprae,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Mycobacterium lepromatosis,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Mycobacterium marinum,CARD k-mers (61-mer),card_kmers_61,10,4,2,6,0.666667,0.4,0.5,1,4,2,1,0,3,0
+Mycobacterium tuberculosis,CARD k-mers (61-mer),card_kmers_61,937,842,2,95,0.99763,0.898613,0.945536,1,842,4,0,3,88,0
+Mycobacterium ulcerans,CARD k-mers (61-mer),card_kmers_61,4,1,1,3,0.5,0.25,0.333333,1,1,0,2,0,1,0
+Mycolicibacterium fortuitum,CARD k-mers (61-mer),card_kmers_61,44,44,0,0,1.0,1.0,1.0,1,44,0,0,0,0,0
+Mycolicibacterium septicum,CARD k-mers (61-mer),card_kmers_61,7,7,0,0,1.0,1.0,1.0,1,7,0,0,0,0,0
+Mycoplasma genitalium,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Mycoplasma mycoides,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Mycoplasma pneumoniae,CARD k-mers (61-mer),card_kmers_61,5,5,0,0,1.0,1.0,1.0,1,5,0,0,0,0,0
+Myroides odoratimimus,CARD k-mers (61-mer),card_kmers_61,7,6,0,1,1.0,0.857143,0.923077,1,6,0,0,1,0,0
+Myroides phaeus,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Neisseria brasiliensis,CARD k-mers (61-mer),card_kmers_61,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,1,0,0
+Neisseria gonorrhoeae,CARD k-mers (61-mer),card_kmers_61,363,328,5,35,0.984985,0.903581,0.942529,1,328,19,1,0,14,1
+Neisseria meningitidis,CARD k-mers (61-mer),card_kmers_61,792,751,6,41,0.992074,0.948232,0.969658,1,751,29,3,1,7,1
+Neisseria sicca,CARD k-mers (61-mer),card_kmers_61,7,1,0,6,1.0,0.142857,0.25,1,1,3,0,0,3,0
+Neisseria subflava,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Nocardia farcinica,CARD k-mers (61-mer),card_kmers_61,32,29,0,3,1.0,0.90625,0.95082,1,29,0,0,1,2,0
+Nocardia terpenica,CARD k-mers (61-mer),card_kmers_61,2,0,0,2,0.0,0.0,0.0,0,0,0,0,0,2,0
+Orrella dioscoreae,CARD k-mers (61-mer),card_kmers_61,1,0,1,1,0.0,0.0,0.0,1,0,0,0,0,1,0
+Paeniclostridium sordellii,CARD k-mers (61-mer),card_kmers_61,12,9,1,3,0.9,0.75,0.818182,1,9,0,0,0,3,0
+Parabacteroides distasonis,CARD k-mers (61-mer),card_kmers_61,51,25,2,26,0.925926,0.490196,0.641026,1,25,0,0,3,23,0
+Paracoccus denitrificans,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Parascardovia denticolens,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Pasteurella multocida,CARD k-mers (61-mer),card_kmers_61,111,81,5,30,0.94186,0.72973,0.822335,1,81,0,0,7,23,0
+Pectobacterium parmentieri,CARD k-mers (61-mer),card_kmers_61,22,22,1,0,0.956522,1.0,0.977778,1,22,0,0,0,0,0
+Phocaeicola dorei,CARD k-mers (61-mer),card_kmers_61,38,12,3,26,0.8,0.315789,0.45283,1,12,0,2,4,20,0
+Phocaeicola massiliensis,CARD k-mers (61-mer),card_kmers_61,10,9,1,1,0.9,0.9,0.9,1,9,1,0,0,0,0
+Phocaeicola vulgatus,CARD k-mers (61-mer),card_kmers_61,90,40,5,50,0.888889,0.444444,0.592593,1,40,0,2,4,44,0
+Photobacterium profundum,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Photorhabdus asymbiotica,CARD k-mers (61-mer),card_kmers_61,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,0,1
+Plesiomonas shigelloides,CARD k-mers (61-mer),card_kmers_61,55,53,0,2,1.0,0.963636,0.981481,1,53,0,0,0,2,0
+Porphyromonas gingivalis,CARD k-mers (61-mer),card_kmers_61,7,7,0,0,1.0,1.0,1.0,1,7,0,0,0,0,0
+Prevotella bivia,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Prevotella intermedia,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Propionibacterium freudenreichii,CARD k-mers (61-mer),card_kmers_61,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Proteus columbae,CARD k-mers (61-mer),card_kmers_61,8,0,1,8,0.0,0.0,0.0,1,0,2,4,0,2,0
+Proteus mirabilis,CARD k-mers (61-mer),card_kmers_61,338,254,11,84,0.958491,0.751479,0.842454,1,254,3,3,13,63,2
+Proteus penneri,CARD k-mers (61-mer),card_kmers_61,12,6,1,6,0.857143,0.5,0.631579,1,6,3,0,1,2,0
+Proteus vulgaris,CARD k-mers (61-mer),card_kmers_61,56,34,8,22,0.809524,0.607143,0.693878,1,34,7,3,2,8,2
+Providencia alcalifaciens,CARD k-mers (61-mer),card_kmers_61,47,37,3,10,0.925,0.787234,0.850575,1,37,7,2,0,1,0
+Providencia heimbachae,CARD k-mers (61-mer),card_kmers_61,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Providencia rettgeri,CARD k-mers (61-mer),card_kmers_61,183,144,7,39,0.953642,0.786885,0.862275,1,144,2,3,2,31,1
+Providencia stuartii,CARD k-mers (61-mer),card_kmers_61,80,61,1,19,0.983871,0.7625,0.859155,1,61,0,1,1,16,1
+Pseudomonas aeruginosa,CARD k-mers (61-mer),card_kmers_61,13325,12791,155,534,0.988027,0.959925,0.973773,1,12791,5,4,42,466,17
+Pseudomonas brassicacearum,CARD k-mers (61-mer),card_kmers_61,30,10,6,20,0.625,0.333333,0.434783,1,10,13,2,0,3,2
+Pseudomonas chlororaphis,CARD k-mers (61-mer),card_kmers_61,137,121,0,16,1.0,0.883212,0.937984,1,121,9,2,0,4,1
+Pseudomonas fluorescens,CARD k-mers (61-mer),card_kmers_61,307,140,16,167,0.897436,0.456026,0.604752,1,140,119,17,0,27,4
+Pseudomonas koreensis,CARD k-mers (61-mer),card_kmers_61,27,3,5,24,0.375,0.111111,0.171429,1,3,20,3,0,1,0
+Pseudomonas mendocina,CARD k-mers (61-mer),card_kmers_61,30,23,0,7,1.0,0.766667,0.867925,1,23,1,1,0,5,0
+Pseudomonas monteilii,CARD k-mers (61-mer),card_kmers_61,34,18,5,16,0.782609,0.529412,0.631579,1,18,4,6,1,5,0
+Pseudomonas putida,CARD k-mers (61-mer),card_kmers_61,182,132,12,50,0.916667,0.725275,0.809816,1,132,37,5,1,5,2
+Pseudomonas stutzeri,CARD k-mers (61-mer),card_kmers_61,114,92,2,22,0.978723,0.807018,0.884615,1,92,4,1,1,16,0
+Pseudomonas synxantha,CARD k-mers (61-mer),card_kmers_61,20,11,0,9,1.0,0.55,0.709677,1,11,8,1,0,0,0
+Pseudomonas syringae,CARD k-mers (61-mer),card_kmers_61,237,210,1,27,0.995261,0.886076,0.9375,1,210,7,6,0,11,3
+Ralstonia mannitolilytica,CARD k-mers (61-mer),card_kmers_61,9,4,0,5,1.0,0.444444,0.615385,1,4,2,3,0,0,0
+Ralstonia pickettii,CARD k-mers (61-mer),card_kmers_61,17,11,5,6,0.6875,0.647059,0.666667,1,11,6,0,0,0,0
+Ralstonia solanacearum,CARD k-mers (61-mer),card_kmers_61,60,55,0,5,1.0,0.916667,0.956522,1,55,3,1,0,1,0
+Raoultella planticola,CARD k-mers (61-mer),card_kmers_61,144,138,6,6,0.958333,0.958333,0.958333,1,138,0,0,0,6,0
+Rhizobium leguminosarum,CARD k-mers (61-mer),card_kmers_61,298,290,0,8,1.0,0.973154,0.986395,1,290,0,0,2,6,0
+Rhodanobacter glycinis,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Rhodococcus pyridinivorans,CARD k-mers (61-mer),card_kmers_61,3,2,1,1,0.666667,0.666667,0.666667,1,2,0,0,0,1,0
+Rhodococcus rhodochrous,CARD k-mers (61-mer),card_kmers_61,4,3,0,1,1.0,0.75,0.857143,1,3,0,1,0,0,0
+Rhodopseudomonas palustris,CARD k-mers (61-mer),card_kmers_61,11,9,0,2,1.0,0.818182,0.9,1,9,0,0,0,2,0
+Riemerella anatipestifer,CARD k-mers (61-mer),card_kmers_61,39,24,1,15,0.96,0.615385,0.75,1,24,0,0,2,12,1
+Roseburia hominis,CARD k-mers (61-mer),card_kmers_61,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Rothia mucilaginosa,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Salmonella bongori,CARD k-mers (61-mer),card_kmers_61,73,63,1,10,0.984375,0.863014,0.919708,1,63,10,0,0,0,0
+Salmonella enterica,CARD k-mers (61-mer),card_kmers_61,5635,4977,46,658,0.990842,0.88323,0.933946,1,4977,6,0,40,603,9
+Schaalia odontolytica,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Serratia liquefaciens,CARD k-mers (61-mer),card_kmers_61,64,63,0,1,1.0,0.984375,0.992126,1,63,1,0,0,0,0
+Serratia marcescens,CARD k-mers (61-mer),card_kmers_61,888,804,10,84,0.987715,0.905405,0.944771,1,804,3,0,23,57,1
+Serratia odorifera,CARD k-mers (61-mer),card_kmers_61,5,2,0,3,1.0,0.4,0.571429,1,2,3,0,0,0,0
+Serratia rubidaea,CARD k-mers (61-mer),card_kmers_61,29,28,0,1,1.0,0.965517,0.982456,1,28,0,0,0,1,0
+Shewanella putrefaciens,CARD k-mers (61-mer),card_kmers_61,20,17,0,3,1.0,0.85,0.918919,1,17,0,0,0,3,0
+Shigella boydii,CARD k-mers (61-mer),card_kmers_61,201,44,29,157,0.60274,0.218905,0.321168,1,44,2,9,47,99,0
+Shigella dysenteriae,CARD k-mers (61-mer),card_kmers_61,131,39,14,92,0.735849,0.29771,0.423913,1,39,0,5,36,51,0
+Shigella flexneri,CARD k-mers (61-mer),card_kmers_61,438,153,33,285,0.822581,0.349315,0.490385,1,153,2,3,55,225,0
+Shigella sonnei,CARD k-mers (61-mer),card_kmers_61,464,146,20,318,0.879518,0.314655,0.463492,1,146,1,1,47,267,2
+Sphingobium yanoikuyae,CARD k-mers (61-mer),card_kmers_61,9,8,0,1,1.0,0.888889,0.941176,1,8,0,0,0,1,0
+Staphylococcus arlettae,CARD k-mers (61-mer),card_kmers_61,34,31,0,3,1.0,0.911765,0.953846,1,31,0,0,0,3,0
+Staphylococcus aureus,CARD k-mers (61-mer),card_kmers_61,3984,2572,53,1412,0.97981,0.645582,0.778333,1,2572,2,14,26,1365,5
+Staphylococcus capitis,CARD k-mers (61-mer),card_kmers_61,49,37,2,12,0.948718,0.755102,0.840909,1,37,1,0,0,11,0
+Staphylococcus epidermidis,CARD k-mers (61-mer),card_kmers_61,430,235,16,195,0.936255,0.546512,0.690162,1,235,2,13,2,175,3
+Staphylococcus equorum,CARD k-mers (61-mer),card_kmers_61,42,34,1,8,0.971429,0.809524,0.883117,1,34,0,1,0,7,0
+Staphylococcus haemolyticus,CARD k-mers (61-mer),card_kmers_61,146,70,10,76,0.875,0.479452,0.619469,1,70,5,4,0,66,1
+Staphylococcus hominis,CARD k-mers (61-mer),card_kmers_61,57,31,0,26,1.0,0.54386,0.704545,1,31,0,5,1,20,0
+Staphylococcus intermedius,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Staphylococcus lugdunensis,CARD k-mers (61-mer),card_kmers_61,8,4,1,4,0.8,0.5,0.615385,1,4,0,2,0,2,0
+Staphylococcus massiliensis,CARD k-mers (61-mer),card_kmers_61,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Staphylococcus pasteuri,CARD k-mers (61-mer),card_kmers_61,14,8,0,6,1.0,0.571429,0.727273,1,8,1,2,0,3,0
+Staphylococcus pseudintermedius,CARD k-mers (61-mer),card_kmers_61,143,25,1,118,0.961538,0.174825,0.295858,1,25,1,3,2,110,2
+Staphylococcus saprophyticus,CARD k-mers (61-mer),card_kmers_61,54,40,3,14,0.930233,0.740741,0.824742,1,40,0,1,0,13,0
+Staphylococcus schleiferi,CARD k-mers (61-mer),card_kmers_61,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Staphylococcus simulans,CARD k-mers (61-mer),card_kmers_61,29,22,0,7,1.0,0.758621,0.862745,1,22,0,1,0,6,0
+Staphylococcus warneri,CARD k-mers (61-mer),card_kmers_61,40,23,5,17,0.821429,0.575,0.676471,1,23,2,4,0,11,0
+Stenotrophomonas maltophilia,CARD k-mers (61-mer),card_kmers_61,750,676,15,74,0.978292,0.901333,0.938237,1,676,0,0,40,33,1
+Streptobacillus moniliformis,CARD k-mers (61-mer),card_kmers_61,2,0,0,2,0.0,0.0,0.0,0,0,0,0,0,2,0
+Streptococcus agalactiae,CARD k-mers (61-mer),card_kmers_61,114,62,4,52,0.939394,0.54386,0.688889,1,62,1,8,0,43,0
+Streptococcus anginosus,CARD k-mers (61-mer),card_kmers_61,6,1,0,5,1.0,0.166667,0.285714,1,1,0,1,0,4,0
+Streptococcus canis,CARD k-mers (61-mer),card_kmers_61,6,4,0,2,1.0,0.666667,0.8,1,4,1,0,0,1,0
+Streptococcus cristatus,CARD k-mers (61-mer),card_kmers_61,19,15,1,4,0.9375,0.789474,0.857143,1,15,1,2,0,1,0
+Streptococcus dysgalactiae,CARD k-mers (61-mer),card_kmers_61,47,29,1,18,0.966667,0.617021,0.753247,1,29,4,2,2,9,1
+Streptococcus equi,CARD k-mers (61-mer),card_kmers_61,24,21,0,3,1.0,0.875,0.933333,1,21,0,1,0,2,0
+Streptococcus gallolyticus,CARD k-mers (61-mer),card_kmers_61,5,4,0,1,1.0,0.8,0.888889,1,4,0,0,0,1,0
+Streptococcus gordonii,CARD k-mers (61-mer),card_kmers_61,34,30,1,4,0.967742,0.882353,0.923077,1,30,0,1,0,3,0
+Streptococcus iniae,CARD k-mers (61-mer),card_kmers_61,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Streptococcus intermedius,CARD k-mers (61-mer),card_kmers_61,2,0,2,2,0.0,0.0,0.0,1,0,0,0,0,2,0
+Streptococcus mitis,CARD k-mers (61-mer),card_kmers_61,119,26,7,93,0.787879,0.218487,0.342105,1,26,84,3,0,6,0
+Streptococcus mutans,CARD k-mers (61-mer),card_kmers_61,38,38,0,0,1.0,1.0,1.0,1,38,0,0,0,0,0
+Streptococcus pasteurianus,CARD k-mers (61-mer),card_kmers_61,5,0,0,5,0.0,0.0,0.0,0,0,0,1,1,3,0
+Streptococcus pneumoniae,CARD k-mers (61-mer),card_kmers_61,754,585,12,169,0.979899,0.775862,0.866025,1,585,32,7,5,124,1
+Streptococcus porcinus,CARD k-mers (61-mer),card_kmers_61,2,0,0,2,0.0,0.0,0.0,0,0,1,0,0,1,0
+Streptococcus pseudopneumoniae,CARD k-mers (61-mer),card_kmers_61,71,36,6,35,0.857143,0.507042,0.637168,1,36,23,6,0,6,0
+Streptococcus pseudoporcinus,CARD k-mers (61-mer),card_kmers_61,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Streptococcus pyogenes,CARD k-mers (61-mer),card_kmers_61,210,181,8,29,0.957672,0.861905,0.907268,1,181,3,2,3,21,0
+Streptococcus sanguinis,CARD k-mers (61-mer),card_kmers_61,48,36,3,12,0.923077,0.75,0.827586,1,36,6,0,0,6,0
+Streptococcus sobrinus,CARD k-mers (61-mer),card_kmers_61,19,19,0,0,1.0,1.0,1.0,1,19,0,0,0,0,0
+Streptococcus suis,CARD k-mers (61-mer),card_kmers_61,387,165,20,222,0.891892,0.426357,0.576923,1,165,1,4,22,194,1
+Streptococcus uberis,CARD k-mers (61-mer),card_kmers_61,31,31,2,0,0.939394,1.0,0.96875,1,31,0,0,0,0,0
+Thalassospira indica,CARD k-mers (61-mer),card_kmers_61,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Trueperella pyogenes,CARD k-mers (61-mer),card_kmers_61,5,1,0,4,1.0,0.2,0.333333,1,1,0,0,1,3,0
+Vibrio alginolyticus,CARD k-mers (61-mer),card_kmers_61,212,172,10,40,0.945055,0.811321,0.873096,1,172,14,2,1,20,3
+Vibrio cholerae,CARD k-mers (61-mer),card_kmers_61,473,393,4,80,0.989924,0.830867,0.903448,1,393,9,3,9,59,0
+Vibrio fluvialis,CARD k-mers (61-mer),card_kmers_61,87,82,0,5,1.0,0.942529,0.970414,1,82,0,1,0,4,0
+Vibrio harveyi,CARD k-mers (61-mer),card_kmers_61,59,52,0,7,1.0,0.881356,0.936937,1,52,4,2,0,1,0
+Vibrio metoecus,CARD k-mers (61-mer),card_kmers_61,22,13,0,9,1.0,0.590909,0.742857,1,13,8,1,0,0,0
+Vibrio mimicus,CARD k-mers (61-mer),card_kmers_61,22,20,0,2,1.0,0.909091,0.952381,1,20,2,0,0,0,0
+Vibrio owensii,CARD k-mers (61-mer),card_kmers_61,31,15,1,16,0.9375,0.483871,0.638298,1,15,16,0,0,0,0
+Vibrio parahaemolyticus,CARD k-mers (61-mer),card_kmers_61,1277,1044,8,233,0.992395,0.817541,0.896522,1,1044,21,9,6,195,2
+Vibrio vulnificus,CARD k-mers (61-mer),card_kmers_61,204,190,0,14,1.0,0.931373,0.964467,1,190,1,1,8,4,0
+Achromobacter insolitus,Kraken2 (CARD),kraken2_card,25,24,1,1,0.96,0.96,0.96,1,24,0,1,0,0,0
+Achromobacter xylosoxidans,Kraken2 (CARD),kraken2_card,243,233,3,10,0.987288,0.958848,0.97286,1,233,0,1,5,4,0
+Acinetobacter baumannii,Kraken2 (CARD),kraken2_card,3793,3079,109,714,0.965809,0.811759,0.882109,1,3079,4,96,200,414,0
+Acinetobacter calcoaceticus,Kraken2 (CARD),kraken2_card,74,65,2,9,0.970149,0.878378,0.921986,1,65,0,9,0,0,0
+Acinetobacter haemolyticus,Kraken2 (CARD),kraken2_card,19,15,1,4,0.9375,0.789474,0.857143,1,15,0,0,1,3,0
+Acinetobacter indicus,Kraken2 (CARD),kraken2_card,13,1,3,12,0.25,0.076923,0.117647,1,1,0,1,5,6,0
+Acinetobacter johnsonii,Kraken2 (CARD),kraken2_card,26,21,0,5,1.0,0.807692,0.893617,1,21,0,2,2,1,0
+Acinetobacter junii,Kraken2 (CARD),kraken2_card,10,7,3,3,0.7,0.7,0.7,1,7,0,0,1,2,0
+Acinetobacter lwoffii,Kraken2 (CARD),kraken2_card,19,15,0,4,1.0,0.789474,0.882353,1,15,0,3,1,0,0
+Acinetobacter nosocomialis,Kraken2 (CARD),kraken2_card,211,198,13,13,0.938389,0.938389,0.938389,1,198,0,6,2,5,0
+Acinetobacter pittii,Kraken2 (CARD),kraken2_card,410,378,49,32,0.885246,0.921951,0.903226,1,378,0,18,5,9,0
+Acinetobacter radioresistens,Kraken2 (CARD),kraken2_card,15,9,0,6,1.0,0.6,0.75,1,9,0,2,1,3,0
+Acinetobacter towneri,Kraken2 (CARD),kraken2_card,4,1,1,3,0.5,0.25,0.333333,1,1,0,0,2,1,0
+Acinetobacter wuhouensis,Kraken2 (CARD),kraken2_card,3,0,0,3,0.0,0.0,0.0,0,0,0,1,1,1,0
+Actinobacillus indolicus,Kraken2 (CARD),kraken2_card,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,1,0,0
+Actinobacillus pleuropneumoniae,Kraken2 (CARD),kraken2_card,29,22,0,7,1.0,0.758621,0.862745,1,22,0,0,5,2,0
+Actinobacillus porcitonsillarum,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Aeromonas caviae,Kraken2 (CARD),kraken2_card,156,124,9,32,0.932331,0.794872,0.858131,1,124,1,4,8,19,0
+Aeromonas enteropelogenes,Kraken2 (CARD),kraken2_card,14,14,1,0,0.933333,1.0,0.965517,1,14,0,0,0,0,0
+Aeromonas hydrophila,Kraken2 (CARD),kraken2_card,187,177,8,10,0.956757,0.946524,0.951613,1,177,0,5,2,3,0
+Aeromonas veronii,Kraken2 (CARD),kraken2_card,284,267,9,17,0.967391,0.940141,0.953571,1,267,0,5,3,9,0
+Aggregatibacter actinomycetemcomitans,Kraken2 (CARD),kraken2_card,41,41,0,0,1.0,1.0,1.0,1,41,0,0,0,0,0
+Alcaligenes faecalis,Kraken2 (CARD),kraken2_card,22,20,0,2,1.0,0.909091,0.952381,1,20,0,0,1,1,0
+Aliarcobacter butzleri,Kraken2 (CARD),kraken2_card,39,39,0,0,1.0,1.0,1.0,1,39,0,0,0,0,0
+Anaerostipes hadrus,Kraken2 (CARD),kraken2_card,16,15,4,1,0.789474,0.9375,0.857143,1,15,0,0,1,0,0
+Avibacterium paragallinarum,Kraken2 (CARD),kraken2_card,16,11,3,5,0.785714,0.6875,0.733333,1,11,0,0,2,3,0
+Bacillus amyloliquefaciens,Kraken2 (CARD),kraken2_card,35,20,26,15,0.434783,0.571429,0.493827,1,20,0,11,0,4,0
+Bacillus anthracis,Kraken2 (CARD),kraken2_card,23,9,0,14,1.0,0.391304,0.5625,1,9,0,14,0,0,0
+Bacillus cereus,Kraken2 (CARD),kraken2_card,640,565,164,75,0.775034,0.882812,0.82542,1,565,0,66,5,4,0
+Bacillus halotolerans,Kraken2 (CARD),kraken2_card,50,50,1,0,0.980392,1.0,0.990099,1,50,0,0,0,0,0
+Bacillus pumilus,Kraken2 (CARD),kraken2_card,59,57,1,2,0.982759,0.966102,0.974359,1,57,0,0,0,2,0
+Bacillus subtilis,Kraken2 (CARD),kraken2_card,560,548,8,12,0.985612,0.978571,0.982079,1,548,0,3,4,5,0
+Bacillus tequilensis,Kraken2 (CARD),kraken2_card,11,9,0,2,1.0,0.818182,0.9,1,9,0,2,0,0,0
+Bacillus thuringiensis,Kraken2 (CARD),kraken2_card,260,104,68,156,0.604651,0.4,0.481481,1,104,0,149,4,3,0
+Bacillus velezensis,Kraken2 (CARD),kraken2_card,119,79,13,40,0.858696,0.663866,0.748815,1,79,0,29,3,8,0
+Bacteroides caccae,Kraken2 (CARD),kraken2_card,16,12,0,4,1.0,0.75,0.857143,1,12,3,0,0,1,0
+Bacteroides fragilis,Kraken2 (CARD),kraken2_card,142,90,4,52,0.957447,0.633803,0.762712,1,90,5,1,8,38,0
+Bacteroides ovatus,Kraken2 (CARD),kraken2_card,36,18,5,18,0.782609,0.5,0.610169,1,18,0,1,5,12,0
+Bacteroides thetaiotaomicron,Kraken2 (CARD),kraken2_card,62,25,4,37,0.862069,0.403226,0.549451,1,25,2,3,8,24,0
+Bifidobacterium animalis,Kraken2 (CARD),kraken2_card,9,7,0,2,1.0,0.777778,0.875,1,7,0,0,2,0,0
+Bifidobacterium bifidum,Kraken2 (CARD),kraken2_card,43,37,1,6,0.973684,0.860465,0.91358,1,37,0,0,4,2,0
+Bifidobacterium breve,Kraken2 (CARD),kraken2_card,34,25,1,9,0.961538,0.735294,0.833333,1,25,0,2,6,1,0
+Bifidobacterium dentium,Kraken2 (CARD),kraken2_card,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Bifidobacterium longum,Kraken2 (CARD),kraken2_card,142,112,2,30,0.982456,0.788732,0.875,1,112,5,2,17,6,0
+Bifidobacterium thermophilum,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Blautia producta,Kraken2 (CARD),kraken2_card,5,1,1,4,0.5,0.2,0.285714,1,1,0,0,4,0,0
+Bordetella bronchiseptica,Kraken2 (CARD),kraken2_card,27,21,1,6,0.954545,0.777778,0.857143,1,21,0,2,2,2,0
+Bordetella hinzii,Kraken2 (CARD),kraken2_card,14,14,0,0,1.0,1.0,1.0,1,14,0,0,0,0,0
+Bordetella holmesii,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Bordetella parapertussis,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Bordetella pertussis,Kraken2 (CARD),kraken2_card,2,2,3,0,0.4,1.0,0.571429,1,2,0,0,0,0,0
+Bordetella petrii,Kraken2 (CARD),kraken2_card,5,5,0,0,1.0,1.0,1.0,1,5,0,0,0,0,0
+Bordetella trematum,Kraken2 (CARD),kraken2_card,13,12,0,1,1.0,0.923077,0.96,1,12,0,0,1,0,0
+Brachyspira pilosicoli,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Brevibacillus brevis,Kraken2 (CARD),kraken2_card,31,31,0,0,1.0,1.0,1.0,1,31,0,0,0,0,0
+Brevibacillus laterosporus,Kraken2 (CARD),kraken2_card,19,18,0,1,1.0,0.947368,0.972973,1,18,0,0,0,1,0
+Brucella abortus,Kraken2 (CARD),kraken2_card,13,7,0,6,1.0,0.538462,0.7,1,7,2,1,0,3,0
+Brucella canis,Kraken2 (CARD),kraken2_card,3,1,0,2,1.0,0.333333,0.5,1,1,1,1,0,0,0
+Brucella inopinata,Kraken2 (CARD),kraken2_card,2,2,1,0,0.666667,1.0,0.8,1,2,0,0,0,0,0
+Brucella intermedia,Kraken2 (CARD),kraken2_card,12,12,0,0,1.0,1.0,1.0,1,12,0,0,0,0,0
+Brucella melitensis,Kraken2 (CARD),kraken2_card,17,17,1,0,0.944444,1.0,0.971429,1,17,0,0,0,0,0
+Brucella ovis,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Brucella suis,Kraken2 (CARD),kraken2_card,7,6,1,1,0.857143,0.857143,0.857143,1,6,0,0,0,1,0
+Burkholderia ambifaria,Kraken2 (CARD),kraken2_card,70,69,4,1,0.945205,0.985714,0.965035,1,69,0,1,0,0,0
+Burkholderia cenocepacia,Kraken2 (CARD),kraken2_card,234,228,13,6,0.946058,0.974359,0.96,1,228,0,3,2,1,0
+Burkholderia cepacia,Kraken2 (CARD),kraken2_card,280,261,4,19,0.984906,0.932143,0.957798,1,261,0,16,2,1,0
+Burkholderia contaminans,Kraken2 (CARD),kraken2_card,67,60,2,7,0.967742,0.895522,0.930233,1,60,0,3,4,0,0
+Burkholderia dolosa,Kraken2 (CARD),kraken2_card,12,12,0,0,1.0,1.0,1.0,1,12,0,0,0,0,0
+Burkholderia glumae,Kraken2 (CARD),kraken2_card,6,6,0,0,1.0,1.0,1.0,1,6,0,0,0,0,0
+Burkholderia lata,Kraken2 (CARD),kraken2_card,40,35,5,5,0.875,0.875,0.875,1,35,0,4,1,0,0
+Burkholderia mallei,Kraken2 (CARD),kraken2_card,6,1,16,5,0.058824,0.166667,0.086957,1,1,0,3,0,2,0
+Burkholderia multivorans,Kraken2 (CARD),kraken2_card,219,217,0,2,1.0,0.990868,0.995413,1,217,0,0,1,1,0
+Burkholderia oklahomensis,Kraken2 (CARD),kraken2_card,4,4,4,0,0.5,1.0,0.666667,1,4,0,0,0,0,0
+Burkholderia pseudomallei,Kraken2 (CARD),kraken2_card,302,277,4,25,0.985765,0.917219,0.950257,1,277,0,18,7,0,0
+Burkholderia thailandensis,Kraken2 (CARD),kraken2_card,18,16,0,2,1.0,0.888889,0.941176,1,16,0,2,0,0,0
+Burkholderia vietnamiensis,Kraken2 (CARD),kraken2_card,69,68,1,1,0.985507,0.985507,0.985507,1,68,0,1,0,0,0
+Campylobacter coli,Kraken2 (CARD),kraken2_card,265,142,15,123,0.904459,0.535849,0.672986,1,142,38,29,17,39,0
+Campylobacter concisus,Kraken2 (CARD),kraken2_card,44,44,0,0,1.0,1.0,1.0,1,44,0,0,0,0,0
+Campylobacter fetus,Kraken2 (CARD),kraken2_card,3,2,0,1,1.0,0.666667,0.8,1,2,0,1,0,0,0
+Campylobacter jejuni,Kraken2 (CARD),kraken2_card,678,593,36,85,0.942766,0.874631,0.907422,1,593,37,12,15,21,0
+Campylobacter showae,Kraken2 (CARD),kraken2_card,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Capnocytophaga gingivalis,Kraken2 (CARD),kraken2_card,1,0,1,1,0.0,0.0,0.0,1,0,0,0,0,1,0
+Capnocytophaga sputigena,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Chlamydia psittaci,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Chlamydia suis,Kraken2 (CARD),kraken2_card,26,26,1,0,0.962963,1.0,0.981132,1,26,0,0,0,0,0
+Chlamydia trachomatis,Kraken2 (CARD),kraken2_card,20,20,1,0,0.952381,1.0,0.97561,1,20,0,0,0,0,0
+Chryseobacterium nakagawai,Kraken2 (CARD),kraken2_card,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Chryseobacterium taklimakanense,Kraken2 (CARD),kraken2_card,1,0,3,1,0.0,0.0,0.0,1,0,0,0,0,1,0
+Citrobacter amalonaticus,Kraken2 (CARD),kraken2_card,226,207,10,19,0.953917,0.915929,0.934537,1,207,0,14,5,0,0
+Citrobacter freundii,Kraken2 (CARD),kraken2_card,1038,878,151,160,0.853256,0.845857,0.84954,1,878,2,57,51,50,0
+Citrobacter koseri,Kraken2 (CARD),kraken2_card,217,203,13,14,0.939815,0.935484,0.937644,1,203,1,0,13,0,0
+Citrobacter portucalensis,Kraken2 (CARD),kraken2_card,258,149,62,109,0.706161,0.577519,0.635394,1,149,0,77,19,13,0
+Citrobacter werkmanii,Kraken2 (CARD),kraken2_card,140,90,15,50,0.857143,0.642857,0.734694,1,90,1,24,14,11,0
+Citrobacter youngae,Kraken2 (CARD),kraken2_card,69,50,19,19,0.724638,0.724638,0.724638,1,50,2,14,3,0,0
+Clostridium botulinum,Kraken2 (CARD),kraken2_card,68,59,3,9,0.951613,0.867647,0.907692,1,59,0,7,0,2,0
+Clostridium butyricum,Kraken2 (CARD),kraken2_card,10,9,0,1,1.0,0.9,0.947368,1,9,0,0,0,1,0
+Clostridium perfringens,Kraken2 (CARD),kraken2_card,77,72,2,5,0.972973,0.935065,0.953642,1,72,0,0,2,3,0
+Clostridium sporogenes,Kraken2 (CARD),kraken2_card,18,15,7,3,0.681818,0.833333,0.75,1,15,0,3,0,0,0
+Clostridium tetani,Kraken2 (CARD),kraken2_card,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Collinsella aerofaciens,Kraken2 (CARD),kraken2_card,8,3,1,5,0.75,0.375,0.5,1,3,0,0,2,3,0
+Comamonas testosteroni,Kraken2 (CARD),kraken2_card,12,12,0,0,1.0,1.0,1.0,1,12,0,0,0,0,0
+Corynebacterium amycolatum,Kraken2 (CARD),kraken2_card,1,1,2,0,0.333333,1.0,0.5,1,1,0,0,0,0,0
+Corynebacterium diphtheriae,Kraken2 (CARD),kraken2_card,10,2,2,8,0.5,0.2,0.285714,1,2,0,0,5,3,0
+Corynebacterium jeikeium,Kraken2 (CARD),kraken2_card,6,4,1,2,0.8,0.666667,0.727273,1,4,0,1,0,1,0
+Corynebacterium urealyticum,Kraken2 (CARD),kraken2_card,2,1,0,1,1.0,0.5,0.666667,1,1,0,1,0,0,0
+Coxiella burnetii,Kraken2 (CARD),kraken2_card,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Cronobacter condimenti,Kraken2 (CARD),kraken2_card,5,2,1,3,0.666667,0.4,0.5,1,2,0,3,0,0,0
+Cronobacter dublinensis,Kraken2 (CARD),kraken2_card,131,124,5,7,0.96124,0.946565,0.953846,1,124,0,2,3,2,0
+Cronobacter malonaticus,Kraken2 (CARD),kraken2_card,92,81,7,11,0.920455,0.880435,0.9,1,81,6,2,1,2,0
+Cronobacter sakazakii,Kraken2 (CARD),kraken2_card,354,334,4,20,0.988166,0.943503,0.965318,1,334,7,4,5,4,0
+Cronobacter turicensis,Kraken2 (CARD),kraken2_card,38,37,2,1,0.948718,0.973684,0.961039,1,37,1,0,0,0,0
+Cronobacter universalis,Kraken2 (CARD),kraken2_card,6,1,2,5,0.333333,0.166667,0.222222,1,1,0,5,0,0,0
+Cupriavidus campinensis,Kraken2 (CARD),kraken2_card,5,5,0,0,1.0,1.0,1.0,1,5,0,0,0,0,0
+Cupriavidus metallidurans,Kraken2 (CARD),kraken2_card,8,7,0,1,1.0,0.875,0.933333,1,7,0,0,1,0,0
+Cutibacterium acnes,Kraken2 (CARD),kraken2_card,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Delftia tsuruhatensis,Kraken2 (CARD),kraken2_card,10,10,0,0,1.0,1.0,1.0,1,10,0,0,0,0,0
+Edwardsiella tarda,Kraken2 (CARD),kraken2_card,35,33,0,2,1.0,0.942857,0.970588,1,33,0,0,1,1,0
+Eggerthella lenta,Kraken2 (CARD),kraken2_card,6,1,0,5,1.0,0.166667,0.285714,1,1,0,0,2,3,0
+Eikenella corrodens,Kraken2 (CARD),kraken2_card,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Elizabethkingia anophelis,Kraken2 (CARD),kraken2_card,71,66,0,5,1.0,0.929577,0.963504,1,66,0,0,0,5,0
+Elizabethkingia miricola,Kraken2 (CARD),kraken2_card,24,23,1,1,0.958333,0.958333,0.958333,1,23,0,0,1,0,0
+Enterobacter asburiae,Kraken2 (CARD),kraken2_card,562,420,61,142,0.873181,0.747331,0.805369,1,420,0,114,11,17,0
+Enterobacter cancerogenus,Kraken2 (CARD),kraken2_card,64,54,9,10,0.857143,0.84375,0.850394,1,54,0,10,0,0,0
+Enterobacter chengduensis,Kraken2 (CARD),kraken2_card,18,9,1,9,0.9,0.5,0.642857,1,9,0,7,2,0,0
+Enterobacter cloacae,Kraken2 (CARD),kraken2_card,825,666,360,159,0.649123,0.807273,0.719611,1,666,0,104,35,20,0
+Enterobacter hormaechei,Kraken2 (CARD),kraken2_card,1870,1293,133,577,0.906732,0.691444,0.784587,1,1293,0,142,301,134,0
+Enterobacter kobei,Kraken2 (CARD),kraken2_card,304,223,20,81,0.917695,0.733553,0.815356,1,223,0,30,40,11,0
+Enterobacter roggenkampii,Kraken2 (CARD),kraken2_card,531,422,45,109,0.90364,0.794727,0.845691,1,422,0,83,19,7,0
+Enterocloster clostridioformis,Kraken2 (CARD),kraken2_card,18,11,6,7,0.647059,0.611111,0.628571,1,11,0,0,3,4,0
+Enterococcus faecalis,Kraken2 (CARD),kraken2_card,549,356,38,193,0.903553,0.648452,0.755037,1,356,10,31,23,129,0
+Enterococcus faecium,Kraken2 (CARD),kraken2_card,773,390,142,383,0.733083,0.504528,0.597701,1,390,42,17,60,264,0
+Enterococcus hirae,Kraken2 (CARD),kraken2_card,18,9,0,9,1.0,0.5,0.666667,1,9,1,2,5,1,0
+Erysipelatoclostridium ramosum,Kraken2 (CARD),kraken2_card,4,0,0,4,0.0,0.0,0.0,0,0,0,0,3,1,0
+Erysipelothrix rhusiopathiae,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Escherichia albertii,Kraken2 (CARD),kraken2_card,663,640,60,23,0.914286,0.965309,0.939105,1,640,6,7,10,0,0
+Escherichia coli,Kraken2 (CARD),kraken2_card,31823,22641,856,9182,0.96357,0.711467,0.818547,1,22641,632,123,6129,2298,0
+Escherichia fergusonii,Kraken2 (CARD),kraken2_card,353,263,34,90,0.885522,0.745042,0.809231,1,263,15,39,23,13,0
+Escherichia marmotae,Kraken2 (CARD),kraken2_card,251,220,38,31,0.852713,0.876494,0.86444,1,220,7,19,4,1,0
+Eubacterium maltosivorans,Kraken2 (CARD),kraken2_card,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Faecalibacterium prausnitzii,Kraken2 (CARD),kraken2_card,14,5,0,9,1.0,0.357143,0.526316,1,5,0,0,8,1,0
+Francisella philomiragia,Kraken2 (CARD),kraken2_card,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Francisella tularensis,Kraken2 (CARD),kraken2_card,11,10,0,1,1.0,0.909091,0.952381,1,10,0,0,0,1,0
+Fusobacterium nucleatum,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Gardnerella vaginalis,Kraken2 (CARD),kraken2_card,30,27,0,3,1.0,0.9,0.947368,1,27,0,0,2,1,0
+Glaesserella parasuis,Kraken2 (CARD),kraken2_card,45,39,1,6,0.975,0.866667,0.917647,1,39,0,0,2,4,0
+Granulibacter bethesdensis,Kraken2 (CARD),kraken2_card,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Haemophilus influenzae,Kraken2 (CARD),kraken2_card,207,200,1,7,0.995025,0.966184,0.980392,1,200,0,1,4,2,0
+Haemophilus parainfluenzae,Kraken2 (CARD),kraken2_card,49,46,1,3,0.978723,0.938776,0.958333,1,46,0,0,1,2,0
+Helicobacter cinaedi,Kraken2 (CARD),kraken2_card,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Helicobacter pullorum,Kraken2 (CARD),kraken2_card,8,4,0,4,1.0,0.5,0.666667,1,4,0,0,2,2,0
+Helicobacter pylori,Kraken2 (CARD),kraken2_card,3933,3933,3,0,0.999238,1.0,0.999619,1,3933,0,0,0,0,0
+Histophilus somni,Kraken2 (CARD),kraken2_card,21,14,0,7,1.0,0.666667,0.8,1,14,0,0,2,5,0
+Inquilinus limosus,Kraken2 (CARD),kraken2_card,4,4,1,0,0.8,1.0,0.888889,1,4,0,0,0,0,0
+Klebsiella aerogenes,Kraken2 (CARD),kraken2_card,619,522,15,97,0.972067,0.843296,0.903114,1,522,29,11,51,6,0
+Klebsiella huaxiensis,Kraken2 (CARD),kraken2_card,17,14,9,3,0.608696,0.823529,0.7,1,14,0,2,1,0,0
+Klebsiella michiganensis,Kraken2 (CARD),kraken2_card,619,519,41,100,0.926786,0.838449,0.880407,1,519,16,13,57,14,0
+Klebsiella oxytoca,Kraken2 (CARD),kraken2_card,358,305,17,53,0.947205,0.851955,0.897059,1,305,2,35,10,6,0
+Klebsiella pneumoniae,Kraken2 (CARD),kraken2_card,6586,3803,399,2783,0.905045,0.577437,0.705043,1,3803,206,43,1247,1287,0
+Klebsiella quasipneumoniae,Kraken2 (CARD),kraken2_card,1300,1128,54,172,0.954315,0.867692,0.908944,1,1128,18,25,68,61,0
+Kosakonia arachidis,Kraken2 (CARD),kraken2_card,5,0,2,5,0.0,0.0,0.0,1,0,0,0,5,0,0
+Lactobacillus crispatus,Kraken2 (CARD),kraken2_card,10,6,0,4,1.0,0.6,0.75,1,6,0,0,1,3,0
+Lactobacillus iners,Kraken2 (CARD),kraken2_card,8,4,0,4,1.0,0.5,0.666667,1,4,0,0,4,0,0
+Lactobacillus johnsonii,Kraken2 (CARD),kraken2_card,6,2,6,4,0.25,0.333333,0.285714,1,2,2,0,1,1,0
+Lactococcus garvieae,Kraken2 (CARD),kraken2_card,8,6,0,2,1.0,0.75,0.857143,1,6,0,0,2,0,0
+Laribacter hongkongensis,Kraken2 (CARD),kraken2_card,27,23,1,4,0.958333,0.851852,0.901961,1,23,0,0,2,2,0
+Leclercia adecarboxylata,Kraken2 (CARD),kraken2_card,98,96,7,2,0.932039,0.979592,0.955224,1,96,0,0,2,0,0
+Legionella pneumophila,Kraken2 (CARD),kraken2_card,44,40,0,4,1.0,0.909091,0.952381,1,40,0,0,1,3,0
+Leminorella grimontii,Kraken2 (CARD),kraken2_card,3,0,0,3,0.0,0.0,0.0,0,0,0,0,3,0,0
+Leptospira borgpetersenii,Kraken2 (CARD),kraken2_card,2,0,0,2,0.0,0.0,0.0,0,0,0,0,2,0,0
+Ligilactobacillus animalis,Kraken2 (CARD),kraken2_card,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Listeria innocua,Kraken2 (CARD),kraken2_card,52,49,0,3,1.0,0.942308,0.970297,1,49,0,1,2,0,0
+Listeria monocytogenes,Kraken2 (CARD),kraken2_card,355,334,7,21,0.979472,0.940845,0.95977,1,334,1,0,12,8,0
+Macrococcus canis,Kraken2 (CARD),kraken2_card,18,14,3,4,0.823529,0.777778,0.8,1,14,0,0,3,1,0
+Megasphaera stantonii,Kraken2 (CARD),kraken2_card,3,0,0,3,0.0,0.0,0.0,0,0,0,0,1,2,0
+Methylorubrum populi,Kraken2 (CARD),kraken2_card,3,2,0,1,1.0,0.666667,0.8,1,2,0,0,1,0,0
+Micrococcus luteus,Kraken2 (CARD),kraken2_card,4,3,1,1,0.75,0.75,0.75,1,3,0,0,0,1,0
+Mobiluncus mulieris,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Moraxella catarrhalis,Kraken2 (CARD),kraken2_card,35,27,2,8,0.931034,0.771429,0.84375,1,27,0,0,4,4,0
+Moraxella osloensis,Kraken2 (CARD),kraken2_card,12,11,0,1,1.0,0.916667,0.956522,1,11,0,0,0,1,0
+Morganella morganii,Kraken2 (CARD),kraken2_card,219,194,8,25,0.960396,0.885845,0.921615,1,194,0,0,8,17,0
+Mycobacterium avium,Kraken2 (CARD),kraken2_card,44,32,2,12,0.941176,0.727273,0.820513,1,32,0,1,8,3,0
+Mycobacterium colombiense,Kraken2 (CARD),kraken2_card,25,25,0,0,1.0,1.0,1.0,1,25,0,0,0,0,0
+Mycobacterium intracellulare,Kraken2 (CARD),kraken2_card,43,43,2,0,0.955556,1.0,0.977273,1,43,0,0,0,0,0
+Mycobacterium kansasii,Kraken2 (CARD),kraken2_card,7,7,2,0,0.777778,1.0,0.875,1,7,0,0,0,0,0
+Mycobacterium leprae,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Mycobacterium lepromatosis,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Mycobacterium marinum,Kraken2 (CARD),kraken2_card,10,4,2,6,0.666667,0.4,0.5,1,4,0,5,0,1,0
+Mycobacterium tuberculosis,Kraken2 (CARD),kraken2_card,937,840,4,97,0.995261,0.896478,0.94329,1,840,7,4,10,76,0
+Mycobacterium ulcerans,Kraken2 (CARD),kraken2_card,4,2,3,2,0.4,0.5,0.444444,1,2,0,2,0,0,0
+Mycolicibacterium fortuitum,Kraken2 (CARD),kraken2_card,44,44,0,0,1.0,1.0,1.0,1,44,0,0,0,0,0
+Mycolicibacterium septicum,Kraken2 (CARD),kraken2_card,7,7,0,0,1.0,1.0,1.0,1,7,0,0,0,0,0
+Mycoplasma genitalium,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Mycoplasma mycoides,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Mycoplasma pneumoniae,Kraken2 (CARD),kraken2_card,5,0,0,5,0.0,0.0,0.0,0,0,0,0,5,0,0
+Myroides odoratimimus,Kraken2 (CARD),kraken2_card,7,6,0,1,1.0,0.857143,0.923077,1,6,0,0,1,0,0
+Myroides phaeus,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Neisseria brasiliensis,Kraken2 (CARD),kraken2_card,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,1,0,0
+Neisseria gonorrhoeae,Kraken2 (CARD),kraken2_card,363,342,8,21,0.977143,0.942149,0.959327,1,342,3,7,5,6,0
+Neisseria meningitidis,Kraken2 (CARD),kraken2_card,792,778,13,14,0.983565,0.982323,0.982944,1,778,4,6,1,3,0
+Neisseria sicca,Kraken2 (CARD),kraken2_card,7,3,0,4,1.0,0.428571,0.6,1,3,0,1,1,2,0
+Neisseria subflava,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Nocardia farcinica,Kraken2 (CARD),kraken2_card,32,29,1,3,0.966667,0.90625,0.935484,1,29,0,0,1,2,0
+Nocardia terpenica,Kraken2 (CARD),kraken2_card,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Orrella dioscoreae,Kraken2 (CARD),kraken2_card,1,0,1,1,0.0,0.0,0.0,1,0,0,0,0,1,0
+Paeniclostridium sordellii,Kraken2 (CARD),kraken2_card,12,10,1,2,0.909091,0.833333,0.869565,1,10,0,0,0,2,0
+Parabacteroides distasonis,Kraken2 (CARD),kraken2_card,51,25,3,26,0.892857,0.490196,0.632911,1,25,0,0,10,16,0
+Paracoccus denitrificans,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Parascardovia denticolens,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Pasteurella multocida,Kraken2 (CARD),kraken2_card,111,82,5,29,0.942529,0.738739,0.828283,1,82,0,0,11,18,0
+Pectobacterium parmentieri,Kraken2 (CARD),kraken2_card,22,22,0,0,1.0,1.0,1.0,1,22,0,0,0,0,0
+Phocaeicola dorei,Kraken2 (CARD),kraken2_card,38,13,5,25,0.722222,0.342105,0.464286,1,13,0,5,1,19,0
+Phocaeicola massiliensis,Kraken2 (CARD),kraken2_card,10,10,2,0,0.833333,1.0,0.909091,1,10,0,0,0,0,0
+Phocaeicola vulgatus,Kraken2 (CARD),kraken2_card,90,49,20,41,0.710145,0.544444,0.616352,1,49,0,2,5,34,0
+Photobacterium profundum,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Photorhabdus asymbiotica,Kraken2 (CARD),kraken2_card,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,1,0,0
+Plesiomonas shigelloides,Kraken2 (CARD),kraken2_card,55,53,1,2,0.981481,0.963636,0.972477,1,53,0,0,1,1,0
+Porphyromonas gingivalis,Kraken2 (CARD),kraken2_card,7,7,0,0,1.0,1.0,1.0,1,7,0,0,0,0,0
+Prevotella bivia,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Prevotella intermedia,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Propionibacterium freudenreichii,Kraken2 (CARD),kraken2_card,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Proteus columbae,Kraken2 (CARD),kraken2_card,8,0,6,8,0.0,0.0,0.0,1,0,0,6,0,2,0
+Proteus mirabilis,Kraken2 (CARD),kraken2_card,338,255,14,83,0.947955,0.754438,0.840198,1,255,0,4,24,55,0
+Proteus penneri,Kraken2 (CARD),kraken2_card,12,9,2,3,0.818182,0.75,0.782609,1,9,0,2,1,0,0
+Proteus vulgaris,Kraken2 (CARD),kraken2_card,56,45,10,11,0.818182,0.803571,0.810811,1,45,0,7,2,2,0
+Providencia alcalifaciens,Kraken2 (CARD),kraken2_card,47,44,4,3,0.916667,0.93617,0.926316,1,44,0,2,1,0,0
+Providencia heimbachae,Kraken2 (CARD),kraken2_card,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Providencia rettgeri,Kraken2 (CARD),kraken2_card,183,148,15,35,0.907975,0.808743,0.855491,1,148,0,4,9,22,0
+Providencia stuartii,Kraken2 (CARD),kraken2_card,80,62,1,18,0.984127,0.775,0.867133,1,62,0,3,4,11,0
+Pseudomonas aeruginosa,Kraken2 (CARD),kraken2_card,13325,12838,195,487,0.985038,0.963452,0.974126,1,12838,70,6,100,311,0
+Pseudomonas brassicacearum,Kraken2 (CARD),kraken2_card,30,15,10,15,0.6,0.5,0.545455,1,15,2,12,0,1,0
+Pseudomonas chlororaphis,Kraken2 (CARD),kraken2_card,137,132,5,5,0.963504,0.963504,0.963504,1,132,0,4,1,0,0
+Pseudomonas fluorescens,Kraken2 (CARD),kraken2_card,307,265,53,42,0.833333,0.863192,0.848,1,265,1,36,1,4,0
+Pseudomonas koreensis,Kraken2 (CARD),kraken2_card,27,10,13,17,0.434783,0.37037,0.4,1,10,0,17,0,0,0
+Pseudomonas mendocina,Kraken2 (CARD),kraken2_card,30,28,0,2,1.0,0.933333,0.965517,1,28,0,2,0,0,0
+Pseudomonas monteilii,Kraken2 (CARD),kraken2_card,34,19,7,15,0.730769,0.558824,0.633333,1,19,0,9,1,5,0
+Pseudomonas putida,Kraken2 (CARD),kraken2_card,182,161,86,21,0.651822,0.884615,0.750583,1,161,0,19,1,1,0
+Pseudomonas stutzeri,Kraken2 (CARD),kraken2_card,114,0,0,114,0.0,0.0,0.0,0,0,0,2,109,3,0
+Pseudomonas synxantha,Kraken2 (CARD),kraken2_card,20,18,1,2,0.947368,0.9,0.923077,1,18,0,2,0,0,0
+Pseudomonas syringae,Kraken2 (CARD),kraken2_card,237,223,7,14,0.969565,0.940928,0.955032,1,223,0,10,0,4,0
+Ralstonia mannitolilytica,Kraken2 (CARD),kraken2_card,9,5,1,4,0.833333,0.555556,0.666667,1,5,0,4,0,0,0
+Ralstonia pickettii,Kraken2 (CARD),kraken2_card,17,16,7,1,0.695652,0.941176,0.8,1,16,0,1,0,0,0
+Ralstonia solanacearum,Kraken2 (CARD),kraken2_card,60,57,0,3,1.0,0.95,0.974359,1,57,0,2,1,0,0
+Raoultella planticola,Kraken2 (CARD),kraken2_card,144,141,7,3,0.952703,0.979167,0.965753,1,141,0,0,2,1,0
+Rhizobium leguminosarum,Kraken2 (CARD),kraken2_card,298,290,0,8,1.0,0.973154,0.986395,1,290,0,0,3,5,0
+Rhodanobacter glycinis,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Rhodococcus pyridinivorans,Kraken2 (CARD),kraken2_card,3,2,1,1,0.666667,0.666667,0.666667,1,2,0,0,0,1,0
+Rhodococcus rhodochrous,Kraken2 (CARD),kraken2_card,4,3,0,1,1.0,0.75,0.857143,1,3,1,0,0,0,0
+Rhodopseudomonas palustris,Kraken2 (CARD),kraken2_card,11,11,0,0,1.0,1.0,1.0,1,11,0,0,0,0,0
+Riemerella anatipestifer,Kraken2 (CARD),kraken2_card,39,23,1,16,0.958333,0.589744,0.730159,1,23,0,0,4,12,0
+Roseburia hominis,Kraken2 (CARD),kraken2_card,2,0,0,2,0.0,0.0,0.0,0,0,0,0,2,0,0
+Rothia mucilaginosa,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Salmonella bongori,Kraken2 (CARD),kraken2_card,73,73,4,0,0.948052,1.0,0.973333,1,73,0,0,0,0,0
+Salmonella enterica,Kraken2 (CARD),kraken2_card,5635,4959,115,676,0.977335,0.880035,0.926137,1,4959,3,0,418,255,0
+Schaalia odontolytica,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Serratia liquefaciens,Kraken2 (CARD),kraken2_card,64,64,0,0,1.0,1.0,1.0,1,64,0,0,0,0,0
+Serratia marcescens,Kraken2 (CARD),kraken2_card,888,812,15,76,0.981862,0.914414,0.946939,1,812,0,0,45,31,0
+Serratia odorifera,Kraken2 (CARD),kraken2_card,5,3,0,2,1.0,0.6,0.75,1,3,0,2,0,0,0
+Serratia rubidaea,Kraken2 (CARD),kraken2_card,29,28,3,1,0.903226,0.965517,0.933333,1,28,0,0,1,0,0
+Shewanella putrefaciens,Kraken2 (CARD),kraken2_card,20,18,1,2,0.947368,0.9,0.923077,1,18,0,0,0,2,0
+Shigella boydii,Kraken2 (CARD),kraken2_card,201,40,25,161,0.615385,0.199005,0.300752,1,40,24,11,118,8,0
+Shigella dysenteriae,Kraken2 (CARD),kraken2_card,131,46,16,85,0.741935,0.351145,0.476684,1,46,4,6,73,2,0
+Shigella flexneri,Kraken2 (CARD),kraken2_card,438,145,50,293,0.74359,0.33105,0.458136,1,145,23,2,212,56,0
+Shigella sonnei,Kraken2 (CARD),kraken2_card,464,176,39,288,0.818605,0.37931,0.518409,1,176,1,1,196,90,0
+Sphingobium yanoikuyae,Kraken2 (CARD),kraken2_card,9,8,0,1,1.0,0.888889,0.941176,1,8,0,0,0,1,0
+Staphylococcus arlettae,Kraken2 (CARD),kraken2_card,34,31,2,3,0.939394,0.911765,0.925373,1,31,0,0,1,2,0
+Staphylococcus aureus,Kraken2 (CARD),kraken2_card,3984,2843,201,1141,0.933968,0.713604,0.80905,1,2843,276,198,133,534,0
+Staphylococcus capitis,Kraken2 (CARD),kraken2_card,49,39,4,10,0.906977,0.795918,0.847826,1,39,1,6,0,3,0
+Staphylococcus epidermidis,Kraken2 (CARD),kraken2_card,430,234,44,196,0.841727,0.544186,0.661017,1,234,45,87,18,46,0
+Staphylococcus equorum,Kraken2 (CARD),kraken2_card,42,33,139,9,0.19186,0.785714,0.308411,1,33,3,5,0,1,0
+Staphylococcus haemolyticus,Kraken2 (CARD),kraken2_card,146,79,80,67,0.496855,0.541096,0.518033,1,79,13,25,3,26,0
+Staphylococcus hominis,Kraken2 (CARD),kraken2_card,57,30,1,27,0.967742,0.526316,0.681818,1,30,0,16,1,10,0
+Staphylococcus intermedius,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Staphylococcus lugdunensis,Kraken2 (CARD),kraken2_card,8,4,0,4,1.0,0.5,0.666667,1,4,1,2,0,1,0
+Staphylococcus massiliensis,Kraken2 (CARD),kraken2_card,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Staphylococcus pasteuri,Kraken2 (CARD),kraken2_card,14,9,4,5,0.692308,0.642857,0.666667,1,9,2,2,0,1,0
+Staphylococcus pseudintermedius,Kraken2 (CARD),kraken2_card,143,25,11,118,0.694444,0.174825,0.27933,1,25,14,38,7,59,0
+Staphylococcus saprophyticus,Kraken2 (CARD),kraken2_card,54,41,3,13,0.931818,0.759259,0.836735,1,41,5,4,1,3,0
+Staphylococcus schleiferi,Kraken2 (CARD),kraken2_card,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Staphylococcus simulans,Kraken2 (CARD),kraken2_card,29,22,0,7,1.0,0.758621,0.862745,1,22,2,3,1,1,0
+Staphylococcus warneri,Kraken2 (CARD),kraken2_card,40,25,5,15,0.833333,0.625,0.714286,1,25,4,9,0,2,0
+Stenotrophomonas maltophilia,Kraken2 (CARD),kraken2_card,750,686,15,64,0.978602,0.914667,0.945555,1,686,0,0,54,10,0
+Streptobacillus moniliformis,Kraken2 (CARD),kraken2_card,2,0,0,2,0.0,0.0,0.0,0,0,0,0,2,0,0
+Streptococcus agalactiae,Kraken2 (CARD),kraken2_card,114,65,5,49,0.928571,0.570175,0.706522,1,65,3,11,18,17,0
+Streptococcus anginosus,Kraken2 (CARD),kraken2_card,6,1,0,5,1.0,0.166667,0.285714,1,1,4,1,0,0,0
+Streptococcus canis,Kraken2 (CARD),kraken2_card,6,5,0,1,1.0,0.833333,0.909091,1,5,0,0,0,1,0
+Streptococcus cristatus,Kraken2 (CARD),kraken2_card,19,15,1,4,0.9375,0.789474,0.857143,1,15,0,4,0,0,0
+Streptococcus dysgalactiae,Kraken2 (CARD),kraken2_card,47,33,1,14,0.970588,0.702128,0.814815,1,33,4,2,5,3,0
+Streptococcus equi,Kraken2 (CARD),kraken2_card,24,21,0,3,1.0,0.875,0.933333,1,21,0,2,1,0,0
+Streptococcus gallolyticus,Kraken2 (CARD),kraken2_card,5,4,0,1,1.0,0.8,0.888889,1,4,0,1,0,0,0
+Streptococcus gordonii,Kraken2 (CARD),kraken2_card,34,30,1,4,0.967742,0.882353,0.923077,1,30,0,0,1,3,0
+Streptococcus iniae,Kraken2 (CARD),kraken2_card,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Streptococcus intermedius,Kraken2 (CARD),kraken2_card,2,0,0,2,0.0,0.0,0.0,0,0,0,1,1,0,0
+Streptococcus mitis,Kraken2 (CARD),kraken2_card,119,102,25,17,0.80315,0.857143,0.829268,1,102,0,16,0,1,0
+Streptococcus mutans,Kraken2 (CARD),kraken2_card,38,38,0,0,1.0,1.0,1.0,1,38,0,0,0,0,0
+Streptococcus pasteurianus,Kraken2 (CARD),kraken2_card,5,0,0,5,0.0,0.0,0.0,0,0,0,2,1,2,0
+Streptococcus pneumoniae,Kraken2 (CARD),kraken2_card,754,597,15,157,0.97549,0.791777,0.874085,1,597,39,59,21,38,0
+Streptococcus porcinus,Kraken2 (CARD),kraken2_card,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,1,0,0
+Streptococcus pseudopneumoniae,Kraken2 (CARD),kraken2_card,71,50,16,21,0.757576,0.704225,0.729927,1,50,0,15,5,1,0
+Streptococcus pseudoporcinus,Kraken2 (CARD),kraken2_card,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Streptococcus pyogenes,Kraken2 (CARD),kraken2_card,210,183,63,27,0.743902,0.871429,0.802632,1,183,6,2,12,7,0
+Streptococcus sanguinis,Kraken2 (CARD),kraken2_card,48,42,1,6,0.976744,0.875,0.923077,1,42,0,2,2,2,0
+Streptococcus sobrinus,Kraken2 (CARD),kraken2_card,19,19,0,0,1.0,1.0,1.0,1,19,0,0,0,0,0
+Streptococcus suis,Kraken2 (CARD),kraken2_card,387,177,54,210,0.766234,0.457364,0.572816,1,177,6,5,70,129,0
+Streptococcus uberis,Kraken2 (CARD),kraken2_card,31,31,2,0,0.939394,1.0,0.96875,1,31,0,0,0,0,0
+Thalassospira indica,Kraken2 (CARD),kraken2_card,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Trueperella pyogenes,Kraken2 (CARD),kraken2_card,5,0,0,5,0.0,0.0,0.0,0,0,0,0,3,2,0
+Vibrio alginolyticus,Kraken2 (CARD),kraken2_card,212,185,15,27,0.925,0.872642,0.898058,1,185,0,8,2,17,0
+Vibrio cholerae,Kraken2 (CARD),kraken2_card,473,401,6,72,0.985258,0.84778,0.911364,1,401,5,6,22,39,0
+Vibrio fluvialis,Kraken2 (CARD),kraken2_card,87,82,0,5,1.0,0.942529,0.970414,1,82,0,1,2,2,0
+Vibrio harveyi,Kraken2 (CARD),kraken2_card,59,53,15,6,0.779412,0.898305,0.834646,1,53,0,5,0,1,0
+Vibrio metoecus,Kraken2 (CARD),kraken2_card,22,18,1,4,0.947368,0.818182,0.878049,1,18,1,3,0,0,0
+Vibrio mimicus,Kraken2 (CARD),kraken2_card,22,22,0,0,1.0,1.0,1.0,1,22,0,0,0,0,0
+Vibrio owensii,Kraken2 (CARD),kraken2_card,31,31,4,0,0.885714,1.0,0.939394,1,31,0,0,0,0,0
+Vibrio parahaemolyticus,Kraken2 (CARD),kraken2_card,1277,1063,16,214,0.985171,0.83242,0.902377,1,1063,4,25,14,171,0
+Vibrio vulnificus,Kraken2 (CARD),kraken2_card,204,191,1,13,0.994792,0.936275,0.964646,1,191,0,1,7,5,0
+Achromobacter insolitus,Kraken2 (default),kraken2_default,25,24,0,1,1.0,0.96,0.979592,1,24,0,1,0,0,0
+Achromobacter xylosoxidans,Kraken2 (default),kraken2_default,243,220,5,23,0.977778,0.90535,0.940171,1,220,2,13,2,6,0
+Acinetobacter baumannii,Kraken2 (default),kraken2_default,3793,2400,53,1393,0.978394,0.632745,0.768492,1,2400,563,163,215,452,0
+Acinetobacter calcoaceticus,Kraken2 (default),kraken2_default,74,67,4,7,0.943662,0.905405,0.924138,1,67,0,7,0,0,0
+Acinetobacter haemolyticus,Kraken2 (default),kraken2_default,19,16,1,3,0.941176,0.842105,0.888889,1,16,0,0,1,2,0
+Acinetobacter indicus,Kraken2 (default),kraken2_default,13,4,1,9,0.8,0.307692,0.444444,1,4,0,1,4,4,0
+Acinetobacter johnsonii,Kraken2 (default),kraken2_default,26,20,1,6,0.952381,0.769231,0.851064,1,20,4,1,1,0,0
+Acinetobacter junii,Kraken2 (default),kraken2_default,10,9,1,1,0.9,0.9,0.9,1,9,0,0,1,0,0
+Acinetobacter lwoffii,Kraken2 (default),kraken2_default,19,14,0,5,1.0,0.736842,0.848485,1,14,2,1,1,1,0
+Acinetobacter nosocomialis,Kraken2 (default),kraken2_default,211,201,34,10,0.855319,0.952607,0.901345,1,201,0,3,3,4,0
+Acinetobacter pittii,Kraken2 (default),kraken2_default,410,346,27,64,0.927614,0.843902,0.88378,1,346,4,41,12,7,0
+Acinetobacter radioresistens,Kraken2 (default),kraken2_default,15,9,0,6,1.0,0.6,0.75,1,9,1,1,0,4,0
+Acinetobacter towneri,Kraken2 (default),kraken2_default,4,2,0,2,1.0,0.5,0.666667,1,2,0,0,1,1,0
+Acinetobacter wuhouensis,Kraken2 (default),kraken2_default,3,1,0,2,1.0,0.333333,0.5,1,1,1,0,0,1,0
+Actinobacillus indolicus,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Actinobacillus pleuropneumoniae,Kraken2 (default),kraken2_default,29,26,3,3,0.896552,0.896552,0.896552,1,26,0,0,0,3,0
+Actinobacillus porcitonsillarum,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Aeromonas caviae,Kraken2 (default),kraken2_default,156,81,5,75,0.94186,0.519231,0.669421,1,81,45,11,3,16,0
+Aeromonas enteropelogenes,Kraken2 (default),kraken2_default,14,11,0,3,1.0,0.785714,0.88,1,11,2,1,0,0,0
+Aeromonas hydrophila,Kraken2 (default),kraken2_default,187,130,5,57,0.962963,0.695187,0.807453,1,130,34,19,2,2,0
+Aeromonas veronii,Kraken2 (default),kraken2_default,284,230,5,54,0.978723,0.809859,0.88632,1,230,27,20,0,7,0
+Aggregatibacter actinomycetemcomitans,Kraken2 (default),kraken2_default,41,41,0,0,1.0,1.0,1.0,1,41,0,0,0,0,0
+Alcaligenes faecalis,Kraken2 (default),kraken2_default,22,17,1,5,0.944444,0.772727,0.85,1,17,1,2,0,2,0
+Aliarcobacter butzleri,Kraken2 (default),kraken2_default,39,39,1,0,0.975,1.0,0.987342,1,39,0,0,0,0,0
+Anaerostipes hadrus,Kraken2 (default),kraken2_default,16,15,0,1,1.0,0.9375,0.967742,1,15,0,0,1,0,0
+Avibacterium paragallinarum,Kraken2 (default),kraken2_default,16,10,4,6,0.714286,0.625,0.666667,1,10,0,2,2,2,0
+Bacillus amyloliquefaciens,Kraken2 (default),kraken2_default,35,17,19,18,0.472222,0.485714,0.478873,1,17,3,12,1,2,0
+Bacillus anthracis,Kraken2 (default),kraken2_default,23,11,1,12,0.916667,0.478261,0.628571,1,11,0,12,0,0,0
+Bacillus cereus,Kraken2 (default),kraken2_default,640,273,70,367,0.795918,0.426562,0.555443,1,273,7,350,4,6,0
+Bacillus halotolerans,Kraken2 (default),kraken2_default,50,38,0,12,1.0,0.76,0.863636,1,38,0,12,0,0,0
+Bacillus pumilus,Kraken2 (default),kraken2_default,59,53,0,6,1.0,0.898305,0.946429,1,53,0,4,0,2,0
+Bacillus subtilis,Kraken2 (default),kraken2_default,560,411,8,149,0.980907,0.733929,0.839632,1,411,79,60,9,1,0
+Bacillus tequilensis,Kraken2 (default),kraken2_default,11,11,12,0,0.478261,1.0,0.647059,1,11,0,0,0,0,0
+Bacillus thuringiensis,Kraken2 (default),kraken2_default,260,128,113,132,0.53112,0.492308,0.510978,1,128,1,125,4,2,0
+Bacillus velezensis,Kraken2 (default),kraken2_default,119,79,11,40,0.877778,0.663866,0.755981,1,79,4,25,5,6,0
+Bacteroides caccae,Kraken2 (default),kraken2_default,16,12,0,4,1.0,0.75,0.857143,1,12,0,3,1,0,0
+Bacteroides fragilis,Kraken2 (default),kraken2_default,142,88,8,54,0.916667,0.619718,0.739496,1,88,5,3,7,39,0
+Bacteroides ovatus,Kraken2 (default),kraken2_default,36,8,0,28,1.0,0.222222,0.363636,1,8,4,7,3,14,0
+Bacteroides thetaiotaomicron,Kraken2 (default),kraken2_default,62,28,10,34,0.736842,0.451613,0.56,1,28,1,2,8,23,0
+Bifidobacterium animalis,Kraken2 (default),kraken2_default,9,5,0,4,1.0,0.555556,0.714286,1,5,2,0,2,0,0
+Bifidobacterium bifidum,Kraken2 (default),kraken2_default,43,34,0,9,1.0,0.790698,0.883117,1,34,3,1,3,2,0
+Bifidobacterium breve,Kraken2 (default),kraken2_default,34,29,6,5,0.828571,0.852941,0.84058,1,29,0,0,5,0,0
+Bifidobacterium dentium,Kraken2 (default),kraken2_default,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Bifidobacterium longum,Kraken2 (default),kraken2_default,142,109,0,33,1.0,0.767606,0.868526,1,109,8,5,15,5,0
+Bifidobacterium thermophilum,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Blautia producta,Kraken2 (default),kraken2_default,5,1,0,4,1.0,0.2,0.333333,1,1,0,2,2,0,0
+Bordetella bronchiseptica,Kraken2 (default),kraken2_default,27,21,0,6,1.0,0.777778,0.875,1,21,2,0,1,3,0
+Bordetella hinzii,Kraken2 (default),kraken2_default,14,14,0,0,1.0,1.0,1.0,1,14,0,0,0,0,0
+Bordetella holmesii,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Bordetella parapertussis,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Bordetella pertussis,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Bordetella petrii,Kraken2 (default),kraken2_default,5,4,0,1,1.0,0.8,0.888889,1,4,0,0,1,0,0
+Bordetella trematum,Kraken2 (default),kraken2_default,13,13,0,0,1.0,1.0,1.0,1,13,0,0,0,0,0
+Brachyspira pilosicoli,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Brevibacillus brevis,Kraken2 (default),kraken2_default,31,31,0,0,1.0,1.0,1.0,1,31,0,0,0,0,0
+Brevibacillus laterosporus,Kraken2 (default),kraken2_default,19,16,0,3,1.0,0.842105,0.914286,1,16,0,0,3,0,0
+Brucella abortus,Kraken2 (default),kraken2_default,13,2,0,11,1.0,0.153846,0.266667,1,2,7,2,0,2,0
+Brucella canis,Kraken2 (default),kraken2_default,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Brucella inopinata,Kraken2 (default),kraken2_default,2,1,0,1,1.0,0.5,0.666667,1,1,0,1,0,0,0
+Brucella intermedia,Kraken2 (default),kraken2_default,12,11,0,1,1.0,0.916667,0.956522,1,11,0,1,0,0,0
+Brucella melitensis,Kraken2 (default),kraken2_default,17,17,2,0,0.894737,1.0,0.944444,1,17,0,0,0,0,0
+Brucella ovis,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Brucella suis,Kraken2 (default),kraken2_default,7,5,0,2,1.0,0.714286,0.833333,1,5,1,0,0,1,0
+Burkholderia ambifaria,Kraken2 (default),kraken2_default,70,62,2,8,0.96875,0.885714,0.925373,1,62,3,5,0,0,0
+Burkholderia cenocepacia,Kraken2 (default),kraken2_default,234,201,3,33,0.985294,0.858974,0.917808,1,201,3,29,1,0,0
+Burkholderia cepacia,Kraken2 (default),kraken2_default,280,263,24,17,0.916376,0.939286,0.92769,1,263,0,13,3,1,0
+Burkholderia contaminans,Kraken2 (default),kraken2_default,67,60,7,7,0.895522,0.895522,0.895522,1,60,0,3,4,0,0
+Burkholderia dolosa,Kraken2 (default),kraken2_default,12,0,0,12,0.0,0.0,0.0,0,0,0,12,0,0,0
+Burkholderia glumae,Kraken2 (default),kraken2_default,6,6,0,0,1.0,1.0,1.0,1,6,0,0,0,0,0
+Burkholderia lata,Kraken2 (default),kraken2_default,40,22,7,18,0.758621,0.55,0.637681,1,22,0,16,2,0,0
+Burkholderia mallei,Kraken2 (default),kraken2_default,6,3,24,3,0.111111,0.5,0.181818,1,3,0,1,2,0,0
+Burkholderia multivorans,Kraken2 (default),kraken2_default,219,218,6,1,0.973214,0.995434,0.984199,1,218,0,0,1,0,0
+Burkholderia oklahomensis,Kraken2 (default),kraken2_default,4,4,5,0,0.444444,1.0,0.615385,1,4,0,0,0,0,0
+Burkholderia pseudomallei,Kraken2 (default),kraken2_default,302,261,1,41,0.996183,0.864238,0.925532,1,261,0,26,15,0,0
+Burkholderia thailandensis,Kraken2 (default),kraken2_default,18,13,0,5,1.0,0.722222,0.83871,1,13,1,2,2,0,0
+Burkholderia vietnamiensis,Kraken2 (default),kraken2_default,69,57,0,12,1.0,0.826087,0.904762,1,57,2,9,1,0,0
+Campylobacter coli,Kraken2 (default),kraken2_default,265,145,32,120,0.819209,0.54717,0.656109,1,145,65,12,6,37,0
+Campylobacter concisus,Kraken2 (default),kraken2_default,44,44,0,0,1.0,1.0,1.0,1,44,0,0,0,0,0
+Campylobacter fetus,Kraken2 (default),kraken2_default,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Campylobacter jejuni,Kraken2 (default),kraken2_default,678,525,15,153,0.972222,0.774336,0.862069,1,525,97,31,5,20,0
+Campylobacter showae,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Capnocytophaga gingivalis,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Capnocytophaga sputigena,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Chlamydia psittaci,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,1,0,0,0,0
+Chlamydia suis,Kraken2 (default),kraken2_default,26,26,0,0,1.0,1.0,1.0,1,26,0,0,0,0,0
+Chlamydia trachomatis,Kraken2 (default),kraken2_default,20,20,0,0,1.0,1.0,1.0,1,20,0,0,0,0,0
+Chryseobacterium nakagawai,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Chryseobacterium taklimakanense,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Citrobacter amalonaticus,Kraken2 (default),kraken2_default,226,76,6,150,0.926829,0.336283,0.493506,1,76,71,69,10,0,0
+Citrobacter freundii,Kraken2 (default),kraken2_default,1038,707,133,331,0.841667,0.681118,0.752929,1,707,136,78,67,50,0
+Citrobacter koseri,Kraken2 (default),kraken2_default,217,182,5,35,0.973262,0.83871,0.90099,1,182,21,1,11,2,0
+Citrobacter portucalensis,Kraken2 (default),kraken2_default,258,140,39,118,0.782123,0.542636,0.640732,1,140,15,73,20,10,0
+Citrobacter werkmanii,Kraken2 (default),kraken2_default,140,36,15,104,0.705882,0.257143,0.376963,1,36,39,39,13,13,0
+Citrobacter youngae,Kraken2 (default),kraken2_default,69,5,3,64,0.625,0.072464,0.12987,1,5,21,40,2,1,0
+Clostridium botulinum,Kraken2 (default),kraken2_default,68,60,2,8,0.967742,0.882353,0.923077,1,60,1,5,1,1,0
+Clostridium butyricum,Kraken2 (default),kraken2_default,10,9,0,1,1.0,0.9,0.947368,1,9,1,0,0,0,0
+Clostridium perfringens,Kraken2 (default),kraken2_default,77,68,2,9,0.971429,0.883117,0.92517,1,68,0,0,3,6,0
+Clostridium sporogenes,Kraken2 (default),kraken2_default,18,16,2,2,0.888889,0.888889,0.888889,1,16,0,2,0,0,0
+Clostridium tetani,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Collinsella aerofaciens,Kraken2 (default),kraken2_default,8,2,0,6,1.0,0.25,0.4,1,2,0,0,1,5,0
+Comamonas testosteroni,Kraken2 (default),kraken2_default,12,5,0,7,1.0,0.416667,0.588235,1,5,0,7,0,0,0
+Corynebacterium amycolatum,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Corynebacterium diphtheriae,Kraken2 (default),kraken2_default,10,1,0,9,1.0,0.1,0.181818,1,1,0,0,2,7,0
+Corynebacterium jeikeium,Kraken2 (default),kraken2_default,6,5,0,1,1.0,0.833333,0.909091,1,5,0,0,0,1,0
+Corynebacterium urealyticum,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Coxiella burnetii,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Cronobacter condimenti,Kraken2 (default),kraken2_default,5,5,4,0,0.555556,1.0,0.714286,1,5,0,0,0,0,0
+Cronobacter dublinensis,Kraken2 (default),kraken2_default,131,114,1,17,0.991304,0.870229,0.926829,1,114,10,3,1,3,0
+Cronobacter malonaticus,Kraken2 (default),kraken2_default,92,69,8,23,0.896104,0.75,0.816568,1,69,5,15,1,2,0
+Cronobacter sakazakii,Kraken2 (default),kraken2_default,354,290,24,64,0.923567,0.819209,0.868263,1,290,50,2,8,4,0
+Cronobacter turicensis,Kraken2 (default),kraken2_default,38,0,0,38,0.0,0.0,0.0,0,0,3,34,1,0,0
+Cronobacter universalis,Kraken2 (default),kraken2_default,6,6,26,0,0.1875,1.0,0.315789,1,6,0,0,0,0,0
+Cupriavidus campinensis,Kraken2 (default),kraken2_default,5,5,0,0,1.0,1.0,1.0,1,5,0,0,0,0,0
+Cupriavidus metallidurans,Kraken2 (default),kraken2_default,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Cutibacterium acnes,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Delftia tsuruhatensis,Kraken2 (default),kraken2_default,10,4,0,6,1.0,0.4,0.571429,1,4,2,4,0,0,0
+Edwardsiella tarda,Kraken2 (default),kraken2_default,35,27,0,8,1.0,0.771429,0.870968,1,27,5,2,0,1,0
+Eggerthella lenta,Kraken2 (default),kraken2_default,6,1,0,5,1.0,0.166667,0.285714,1,1,0,0,2,3,0
+Eikenella corrodens,Kraken2 (default),kraken2_default,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Elizabethkingia anophelis,Kraken2 (default),kraken2_default,71,64,0,7,1.0,0.901408,0.948148,1,64,1,2,0,4,0
+Elizabethkingia miricola,Kraken2 (default),kraken2_default,24,18,0,6,1.0,0.75,0.857143,1,18,0,5,1,0,0
+Enterobacter asburiae,Kraken2 (default),kraken2_default,562,277,42,285,0.868339,0.492883,0.628831,1,277,65,154,51,15,0
+Enterobacter cancerogenus,Kraken2 (default),kraken2_default,64,54,8,10,0.870968,0.84375,0.857143,1,54,0,9,1,0,0
+Enterobacter chengduensis,Kraken2 (default),kraken2_default,18,13,8,5,0.619048,0.722222,0.666667,1,13,1,2,2,0,0
+Enterobacter cloacae,Kraken2 (default),kraken2_default,825,577,752,248,0.434161,0.699394,0.535747,1,577,31,122,74,21,0
+Enterobacter hormaechei,Kraken2 (default),kraken2_default,1870,592,37,1278,0.941176,0.316578,0.47379,1,592,212,545,379,142,0
+Enterobacter kobei,Kraken2 (default),kraken2_default,304,139,6,165,0.958621,0.457237,0.619154,1,139,31,72,43,19,0
+Enterobacter roggenkampii,Kraken2 (default),kraken2_default,531,346,36,185,0.905759,0.651601,0.757941,1,346,25,111,44,5,0
+Enterocloster clostridioformis,Kraken2 (default),kraken2_default,18,10,1,8,0.909091,0.555556,0.689655,1,10,0,1,4,3,0
+Enterococcus faecalis,Kraken2 (default),kraken2_default,549,354,27,195,0.929134,0.644809,0.76129,1,354,16,8,31,140,0
+Enterococcus faecium,Kraken2 (default),kraken2_default,773,310,86,463,0.782828,0.401035,0.530368,1,310,62,14,68,319,0
+Enterococcus hirae,Kraken2 (default),kraken2_default,18,8,1,10,0.888889,0.444444,0.592593,1,8,0,1,4,5,0
+Erysipelatoclostridium ramosum,Kraken2 (default),kraken2_default,4,0,0,4,0.0,0.0,0.0,0,0,0,0,3,1,0
+Erysipelothrix rhusiopathiae,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Escherichia albertii,Kraken2 (default),kraken2_default,663,638,95,25,0.870396,0.962293,0.91404,1,638,9,3,12,1,0
+Escherichia coli,Kraken2 (default),kraken2_default,31823,17928,454,13895,0.975302,0.563366,0.714192,1,17928,529,360,10792,2214,0
+Escherichia fergusonii,Kraken2 (default),kraken2_default,353,283,98,70,0.742782,0.8017,0.771117,1,283,18,16,19,17,0
+Escherichia marmotae,Kraken2 (default),kraken2_default,251,236,85,15,0.735202,0.940239,0.825175,1,236,0,6,8,1,0
+Eubacterium maltosivorans,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Faecalibacterium prausnitzii,Kraken2 (default),kraken2_default,14,3,1,11,0.75,0.214286,0.333333,1,3,0,0,6,5,0
+Francisella philomiragia,Kraken2 (default),kraken2_default,8,7,0,1,1.0,0.875,0.933333,1,7,0,1,0,0,0
+Francisella tularensis,Kraken2 (default),kraken2_default,11,10,0,1,1.0,0.909091,0.952381,1,10,0,0,0,1,0
+Fusobacterium nucleatum,Kraken2 (default),kraken2_default,1,1,31,0,0.03125,1.0,0.060606,1,1,0,0,0,0,0
+Gardnerella vaginalis,Kraken2 (default),kraken2_default,30,23,0,7,1.0,0.766667,0.867925,1,23,0,5,1,1,0
+Glaesserella parasuis,Kraken2 (default),kraken2_default,45,38,2,7,0.95,0.844444,0.894118,1,38,0,0,1,6,0
+Granulibacter bethesdensis,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Haemophilus influenzae,Kraken2 (default),kraken2_default,207,199,0,8,1.0,0.961353,0.980296,1,199,1,2,2,3,0
+Haemophilus parainfluenzae,Kraken2 (default),kraken2_default,49,47,1,2,0.979167,0.959184,0.969072,1,47,0,0,1,1,0
+Helicobacter cinaedi,Kraken2 (default),kraken2_default,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Helicobacter pullorum,Kraken2 (default),kraken2_default,8,4,0,4,1.0,0.5,0.666667,1,4,0,0,2,2,0
+Helicobacter pylori,Kraken2 (default),kraken2_default,3933,3933,4,0,0.998984,1.0,0.999492,1,3933,0,0,0,0,0
+Histophilus somni,Kraken2 (default),kraken2_default,21,13,1,8,0.928571,0.619048,0.742857,1,13,0,0,3,5,0
+Inquilinus limosus,Kraken2 (default),kraken2_default,4,0,0,4,0.0,0.0,0.0,0,0,0,0,3,1,0
+Klebsiella aerogenes,Kraken2 (default),kraken2_default,619,490,14,129,0.972222,0.791599,0.872663,1,490,69,30,18,12,0
+Klebsiella huaxiensis,Kraken2 (default),kraken2_default,17,16,11,1,0.592593,0.941176,0.727273,1,16,0,0,1,0,0
+Klebsiella michiganensis,Kraken2 (default),kraken2_default,619,360,24,259,0.9375,0.581583,0.717846,1,360,126,58,57,18,0
+Klebsiella oxytoca,Kraken2 (default),kraken2_default,358,306,23,52,0.930091,0.854749,0.89083,1,306,14,18,17,3,0
+Klebsiella pneumoniae,Kraken2 (default),kraken2_default,6586,2683,166,3903,0.941734,0.407379,0.568733,1,2683,829,165,1056,1853,0
+Klebsiella quasipneumoniae,Kraken2 (default),kraken2_default,1300,1034,101,266,0.911013,0.795385,0.849281,1,1034,103,13,96,54,0
+Kosakonia arachidis,Kraken2 (default),kraken2_default,5,5,3,0,0.625,1.0,0.769231,1,5,0,0,0,0,0
+Lactobacillus crispatus,Kraken2 (default),kraken2_default,10,4,1,6,0.8,0.4,0.533333,1,4,3,0,0,3,0
+Lactobacillus iners,Kraken2 (default),kraken2_default,8,6,0,2,1.0,0.75,0.857143,1,6,0,0,2,0,0
+Lactobacillus johnsonii,Kraken2 (default),kraken2_default,6,2,1,4,0.666667,0.333333,0.444444,1,2,0,0,2,2,0
+Lactococcus garvieae,Kraken2 (default),kraken2_default,8,5,1,3,0.833333,0.625,0.714286,1,5,2,0,1,0,0
+Laribacter hongkongensis,Kraken2 (default),kraken2_default,27,23,0,4,1.0,0.851852,0.92,1,23,0,0,0,4,0
+Leclercia adecarboxylata,Kraken2 (default),kraken2_default,98,76,3,22,0.962025,0.77551,0.858757,1,76,20,0,2,0,0
+Legionella pneumophila,Kraken2 (default),kraken2_default,44,40,0,4,1.0,0.909091,0.952381,1,40,0,0,2,2,0
+Leminorella grimontii,Kraken2 (default),kraken2_default,3,0,0,3,0.0,0.0,0.0,0,0,0,1,2,0,0
+Leptospira borgpetersenii,Kraken2 (default),kraken2_default,2,0,0,2,0.0,0.0,0.0,0,0,0,0,2,0,0
+Ligilactobacillus animalis,Kraken2 (default),kraken2_default,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Listeria innocua,Kraken2 (default),kraken2_default,52,46,0,6,1.0,0.884615,0.938776,1,46,1,3,1,1,0
+Listeria monocytogenes,Kraken2 (default),kraken2_default,355,333,7,22,0.979412,0.938028,0.958273,1,333,0,0,15,7,0
+Macrococcus canis,Kraken2 (default),kraken2_default,18,16,1,2,0.941176,0.888889,0.914286,1,16,1,0,0,1,0
+Megasphaera stantonii,Kraken2 (default),kraken2_default,3,0,0,3,0.0,0.0,0.0,0,0,0,0,1,2,0
+Methylorubrum populi,Kraken2 (default),kraken2_default,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Micrococcus luteus,Kraken2 (default),kraken2_default,4,1,0,3,1.0,0.25,0.4,1,1,1,1,0,1,0
+Mobiluncus mulieris,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Moraxella catarrhalis,Kraken2 (default),kraken2_default,35,27,0,8,1.0,0.771429,0.870968,1,27,0,0,6,2,0
+Moraxella osloensis,Kraken2 (default),kraken2_default,12,11,0,1,1.0,0.916667,0.956522,1,11,0,0,0,1,0
+Morganella morganii,Kraken2 (default),kraken2_default,219,199,3,20,0.985149,0.908676,0.945368,1,199,0,0,4,16,0
+Mycobacterium avium,Kraken2 (default),kraken2_default,44,33,10,11,0.767442,0.75,0.758621,1,33,0,0,10,1,0
+Mycobacterium colombiense,Kraken2 (default),kraken2_default,25,10,0,15,1.0,0.4,0.571429,1,10,0,15,0,0,0
+Mycobacterium intracellulare,Kraken2 (default),kraken2_default,43,23,0,20,1.0,0.534884,0.69697,1,23,10,10,0,0,0
+Mycobacterium kansasii,Kraken2 (default),kraken2_default,7,6,0,1,1.0,0.857143,0.923077,1,6,0,1,0,0,0
+Mycobacterium leprae,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Mycobacterium lepromatosis,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Mycobacterium marinum,Kraken2 (default),kraken2_default,10,2,0,8,1.0,0.2,0.333333,1,2,5,2,1,0,0
+Mycobacterium tuberculosis,Kraken2 (default),kraken2_default,937,919,5,18,0.994589,0.98079,0.987641,1,919,0,3,2,13,0
+Mycobacterium ulcerans,Kraken2 (default),kraken2_default,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Mycolicibacterium fortuitum,Kraken2 (default),kraken2_default,44,43,0,1,1.0,0.977273,0.988506,1,43,1,0,0,0,0
+Mycolicibacterium septicum,Kraken2 (default),kraken2_default,7,3,0,4,1.0,0.428571,0.6,1,3,1,3,0,0,0
+Mycoplasma genitalium,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Mycoplasma mycoides,Kraken2 (default),kraken2_default,1,1,37,0,0.026316,1.0,0.051282,1,1,0,0,0,0,0
+Mycoplasma pneumoniae,Kraken2 (default),kraken2_default,5,0,0,5,0.0,0.0,0.0,0,0,0,0,5,0,0
+Myroides odoratimimus,Kraken2 (default),kraken2_default,7,1,1,6,0.5,0.142857,0.222222,1,1,2,3,1,0,0
+Myroides phaeus,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Neisseria brasiliensis,Kraken2 (default),kraken2_default,2,2,1,0,0.666667,1.0,0.8,1,2,0,0,0,0,0
+Neisseria gonorrhoeae,Kraken2 (default),kraken2_default,363,352,11,11,0.969697,0.969697,0.969697,1,352,1,2,2,6,0
+Neisseria meningitidis,Kraken2 (default),kraken2_default,792,751,6,41,0.992074,0.948232,0.969658,1,751,9,29,1,2,0
+Neisseria sicca,Kraken2 (default),kraken2_default,7,1,0,6,1.0,0.142857,0.25,1,1,0,3,1,2,0
+Neisseria subflava,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,1,0,0,0,0
+Nocardia farcinica,Kraken2 (default),kraken2_default,32,31,0,1,1.0,0.96875,0.984127,1,31,0,0,1,0,0
+Nocardia terpenica,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Orrella dioscoreae,Kraken2 (default),kraken2_default,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Paeniclostridium sordellii,Kraken2 (default),kraken2_default,12,10,2,2,0.833333,0.833333,0.833333,1,10,0,0,2,0,0
+Parabacteroides distasonis,Kraken2 (default),kraken2_default,51,28,0,23,1.0,0.54902,0.708861,1,28,0,0,7,16,0
+Paracoccus denitrificans,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Parascardovia denticolens,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Pasteurella multocida,Kraken2 (default),kraken2_default,111,62,1,49,0.984127,0.558559,0.712644,1,62,13,3,8,25,0
+Pectobacterium parmentieri,Kraken2 (default),kraken2_default,22,22,0,0,1.0,1.0,1.0,1,22,0,0,0,0,0
+Phocaeicola dorei,Kraken2 (default),kraken2_default,38,10,1,28,0.909091,0.263158,0.408163,1,10,0,1,6,21,0
+Phocaeicola massiliensis,Kraken2 (default),kraken2_default,10,0,0,10,0.0,0.0,0.0,0,0,0,4,6,0,0
+Phocaeicola vulgatus,Kraken2 (default),kraken2_default,90,39,5,51,0.886364,0.433333,0.58209,1,39,0,0,11,40,0
+Photobacterium profundum,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Photorhabdus asymbiotica,Kraken2 (default),kraken2_default,2,1,0,1,1.0,0.5,0.666667,1,1,1,0,0,0,0
+Plesiomonas shigelloides,Kraken2 (default),kraken2_default,55,54,1,1,0.981818,0.981818,0.981818,1,54,0,0,0,1,0
+Porphyromonas gingivalis,Kraken2 (default),kraken2_default,7,7,0,0,1.0,1.0,1.0,1,7,0,0,0,0,0
+Prevotella bivia,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Prevotella intermedia,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Propionibacterium freudenreichii,Kraken2 (default),kraken2_default,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Proteus columbae,Kraken2 (default),kraken2_default,8,5,1,3,0.833333,0.625,0.714286,1,5,0,1,0,2,0
+Proteus mirabilis,Kraken2 (default),kraken2_default,338,239,10,99,0.959839,0.707101,0.81431,1,239,2,2,15,80,0
+Proteus penneri,Kraken2 (default),kraken2_default,12,11,1,1,0.916667,0.916667,0.916667,1,11,0,0,0,1,0
+Proteus vulgaris,Kraken2 (default),kraken2_default,56,41,1,15,0.97619,0.732143,0.836735,1,41,5,5,2,3,0
+Providencia alcalifaciens,Kraken2 (default),kraken2_default,47,44,1,3,0.977778,0.93617,0.956522,1,44,0,2,1,0,0
+Providencia heimbachae,Kraken2 (default),kraken2_default,8,8,1,0,0.888889,1.0,0.941176,1,8,0,0,0,0,0
+Providencia rettgeri,Kraken2 (default),kraken2_default,183,132,4,51,0.970588,0.721311,0.827586,1,132,18,2,6,25,0
+Providencia stuartii,Kraken2 (default),kraken2_default,80,42,3,38,0.933333,0.525,0.672,1,42,17,11,3,7,0
+Pseudomonas aeruginosa,Kraken2 (default),kraken2_default,13325,10244,62,3081,0.993984,0.76878,0.866997,1,10244,2662,82,102,235,0
+Pseudomonas brassicacearum,Kraken2 (default),kraken2_default,30,12,5,18,0.705882,0.4,0.510638,1,12,3,15,0,0,0
+Pseudomonas chlororaphis,Kraken2 (default),kraken2_default,137,128,4,9,0.969697,0.934307,0.951673,1,128,1,7,1,0,0
+Pseudomonas fluorescens,Kraken2 (default),kraken2_default,307,76,10,231,0.883721,0.247557,0.386768,1,76,11,213,6,1,0
+Pseudomonas koreensis,Kraken2 (default),kraken2_default,27,7,0,20,1.0,0.259259,0.411765,1,7,0,20,0,0,0
+Pseudomonas mendocina,Kraken2 (default),kraken2_default,30,16,0,14,1.0,0.533333,0.695652,1,16,4,9,1,0,0
+Pseudomonas monteilii,Kraken2 (default),kraken2_default,34,16,1,18,0.941176,0.470588,0.627451,1,16,2,9,2,5,0
+Pseudomonas putida,Kraken2 (default),kraken2_default,182,133,16,49,0.892617,0.730769,0.803625,1,133,11,33,2,3,0
+Pseudomonas stutzeri,Kraken2 (default),kraken2_default,114,0,0,114,0.0,0.0,0.0,0,0,0,6,101,7,0
+Pseudomonas synxantha,Kraken2 (default),kraken2_default,20,17,3,3,0.85,0.85,0.85,1,17,1,2,0,0,0
+Pseudomonas syringae,Kraken2 (default),kraken2_default,237,205,5,32,0.97619,0.864979,0.917226,1,205,0,29,1,2,0
+Ralstonia mannitolilytica,Kraken2 (default),kraken2_default,9,8,0,1,1.0,0.888889,0.941176,1,8,0,1,0,0,0
+Ralstonia pickettii,Kraken2 (default),kraken2_default,17,15,2,2,0.882353,0.882353,0.882353,1,15,0,2,0,0,0
+Ralstonia solanacearum,Kraken2 (default),kraken2_default,60,47,0,13,1.0,0.783333,0.878505,1,47,9,2,1,1,0
+Raoultella planticola,Kraken2 (default),kraken2_default,144,131,3,13,0.977612,0.909722,0.942446,1,131,9,1,0,3,0
+Rhizobium leguminosarum,Kraken2 (default),kraken2_default,298,243,0,55,1.0,0.815436,0.898336,1,243,12,33,8,2,0
+Rhodanobacter glycinis,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Rhodococcus pyridinivorans,Kraken2 (default),kraken2_default,3,0,1,3,0.0,0.0,0.0,1,0,2,0,0,1,0
+Rhodococcus rhodochrous,Kraken2 (default),kraken2_default,4,2,0,2,1.0,0.5,0.666667,1,2,2,0,0,0,0
+Rhodopseudomonas palustris,Kraken2 (default),kraken2_default,11,11,1,0,0.916667,1.0,0.956522,1,11,0,0,0,0,0
+Riemerella anatipestifer,Kraken2 (default),kraken2_default,39,27,2,12,0.931034,0.692308,0.794118,1,27,0,0,0,12,0
+Roseburia hominis,Kraken2 (default),kraken2_default,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Rothia mucilaginosa,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Salmonella bongori,Kraken2 (default),kraken2_default,73,73,31,0,0.701923,1.0,0.824859,1,73,0,0,0,0,0
+Salmonella enterica,Kraken2 (default),kraken2_default,5635,3134,102,2501,0.96848,0.556167,0.706572,1,3134,1507,29,643,322,0
+Schaalia odontolytica,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Serratia liquefaciens,Kraken2 (default),kraken2_default,64,58,1,6,0.983051,0.90625,0.943089,1,58,5,1,0,0,0
+Serratia marcescens,Kraken2 (default),kraken2_default,888,613,5,275,0.991909,0.690315,0.814077,1,613,142,50,45,38,0
+Serratia odorifera,Kraken2 (default),kraken2_default,5,5,1,0,0.833333,1.0,0.909091,1,5,0,0,0,0,0
+Serratia rubidaea,Kraken2 (default),kraken2_default,29,23,0,6,1.0,0.793103,0.884615,1,23,5,0,1,0,0
+Shewanella putrefaciens,Kraken2 (default),kraken2_default,20,11,0,9,1.0,0.55,0.709677,1,11,1,4,3,1,0
+Shigella boydii,Kraken2 (default),kraken2_default,201,67,37,134,0.644231,0.333333,0.439344,1,67,13,5,107,9,0
+Shigella dysenteriae,Kraken2 (default),kraken2_default,131,70,40,61,0.636364,0.534351,0.580913,1,70,2,0,56,3,0
+Shigella flexneri,Kraken2 (default),kraken2_default,438,204,173,234,0.541114,0.465753,0.500613,1,204,76,4,100,54,0
+Shigella sonnei,Kraken2 (default),kraken2_default,464,195,23,269,0.894495,0.420259,0.571848,1,195,2,0,177,90,0
+Sphingobium yanoikuyae,Kraken2 (default),kraken2_default,9,8,0,1,1.0,0.888889,0.941176,1,8,0,0,0,1,0
+Staphylococcus arlettae,Kraken2 (default),kraken2_default,34,31,2,3,0.939394,0.911765,0.925373,1,31,0,0,1,2,0
+Staphylococcus aureus,Kraken2 (default),kraken2_default,3984,2482,148,1502,0.943726,0.622992,0.750529,1,2482,712,95,73,622,0
+Staphylococcus capitis,Kraken2 (default),kraken2_default,49,30,3,19,0.909091,0.612245,0.731707,1,30,5,4,2,8,0
+Staphylococcus epidermidis,Kraken2 (default),kraken2_default,430,232,35,198,0.868914,0.539535,0.66571,1,232,73,39,8,78,0
+Staphylococcus equorum,Kraken2 (default),kraken2_default,42,25,0,17,1.0,0.595238,0.746269,1,25,5,10,0,2,0
+Staphylococcus haemolyticus,Kraken2 (default),kraken2_default,146,69,1,77,0.985714,0.472603,0.638889,1,69,30,23,1,23,0
+Staphylococcus hominis,Kraken2 (default),kraken2_default,57,30,3,27,0.909091,0.526316,0.666667,1,30,11,9,1,6,0
+Staphylococcus intermedius,Kraken2 (default),kraken2_default,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Staphylococcus lugdunensis,Kraken2 (default),kraken2_default,8,5,45,3,0.1,0.625,0.172414,1,5,1,1,0,1,0
+Staphylococcus massiliensis,Kraken2 (default),kraken2_default,2,0,0,2,0.0,0.0,0.0,0,0,0,0,0,2,0
+Staphylococcus pasteuri,Kraken2 (default),kraken2_default,14,9,18,5,0.333333,0.642857,0.439024,1,9,1,4,0,0,0
+Staphylococcus pseudintermedius,Kraken2 (default),kraken2_default,143,31,0,112,1.0,0.216783,0.356322,1,31,23,24,6,59,0
+Staphylococcus saprophyticus,Kraken2 (default),kraken2_default,54,40,2,14,0.952381,0.740741,0.833333,1,40,4,3,1,6,0
+Staphylococcus schleiferi,Kraken2 (default),kraken2_default,4,3,0,1,1.0,0.75,0.857143,1,3,0,1,0,0,0
+Staphylococcus simulans,Kraken2 (default),kraken2_default,29,23,37,6,0.383333,0.793103,0.516854,1,23,0,2,1,3,0
+Staphylococcus warneri,Kraken2 (default),kraken2_default,40,19,2,21,0.904762,0.475,0.622951,1,19,4,10,2,5,0
+Stenotrophomonas maltophilia,Kraken2 (default),kraken2_default,750,631,12,119,0.981337,0.841333,0.905958,1,631,13,42,55,9,0
+Streptobacillus moniliformis,Kraken2 (default),kraken2_default,2,0,0,2,0.0,0.0,0.0,0,0,0,0,2,0,0
+Streptococcus agalactiae,Kraken2 (default),kraken2_default,114,44,0,70,1.0,0.385965,0.556962,1,44,24,2,15,29,0
+Streptococcus anginosus,Kraken2 (default),kraken2_default,6,0,0,6,0.0,0.0,0.0,0,0,1,2,2,1,0
+Streptococcus canis,Kraken2 (default),kraken2_default,6,5,0,1,1.0,0.833333,0.909091,1,5,0,0,0,1,0
+Streptococcus cristatus,Kraken2 (default),kraken2_default,19,14,0,5,1.0,0.736842,0.848485,1,14,1,3,1,0,0
+Streptococcus dysgalactiae,Kraken2 (default),kraken2_default,47,34,1,13,0.971429,0.723404,0.829268,1,34,5,1,4,3,0
+Streptococcus equi,Kraken2 (default),kraken2_default,24,21,0,3,1.0,0.875,0.933333,1,21,0,1,2,0,0
+Streptococcus gallolyticus,Kraken2 (default),kraken2_default,5,3,4,2,0.428571,0.6,0.5,1,3,2,0,0,0,0
+Streptococcus gordonii,Kraken2 (default),kraken2_default,34,30,1,4,0.967742,0.882353,0.923077,1,30,0,0,1,3,0
+Streptococcus iniae,Kraken2 (default),kraken2_default,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Streptococcus intermedius,Kraken2 (default),kraken2_default,2,0,0,2,0.0,0.0,0.0,0,0,0,0,2,0,0
+Streptococcus mitis,Kraken2 (default),kraken2_default,119,93,46,26,0.669065,0.781513,0.72093,1,93,0,22,3,1,0
+Streptococcus mutans,Kraken2 (default),kraken2_default,38,38,0,0,1.0,1.0,1.0,1,38,0,0,0,0,0
+Streptococcus pasteurianus,Kraken2 (default),kraken2_default,5,1,1,4,0.5,0.2,0.285714,1,1,0,1,1,2,0
+Streptococcus pneumoniae,Kraken2 (default),kraken2_default,754,618,19,136,0.970173,0.819629,0.888569,1,618,17,25,40,54,0
+Streptococcus porcinus,Kraken2 (default),kraken2_default,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Streptococcus pseudopneumoniae,Kraken2 (default),kraken2_default,71,24,2,47,0.923077,0.338028,0.494845,1,24,1,40,3,3,0
+Streptococcus pseudoporcinus,Kraken2 (default),kraken2_default,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Streptococcus pyogenes,Kraken2 (default),kraken2_default,210,182,7,28,0.962963,0.866667,0.912281,1,182,3,0,10,15,0
+Streptococcus sanguinis,Kraken2 (default),kraken2_default,48,42,1,6,0.976744,0.875,0.923077,1,42,0,0,3,3,0
+Streptococcus sobrinus,Kraken2 (default),kraken2_default,19,19,0,0,1.0,1.0,1.0,1,19,0,0,0,0,0
+Streptococcus suis,Kraken2 (default),kraken2_default,387,147,7,240,0.954545,0.379845,0.543438,1,147,7,15,39,179,0
+Streptococcus uberis,Kraken2 (default),kraken2_default,31,28,0,3,1.0,0.903226,0.949153,1,28,0,3,0,0,0
+Thalassospira indica,Kraken2 (default),kraken2_default,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Trueperella pyogenes,Kraken2 (default),kraken2_default,5,1,2,4,0.333333,0.2,0.25,1,1,0,0,1,3,0
+Vibrio alginolyticus,Kraken2 (default),kraken2_default,212,151,10,61,0.937888,0.712264,0.809651,1,151,24,18,1,18,0
+Vibrio cholerae,Kraken2 (default),kraken2_default,473,395,7,78,0.982587,0.835095,0.902857,1,395,9,11,18,40,0
+Vibrio fluvialis,Kraken2 (default),kraken2_default,87,78,2,9,0.975,0.896552,0.934132,1,78,1,4,2,2,0
+Vibrio harveyi,Kraken2 (default),kraken2_default,59,49,17,10,0.742424,0.830508,0.784,1,49,5,5,0,0,0
+Vibrio metoecus,Kraken2 (default),kraken2_default,22,18,3,4,0.857143,0.818182,0.837209,1,18,0,4,0,0,0
+Vibrio mimicus,Kraken2 (default),kraken2_default,22,22,2,0,0.916667,1.0,0.956522,1,22,0,0,0,0,0
+Vibrio owensii,Kraken2 (default),kraken2_default,31,29,2,2,0.935484,0.935484,0.935484,1,29,1,1,0,0,0
+Vibrio parahaemolyticus,Kraken2 (default),kraken2_default,1277,1054,5,223,0.995279,0.825372,0.902397,1,1054,12,18,8,185,0
+Vibrio vulnificus,Kraken2 (default),kraken2_default,204,191,1,13,0.994792,0.936275,0.964646,1,191,0,1,8,4,0
+Achromobacter insolitus,CLARK,clark,25,24,2,1,0.923077,0.96,0.941176,1,24,0,1,0,0,0
+Achromobacter xylosoxidans,CLARK,clark,243,209,3,34,0.985849,0.860082,0.918681,1,209,0,26,2,6,0
+Acinetobacter baumannii,CLARK,clark,3793,2179,39,1614,0.982417,0.574479,0.725004,1,2179,0,78,50,1486,0
+Acinetobacter calcoaceticus,CLARK,clark,74,66,0,8,1.0,0.891892,0.942857,1,66,0,8,0,0,0
+Acinetobacter haemolyticus,CLARK,clark,19,16,1,3,0.941176,0.842105,0.888889,1,16,0,0,0,3,0
+Acinetobacter indicus,CLARK,clark,13,3,1,10,0.75,0.230769,0.352941,1,3,0,1,1,8,0
+Acinetobacter johnsonii,CLARK,clark,26,19,0,7,1.0,0.730769,0.844444,1,19,0,4,0,3,0
+Acinetobacter junii,CLARK,clark,10,8,1,2,0.888889,0.8,0.842105,1,8,0,1,0,1,0
+Acinetobacter lwoffii,CLARK,clark,19,14,0,5,1.0,0.736842,0.848485,1,14,0,3,0,2,0
+Acinetobacter nosocomialis,CLARK,clark,211,201,24,10,0.893333,0.952607,0.922018,1,201,0,2,2,6,0
+Acinetobacter pittii,CLARK,clark,410,357,23,53,0.939474,0.870732,0.903797,1,357,0,21,0,32,0
+Acinetobacter radioresistens,CLARK,clark,15,7,0,8,1.0,0.466667,0.636364,1,7,0,2,1,5,0
+Acinetobacter towneri,CLARK,clark,4,3,0,1,1.0,0.75,0.857143,1,3,0,0,0,1,0
+Acinetobacter wuhouensis,CLARK,clark,3,2,1,1,0.666667,0.666667,0.666667,1,2,0,0,0,1,0
+Actinobacillus indolicus,CLARK,clark,2,2,1,0,0.666667,1.0,0.8,1,2,0,0,0,0,0
+Actinobacillus pleuropneumoniae,CLARK,clark,29,25,1,4,0.961538,0.862069,0.909091,1,25,0,0,0,4,0
+Actinobacillus porcitonsillarum,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Aeromonas caviae,CLARK,clark,156,83,5,73,0.943182,0.532051,0.680328,1,83,0,9,4,60,0
+Aeromonas enteropelogenes,CLARK,clark,14,11,0,3,1.0,0.785714,0.88,1,11,0,0,0,3,0
+Aeromonas hydrophila,CLARK,clark,187,132,6,55,0.956522,0.705882,0.812308,1,132,0,17,1,37,0
+Aeromonas veronii,CLARK,clark,284,239,9,45,0.96371,0.841549,0.898496,1,239,0,14,3,28,0
+Aggregatibacter actinomycetemcomitans,CLARK,clark,41,41,0,0,1.0,1.0,1.0,1,41,0,0,0,0,0
+Alcaligenes faecalis,CLARK,clark,22,15,0,7,1.0,0.681818,0.810811,1,15,0,4,1,2,0
+Aliarcobacter butzleri,CLARK,clark,39,39,1,0,0.975,1.0,0.987342,1,39,0,0,0,0,0
+Anaerostipes hadrus,CLARK,clark,16,15,0,1,1.0,0.9375,0.967742,1,15,0,0,1,0,0
+Avibacterium paragallinarum,CLARK,clark,16,10,0,6,1.0,0.625,0.769231,1,10,0,2,0,4,0
+Bacillus amyloliquefaciens,CLARK,clark,35,15,1,20,0.9375,0.428571,0.588235,1,15,0,5,0,15,0
+Bacillus anthracis,CLARK,clark,23,12,5,11,0.705882,0.521739,0.6,1,12,0,7,0,4,0
+Bacillus cereus,CLARK,clark,640,165,66,475,0.714286,0.257812,0.378875,1,165,0,336,4,135,0
+Bacillus halotolerans,CLARK,clark,50,31,0,19,1.0,0.62,0.765432,1,31,0,5,0,14,0
+Bacillus pumilus,CLARK,clark,59,34,0,25,1.0,0.576271,0.731183,1,34,0,5,2,18,0
+Bacillus subtilis,CLARK,clark,560,254,1,306,0.996078,0.453571,0.623313,1,254,0,118,4,184,0
+Bacillus tequilensis,CLARK,clark,11,11,0,0,1.0,1.0,1.0,1,11,0,0,0,0,0
+Bacillus thuringiensis,CLARK,clark,260,58,55,202,0.513274,0.223077,0.310992,1,58,0,122,3,77,0
+Bacillus velezensis,CLARK,clark,119,64,5,55,0.927536,0.537815,0.680851,1,64,0,5,2,48,0
+Bacteroides caccae,CLARK,clark,16,12,0,4,1.0,0.75,0.857143,1,12,0,0,2,2,0
+Bacteroides fragilis,CLARK,clark,142,85,3,57,0.965909,0.598592,0.73913,1,85,0,0,6,51,0
+Bacteroides ovatus,CLARK,clark,36,14,1,22,0.933333,0.388889,0.54902,1,14,0,6,2,14,0
+Bacteroides thetaiotaomicron,CLARK,clark,62,25,0,37,1.0,0.403226,0.574713,1,25,0,1,6,30,0
+Bifidobacterium animalis,CLARK,clark,9,7,0,2,1.0,0.777778,0.875,1,7,0,0,0,2,0
+Bifidobacterium bifidum,CLARK,clark,43,34,0,9,1.0,0.790698,0.883117,1,34,0,1,0,8,0
+Bifidobacterium breve,CLARK,clark,34,29,7,5,0.805556,0.852941,0.828571,1,29,0,0,2,3,0
+Bifidobacterium dentium,CLARK,clark,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Bifidobacterium longum,CLARK,clark,142,107,0,35,1.0,0.753521,0.859438,1,107,0,8,4,23,0
+Bifidobacterium thermophilum,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Blautia producta,CLARK,clark,5,0,0,5,0.0,0.0,0.0,0,0,0,2,2,1,0
+Bordetella bronchiseptica,CLARK,clark,27,21,0,6,1.0,0.777778,0.875,1,21,0,0,2,4,0
+Bordetella hinzii,CLARK,clark,14,14,0,0,1.0,1.0,1.0,1,14,0,0,0,0,0
+Bordetella holmesii,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Bordetella parapertussis,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Bordetella pertussis,CLARK,clark,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Bordetella petrii,CLARK,clark,5,4,0,1,1.0,0.8,0.888889,1,4,0,0,0,1,0
+Bordetella trematum,CLARK,clark,13,13,0,0,1.0,1.0,1.0,1,13,0,0,0,0,0
+Brachyspira pilosicoli,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Brevibacillus brevis,CLARK,clark,31,31,0,0,1.0,1.0,1.0,1,31,0,0,0,0,0
+Brevibacillus laterosporus,CLARK,clark,19,16,0,3,1.0,0.842105,0.914286,1,16,0,0,2,1,0
+Brucella abortus,CLARK,clark,13,1,0,12,1.0,0.076923,0.142857,1,1,0,2,1,9,0
+Brucella canis,CLARK,clark,3,1,0,2,1.0,0.333333,0.5,1,1,0,0,0,2,0
+Brucella inopinata,CLARK,clark,2,1,0,1,1.0,0.5,0.666667,1,1,0,1,0,0,0
+Brucella intermedia,CLARK,clark,12,12,0,0,1.0,1.0,1.0,1,12,0,0,0,0,0
+Brucella melitensis,CLARK,clark,17,17,2,0,0.894737,1.0,0.944444,1,17,0,0,0,0,0
+Brucella ovis,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Brucella suis,CLARK,clark,7,5,0,2,1.0,0.714286,0.833333,1,5,0,0,0,2,0
+Burkholderia ambifaria,CLARK,clark,70,62,2,8,0.96875,0.885714,0.925373,1,62,0,5,0,3,0
+Burkholderia cenocepacia,CLARK,clark,234,184,7,50,0.963351,0.786325,0.865882,1,184,0,39,0,11,0
+Burkholderia cepacia,CLARK,clark,280,257,5,23,0.980916,0.917857,0.948339,1,257,0,19,3,1,0
+Burkholderia contaminans,CLARK,clark,67,58,8,9,0.878788,0.865672,0.87218,1,58,0,5,3,1,0
+Burkholderia dolosa,CLARK,clark,12,12,1,0,0.923077,1.0,0.96,1,12,0,0,0,0,0
+Burkholderia glumae,CLARK,clark,6,6,0,0,1.0,1.0,1.0,1,6,0,0,0,0,0
+Burkholderia lata,CLARK,clark,40,27,6,13,0.818182,0.675,0.739726,1,27,0,10,0,3,0
+Burkholderia mallei,CLARK,clark,6,4,0,2,1.0,0.666667,0.8,1,4,0,0,0,2,0
+Burkholderia multivorans,CLARK,clark,219,218,6,1,0.973214,0.995434,0.984199,1,218,0,0,0,1,0
+Burkholderia oklahomensis,CLARK,clark,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Burkholderia pseudomallei,CLARK,clark,302,269,1,33,0.996296,0.890728,0.940559,1,269,0,3,4,26,0
+Burkholderia thailandensis,CLARK,clark,18,13,0,5,1.0,0.722222,0.83871,1,13,0,2,0,3,0
+Burkholderia vietnamiensis,CLARK,clark,69,57,0,12,1.0,0.826087,0.904762,1,57,0,10,0,2,0
+Campylobacter coli,CLARK,clark,265,119,17,146,0.875,0.449057,0.593516,1,119,0,11,4,131,0
+Campylobacter concisus,CLARK,clark,44,44,0,0,1.0,1.0,1.0,1,44,0,0,0,0,0
+Campylobacter fetus,CLARK,clark,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Campylobacter jejuni,CLARK,clark,678,453,12,225,0.974194,0.668142,0.792651,1,453,0,20,5,200,0
+Campylobacter showae,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Capnocytophaga gingivalis,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Capnocytophaga sputigena,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Chlamydia psittaci,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Chlamydia suis,CLARK,clark,26,26,0,0,1.0,1.0,1.0,1,26,0,0,0,0,0
+Chlamydia trachomatis,CLARK,clark,20,20,0,0,1.0,1.0,1.0,1,20,0,0,0,0,0
+Chryseobacterium nakagawai,CLARK,clark,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Chryseobacterium taklimakanense,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Citrobacter amalonaticus,CLARK,clark,226,101,3,125,0.971154,0.446903,0.612121,1,101,0,40,15,70,0
+Citrobacter freundii,CLARK,clark,1038,495,43,543,0.920074,0.476879,0.628173,1,495,0,142,24,377,0
+Citrobacter koseri,CLARK,clark,217,183,10,34,0.948187,0.843318,0.892683,1,183,0,0,3,31,0
+Citrobacter portucalensis,CLARK,clark,258,175,70,83,0.714286,0.678295,0.695825,1,175,0,16,3,64,0
+Citrobacter werkmanii,CLARK,clark,140,46,16,94,0.741935,0.328571,0.455446,1,46,0,31,10,53,0
+Citrobacter youngae,CLARK,clark,69,12,1,57,0.923077,0.173913,0.292683,1,12,0,29,3,25,0
+Clostridium botulinum,CLARK,clark,68,61,8,7,0.884058,0.897059,0.890511,1,61,0,4,0,3,0
+Clostridium butyricum,CLARK,clark,10,9,0,1,1.0,0.9,0.947368,1,9,0,0,0,1,0
+Clostridium perfringens,CLARK,clark,77,67,3,10,0.957143,0.87013,0.911565,1,67,0,0,1,9,0
+Clostridium sporogenes,CLARK,clark,18,9,2,9,0.818182,0.5,0.62069,1,9,0,8,0,1,0
+Clostridium tetani,CLARK,clark,2,2,1,0,0.666667,1.0,0.8,1,2,0,0,0,0,0
+Collinsella aerofaciens,CLARK,clark,8,1,0,7,1.0,0.125,0.222222,1,1,0,1,3,3,0
+Comamonas testosteroni,CLARK,clark,12,7,0,5,1.0,0.583333,0.736842,1,7,0,5,0,0,0
+Corynebacterium amycolatum,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Corynebacterium diphtheriae,CLARK,clark,10,0,0,10,0.0,0.0,0.0,0,0,0,0,1,9,0
+Corynebacterium jeikeium,CLARK,clark,6,3,0,3,1.0,0.5,0.666667,1,3,0,0,0,3,0
+Corynebacterium urealyticum,CLARK,clark,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Coxiella burnetii,CLARK,clark,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Cronobacter condimenti,CLARK,clark,5,5,2,0,0.714286,1.0,0.833333,1,5,0,0,0,0,0
+Cronobacter dublinensis,CLARK,clark,131,117,1,14,0.991525,0.89313,0.939759,1,117,0,2,2,10,0
+Cronobacter malonaticus,CLARK,clark,92,84,8,8,0.913043,0.913043,0.913043,1,84,0,0,0,8,0
+Cronobacter sakazakii,CLARK,clark,354,296,1,58,0.996633,0.836158,0.90937,1,296,0,4,5,49,0
+Cronobacter turicensis,CLARK,clark,38,36,1,2,0.972973,0.947368,0.96,1,36,0,0,1,1,0
+Cronobacter universalis,CLARK,clark,6,6,0,0,1.0,1.0,1.0,1,6,0,0,0,0,0
+Cupriavidus campinensis,CLARK,clark,5,5,0,0,1.0,1.0,1.0,1,5,0,0,0,0,0
+Cupriavidus metallidurans,CLARK,clark,8,8,0,0,1.0,1.0,1.0,1,8,0,0,0,0,0
+Cutibacterium acnes,CLARK,clark,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Delftia tsuruhatensis,CLARK,clark,10,4,0,6,1.0,0.4,0.571429,1,4,0,4,0,2,0
+Edwardsiella tarda,CLARK,clark,35,26,1,9,0.962963,0.742857,0.83871,1,26,0,7,0,2,0
+Eggerthella lenta,CLARK,clark,6,1,1,5,0.5,0.166667,0.25,1,1,0,0,0,5,0
+Eikenella corrodens,CLARK,clark,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Elizabethkingia anophelis,CLARK,clark,71,64,0,7,1.0,0.901408,0.948148,1,64,0,2,0,5,0
+Elizabethkingia miricola,CLARK,clark,24,8,0,16,1.0,0.333333,0.5,1,8,0,14,0,2,0
+Enterobacter asburiae,CLARK,clark,562,308,36,254,0.895349,0.548043,0.679912,1,308,0,74,16,164,0
+Enterobacter cancerogenus,CLARK,clark,64,54,4,10,0.931034,0.84375,0.885246,1,54,0,9,0,1,0
+Enterobacter chengduensis,CLARK,clark,18,14,1,4,0.933333,0.777778,0.848485,1,14,0,2,0,2,0
+Enterobacter cloacae,CLARK,clark,825,482,48,343,0.909434,0.584242,0.711439,1,482,0,210,23,110,0
+Enterobacter hormaechei,CLARK,clark,1870,858,53,1012,0.941822,0.458824,0.617044,1,858,0,43,77,892,0
+Enterobacter kobei,CLARK,clark,304,142,17,162,0.893082,0.467105,0.613391,1,142,0,21,12,129,0
+Enterobacter roggenkampii,CLARK,clark,531,413,30,118,0.93228,0.777778,0.848049,1,413,0,32,6,80,0
+Enterocloster clostridioformis,CLARK,clark,18,11,0,7,1.0,0.611111,0.758621,1,11,0,1,1,5,0
+Enterococcus faecalis,CLARK,clark,549,353,17,196,0.954054,0.642987,0.768226,1,353,0,10,11,175,0
+Enterococcus faecium,CLARK,clark,773,281,77,492,0.784916,0.363519,0.496905,1,281,0,16,20,456,0
+Enterococcus hirae,CLARK,clark,18,8,1,10,0.888889,0.444444,0.592593,1,8,0,0,4,6,0
+Erysipelatoclostridium ramosum,CLARK,clark,4,0,0,4,0.0,0.0,0.0,0,0,0,0,3,1,0
+Erysipelothrix rhusiopathiae,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Escherichia albertii,CLARK,clark,663,635,87,28,0.879501,0.957768,0.916968,1,635,0,2,1,25,0
+Escherichia coli,CLARK,clark,31823,16186,322,15637,0.980494,0.508626,0.669798,1,16186,0,270,677,14690,0
+Escherichia fergusonii,CLARK,clark,353,277,67,76,0.805233,0.784703,0.794835,1,277,0,11,1,64,0
+Escherichia marmotae,CLARK,clark,251,234,50,17,0.823944,0.932271,0.874766,1,234,0,5,1,11,0
+Eubacterium maltosivorans,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Faecalibacterium prausnitzii,CLARK,clark,14,2,0,12,1.0,0.142857,0.25,1,2,0,0,4,8,0
+Francisella philomiragia,CLARK,clark,8,7,0,1,1.0,0.875,0.933333,1,7,0,0,0,1,0
+Francisella tularensis,CLARK,clark,11,10,0,1,1.0,0.909091,0.952381,1,10,0,0,1,0,0
+Fusobacterium nucleatum,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Gardnerella vaginalis,CLARK,clark,30,22,0,8,1.0,0.733333,0.846154,1,22,0,6,0,2,0
+Glaesserella parasuis,CLARK,clark,45,39,1,6,0.975,0.866667,0.917647,1,39,0,0,0,6,0
+Granulibacter bethesdensis,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Haemophilus influenzae,CLARK,clark,207,195,0,12,1.0,0.942029,0.970149,1,195,0,2,1,9,0
+Haemophilus parainfluenzae,CLARK,clark,49,46,3,3,0.938776,0.938776,0.938776,1,46,0,0,1,2,0
+Helicobacter cinaedi,CLARK,clark,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Helicobacter pullorum,CLARK,clark,8,4,0,4,1.0,0.5,0.666667,1,4,0,0,0,4,0
+Helicobacter pylori,CLARK,clark,3933,3924,4,9,0.998982,0.997712,0.998346,1,3924,0,0,0,9,0
+Histophilus somni,CLARK,clark,21,14,2,7,0.875,0.666667,0.756757,1,14,0,0,0,7,0
+Inquilinus limosus,CLARK,clark,4,0,0,4,0.0,0.0,0.0,0,0,0,0,4,0,0
+Klebsiella aerogenes,CLARK,clark,619,503,22,116,0.958095,0.812601,0.879371,1,503,0,23,10,83,0
+Klebsiella huaxiensis,CLARK,clark,17,17,12,0,0.586207,1.0,0.73913,1,17,0,0,0,0,0
+Klebsiella michiganensis,CLARK,clark,619,406,30,213,0.931193,0.655897,0.769668,1,406,0,46,13,154,0
+Klebsiella oxytoca,CLARK,clark,358,308,9,50,0.971609,0.860335,0.912593,1,308,0,26,4,20,0
+Klebsiella pneumoniae,CLARK,clark,6586,2472,119,4114,0.954072,0.375342,0.538738,1,2472,0,97,292,3725,0
+Klebsiella quasipneumoniae,CLARK,clark,1300,1003,43,297,0.958891,0.771538,0.855072,1,1003,0,13,9,275,0
+Kosakonia arachidis,CLARK,clark,5,5,3,0,0.625,1.0,0.769231,1,5,0,0,0,0,0
+Lactobacillus crispatus,CLARK,clark,10,4,0,6,1.0,0.4,0.571429,1,4,0,0,0,6,0
+Lactobacillus iners,CLARK,clark,8,6,0,2,1.0,0.75,0.857143,1,6,0,0,0,2,0
+Lactobacillus johnsonii,CLARK,clark,6,2,0,4,1.0,0.333333,0.5,1,2,0,0,0,4,0
+Lactococcus garvieae,CLARK,clark,8,4,1,4,0.8,0.5,0.615385,1,4,0,1,1,2,0
+Laribacter hongkongensis,CLARK,clark,27,23,0,4,1.0,0.851852,0.92,1,23,0,0,0,4,0
+Leclercia adecarboxylata,CLARK,clark,98,69,3,29,0.958333,0.704082,0.811765,1,69,0,1,1,27,0
+Legionella pneumophila,CLARK,clark,44,40,0,4,1.0,0.909091,0.952381,1,40,0,0,0,4,0
+Leminorella grimontii,CLARK,clark,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Leptospira borgpetersenii,CLARK,clark,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Ligilactobacillus animalis,CLARK,clark,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Listeria innocua,CLARK,clark,52,47,0,5,1.0,0.903846,0.949495,1,47,0,3,0,2,0
+Listeria monocytogenes,CLARK,clark,355,323,7,32,0.978788,0.909859,0.943066,1,323,0,0,8,24,0
+Macrococcus canis,CLARK,clark,18,0,0,18,0.0,0.0,0.0,0,0,0,0,15,3,0
+Megasphaera stantonii,CLARK,clark,3,0,0,3,0.0,0.0,0.0,0,0,0,0,0,3,0
+Methylorubrum populi,CLARK,clark,3,3,0,0,1.0,1.0,1.0,1,3,0,0,0,0,0
+Micrococcus luteus,CLARK,clark,4,0,0,4,0.0,0.0,0.0,0,0,0,0,1,3,0
+Mobiluncus mulieris,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Moraxella catarrhalis,CLARK,clark,35,20,0,15,1.0,0.571429,0.727273,1,20,0,4,5,6,0
+Moraxella osloensis,CLARK,clark,12,10,0,2,1.0,0.833333,0.909091,1,10,0,1,0,1,0
+Morganella morganii,CLARK,clark,219,199,8,20,0.961353,0.908676,0.934272,1,199,0,0,2,18,0
+Mycobacterium avium,CLARK,clark,44,33,0,11,1.0,0.75,0.857143,1,33,0,0,1,10,0
+Mycobacterium colombiense,CLARK,clark,25,23,0,2,1.0,0.92,0.958333,1,23,0,2,0,0,0
+Mycobacterium intracellulare,CLARK,clark,43,17,2,26,0.894737,0.395349,0.548387,1,17,0,2,0,24,0
+Mycobacterium kansasii,CLARK,clark,7,6,0,1,1.0,0.857143,0.923077,1,6,0,1,0,0,0
+Mycobacterium leprae,CLARK,clark,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Mycobacterium lepromatosis,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Mycobacterium marinum,CLARK,clark,10,6,0,4,1.0,0.6,0.75,1,6,0,1,0,3,0
+Mycobacterium tuberculosis,CLARK,clark,937,489,1,448,0.997959,0.521878,0.685354,1,489,0,16,26,406,0
+Mycobacterium ulcerans,CLARK,clark,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Mycolicibacterium fortuitum,CLARK,clark,44,42,1,2,0.976744,0.954545,0.965517,1,42,0,1,0,1,0
+Mycolicibacterium septicum,CLARK,clark,7,0,0,7,0.0,0.0,0.0,0,0,0,7,0,0,0
+Mycoplasma genitalium,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Mycoplasma mycoides,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Mycoplasma pneumoniae,CLARK,clark,5,0,0,5,0.0,0.0,0.0,0,0,0,0,5,0,0
+Myroides odoratimimus,CLARK,clark,7,1,0,6,1.0,0.142857,0.25,1,1,0,2,0,4,0
+Myroides phaeus,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Neisseria brasiliensis,CLARK,clark,2,2,1,0,0.666667,1.0,0.8,1,2,0,0,0,0,0
+Neisseria gonorrhoeae,CLARK,clark,363,351,14,12,0.961644,0.966942,0.964286,1,351,0,3,2,7,0
+Neisseria meningitidis,CLARK,clark,792,757,6,35,0.992136,0.955808,0.973633,1,757,0,27,1,7,0
+Neisseria sicca,CLARK,clark,7,1,1,6,0.5,0.142857,0.222222,1,1,0,3,0,3,0
+Neisseria subflava,CLARK,clark,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Nocardia farcinica,CLARK,clark,32,31,0,1,1.0,0.96875,0.984127,1,31,0,0,0,1,0
+Nocardia terpenica,CLARK,clark,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Orrella dioscoreae,CLARK,clark,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Paeniclostridium sordellii,CLARK,clark,12,0,0,12,0.0,0.0,0.0,0,0,0,0,10,2,0
+Parabacteroides distasonis,CLARK,clark,51,28,2,23,0.933333,0.54902,0.691358,1,28,0,0,4,19,0
+Paracoccus denitrificans,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Parascardovia denticolens,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Pasteurella multocida,CLARK,clark,111,62,2,49,0.96875,0.558559,0.708571,1,62,0,3,5,41,0
+Pectobacterium parmentieri,CLARK,clark,22,22,1,0,0.956522,1.0,0.977778,1,22,0,0,0,0,0
+Phocaeicola dorei,CLARK,clark,38,10,0,28,1.0,0.263158,0.416667,1,10,0,1,5,22,0
+Phocaeicola massiliensis,CLARK,clark,10,0,0,10,0.0,0.0,0.0,0,0,0,4,6,0,0
+Phocaeicola vulgatus,CLARK,clark,90,38,6,52,0.863636,0.422222,0.567164,1,38,0,0,7,45,0
+Photobacterium profundum,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Photorhabdus asymbiotica,CLARK,clark,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Plesiomonas shigelloides,CLARK,clark,55,54,0,1,1.0,0.981818,0.990826,1,54,0,0,0,1,0
+Porphyromonas gingivalis,CLARK,clark,7,7,0,0,1.0,1.0,1.0,1,7,0,0,0,0,0
+Prevotella bivia,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Prevotella intermedia,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Propionibacterium freudenreichii,CLARK,clark,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Proteus columbae,CLARK,clark,8,6,4,2,0.6,0.75,0.666667,1,6,0,0,0,2,0
+Proteus mirabilis,CLARK,clark,338,265,8,73,0.970696,0.784024,0.86743,1,265,0,2,4,67,0
+Proteus penneri,CLARK,clark,12,11,1,1,0.916667,0.916667,0.916667,1,11,0,0,0,1,0
+Proteus vulgaris,CLARK,clark,56,32,0,24,1.0,0.571429,0.727273,1,32,0,14,1,9,0
+Providencia alcalifaciens,CLARK,clark,47,36,0,11,1.0,0.765957,0.86747,1,36,0,10,0,1,0
+Providencia heimbachae,CLARK,clark,8,8,2,0,0.8,1.0,0.888889,1,8,0,0,0,0,0
+Providencia rettgeri,CLARK,clark,183,64,1,119,0.984615,0.349727,0.516129,1,64,0,14,3,102,0
+Providencia stuartii,CLARK,clark,80,43,4,37,0.914894,0.5375,0.677165,1,43,0,7,5,25,0
+Pseudomonas aeruginosa,CLARK,clark,13325,10876,82,2449,0.992517,0.81621,0.895771,1,10876,0,47,56,2346,0
+Pseudomonas brassicacearum,CLARK,clark,30,16,7,14,0.695652,0.533333,0.603774,1,16,0,10,0,4,0
+Pseudomonas chlororaphis,CLARK,clark,137,130,5,7,0.962963,0.948905,0.955882,1,130,0,5,1,1,0
+Pseudomonas fluorescens,CLARK,clark,307,40,5,267,0.888889,0.130293,0.227273,1,40,0,255,0,12,0
+Pseudomonas koreensis,CLARK,clark,27,9,3,18,0.75,0.333333,0.461538,1,9,0,18,0,0,0
+Pseudomonas mendocina,CLARK,clark,30,0,0,30,0.0,0.0,0.0,0,0,0,3,24,3,0
+Pseudomonas monteilii,CLARK,clark,34,12,2,22,0.857143,0.352941,0.5,1,12,0,8,1,13,0
+Pseudomonas putida,CLARK,clark,182,106,10,76,0.913793,0.582418,0.711409,1,106,0,52,2,22,0
+Pseudomonas stutzeri,CLARK,clark,114,0,0,114,0.0,0.0,0.0,0,0,0,8,97,9,0
+Pseudomonas synxantha,CLARK,clark,20,16,2,4,0.888889,0.8,0.842105,1,16,0,3,0,1,0
+Pseudomonas syringae,CLARK,clark,237,204,0,33,1.0,0.860759,0.92517,1,204,0,26,0,7,0
+Ralstonia mannitolilytica,CLARK,clark,9,9,1,0,0.9,1.0,0.947368,1,9,0,0,0,0,0
+Ralstonia pickettii,CLARK,clark,17,7,1,10,0.875,0.411765,0.56,1,7,0,10,0,0,0
+Ralstonia solanacearum,CLARK,clark,60,33,0,27,1.0,0.55,0.709677,1,33,0,25,0,2,0
+Raoultella planticola,CLARK,clark,144,132,0,12,1.0,0.916667,0.956522,1,132,0,0,2,10,0
+Rhizobium leguminosarum,CLARK,clark,298,150,0,148,1.0,0.503356,0.669643,1,150,0,129,5,14,0
+Rhodanobacter glycinis,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,1,0,0,0
+Rhodococcus pyridinivorans,CLARK,clark,3,0,1,3,0.0,0.0,0.0,1,0,0,0,0,3,0
+Rhodococcus rhodochrous,CLARK,clark,4,1,0,3,1.0,0.25,0.4,1,1,0,0,0,3,0
+Rhodopseudomonas palustris,CLARK,clark,11,11,1,0,0.916667,1.0,0.956522,1,11,0,0,0,0,0
+Riemerella anatipestifer,CLARK,clark,39,27,1,12,0.964286,0.692308,0.80597,1,27,0,0,1,11,0
+Roseburia hominis,CLARK,clark,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,1,0,0
+Rothia mucilaginosa,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Salmonella bongori,CLARK,clark,73,73,11,0,0.869048,1.0,0.929936,1,73,0,0,0,0,0
+Salmonella enterica,CLARK,clark,5635,2739,65,2896,0.976819,0.486069,0.649129,1,2739,0,17,123,2756,0
+Schaalia odontolytica,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,0,1,0
+Serratia liquefaciens,CLARK,clark,64,57,3,7,0.95,0.890625,0.919355,1,57,0,1,2,4,0
+Serratia marcescens,CLARK,clark,888,496,5,392,0.99002,0.558559,0.714183,1,496,0,61,47,284,0
+Serratia odorifera,CLARK,clark,5,5,0,0,1.0,1.0,1.0,1,5,0,0,0,0,0
+Serratia rubidaea,CLARK,clark,29,18,0,11,1.0,0.62069,0.765957,1,18,0,5,1,5,0
+Shewanella putrefaciens,CLARK,clark,20,7,0,13,1.0,0.35,0.518519,1,7,0,7,1,5,0
+Shigella boydii,CLARK,clark,201,67,42,134,0.614679,0.333333,0.432258,1,67,0,6,25,103,0
+Shigella dysenteriae,CLARK,clark,131,82,73,49,0.529032,0.625954,0.573427,1,82,0,1,7,41,0
+Shigella flexneri,CLARK,clark,438,187,73,251,0.719231,0.426941,0.535817,1,187,0,1,31,219,0
+Shigella sonnei,CLARK,clark,464,199,16,265,0.925581,0.428879,0.586156,1,199,0,1,36,228,0
+Sphingobium yanoikuyae,CLARK,clark,9,8,1,1,0.888889,0.888889,0.888889,1,8,0,0,0,1,0
+Staphylococcus arlettae,CLARK,clark,34,31,3,3,0.911765,0.911765,0.911765,1,31,0,0,1,2,0
+Staphylococcus aureus,CLARK,clark,3984,1673,38,2311,0.977791,0.41993,0.587533,1,1673,0,31,26,2254,0
+Staphylococcus capitis,CLARK,clark,49,31,4,18,0.885714,0.632653,0.738095,1,31,0,1,1,16,0
+Staphylococcus epidermidis,CLARK,clark,430,225,11,205,0.95339,0.523256,0.675676,1,225,0,20,0,185,0
+Staphylococcus equorum,CLARK,clark,42,23,0,19,1.0,0.547619,0.707692,1,23,0,4,0,15,0
+Staphylococcus haemolyticus,CLARK,clark,146,70,2,76,0.972222,0.479452,0.642202,1,70,0,7,1,68,0
+Staphylococcus hominis,CLARK,clark,57,31,3,26,0.911765,0.54386,0.681319,1,31,0,3,0,23,0
+Staphylococcus intermedius,CLARK,clark,1,0,0,1,0.0,0.0,0.0,0,0,0,0,1,0,0
+Staphylococcus lugdunensis,CLARK,clark,8,5,1,3,0.833333,0.625,0.714286,1,5,0,1,0,2,0
+Staphylococcus massiliensis,CLARK,clark,2,2,0,0,1.0,1.0,1.0,1,2,0,0,0,0,0
+Staphylococcus pasteuri,CLARK,clark,14,9,5,5,0.642857,0.642857,0.642857,1,9,0,3,0,2,0
+Staphylococcus pseudintermedius,CLARK,clark,143,30,0,113,1.0,0.20979,0.346821,1,30,0,3,3,107,0
+Staphylococcus saprophyticus,CLARK,clark,54,39,1,15,0.975,0.722222,0.829787,1,39,0,1,0,14,0
+Staphylococcus schleiferi,CLARK,clark,4,4,0,0,1.0,1.0,1.0,1,4,0,0,0,0,0
+Staphylococcus simulans,CLARK,clark,29,24,9,5,0.727273,0.827586,0.774194,1,24,0,0,0,5,0
+Staphylococcus warneri,CLARK,clark,40,19,4,21,0.826087,0.475,0.603175,1,19,0,5,0,16,0
+Stenotrophomonas maltophilia,CLARK,clark,750,476,13,274,0.973415,0.634667,0.768362,1,476,0,180,18,76,0
+Streptobacillus moniliformis,CLARK,clark,2,0,0,2,0.0,0.0,0.0,0,0,0,0,0,2,0
+Streptococcus agalactiae,CLARK,clark,114,32,0,82,1.0,0.280702,0.438356,1,32,0,3,4,75,0
+Streptococcus anginosus,CLARK,clark,6,1,1,5,0.5,0.166667,0.25,1,1,0,2,0,3,0
+Streptococcus canis,CLARK,clark,6,5,0,1,1.0,0.833333,0.909091,1,5,0,0,0,1,0
+Streptococcus cristatus,CLARK,clark,19,14,0,5,1.0,0.736842,0.848485,1,14,0,3,0,2,0
+Streptococcus dysgalactiae,CLARK,clark,47,34,0,13,1.0,0.723404,0.839506,1,34,0,1,2,10,0
+Streptococcus equi,CLARK,clark,24,21,0,3,1.0,0.875,0.933333,1,21,0,0,2,1,0
+Streptococcus gallolyticus,CLARK,clark,5,3,3,2,0.5,0.6,0.545455,1,3,0,1,0,1,0
+Streptococcus gordonii,CLARK,clark,34,30,3,4,0.909091,0.882353,0.895522,1,30,0,0,0,4,0
+Streptococcus iniae,CLARK,clark,2,0,0,2,0.0,0.0,0.0,0,0,0,0,1,1,0
+Streptococcus intermedius,CLARK,clark,2,0,0,2,0.0,0.0,0.0,0,0,0,0,0,2,0
+Streptococcus mitis,CLARK,clark,119,87,33,32,0.725,0.731092,0.728033,1,87,0,26,0,6,0
+Streptococcus mutans,CLARK,clark,38,38,0,0,1.0,1.0,1.0,1,38,0,0,0,0,0
+Streptococcus pasteurianus,CLARK,clark,5,2,2,3,0.5,0.4,0.444444,1,2,0,0,0,3,0
+Streptococcus pneumoniae,CLARK,clark,754,609,19,145,0.969745,0.807692,0.881331,1,609,0,22,13,110,0
+Streptococcus porcinus,CLARK,clark,2,1,0,1,1.0,0.5,0.666667,1,1,0,0,0,1,0
+Streptococcus pseudopneumoniae,CLARK,clark,71,25,2,46,0.925926,0.352113,0.510204,1,25,0,38,1,7,0
+Streptococcus pseudoporcinus,CLARK,clark,1,1,1,0,0.5,1.0,0.666667,1,1,0,0,0,0,0
+Streptococcus pyogenes,CLARK,clark,210,181,5,29,0.973118,0.861905,0.914141,1,181,0,0,6,23,0
+Streptococcus sanguinis,CLARK,clark,48,38,1,10,0.974359,0.791667,0.873563,1,38,0,2,0,8,0
+Streptococcus sobrinus,CLARK,clark,19,19,0,0,1.0,1.0,1.0,1,19,0,0,0,0,0
+Streptococcus suis,CLARK,clark,387,115,8,272,0.934959,0.297158,0.45098,1,115,0,27,14,231,0
+Streptococcus uberis,CLARK,clark,31,28,0,3,1.0,0.903226,0.949153,1,28,0,3,0,0,0
+Thalassospira indica,CLARK,clark,1,1,0,0,1.0,1.0,1.0,1,1,0,0,0,0,0
+Trueperella pyogenes,CLARK,clark,5,1,2,4,0.333333,0.2,0.25,1,1,0,0,2,2,0
+Vibrio alginolyticus,CLARK,clark,212,161,16,51,0.909605,0.759434,0.827763,1,161,0,5,7,39,0
+Vibrio cholerae,CLARK,clark,473,392,7,81,0.982456,0.828753,0.899083,1,392,0,10,4,67,0
+Vibrio fluvialis,CLARK,clark,87,80,2,7,0.97561,0.91954,0.946746,1,80,0,2,0,5,0
+Vibrio harveyi,CLARK,clark,59,49,1,10,0.98,0.830508,0.899083,1,49,0,5,0,5,0
+Vibrio metoecus,CLARK,clark,22,18,4,4,0.818182,0.818182,0.818182,1,18,0,4,0,0,0
+Vibrio mimicus,CLARK,clark,22,22,0,0,1.0,1.0,1.0,1,22,0,0,0,0,0
+Vibrio owensii,CLARK,clark,31,29,2,2,0.935484,0.935484,0.935484,1,29,0,1,0,1,0
+Vibrio parahaemolyticus,CLARK,clark,1277,1051,1,226,0.999049,0.823023,0.902533,1,1051,0,17,10,199,0
+Vibrio vulnificus,CLARK,clark,204,191,0,13,1.0,0.936275,0.967089,1,191,0,1,3,9,0

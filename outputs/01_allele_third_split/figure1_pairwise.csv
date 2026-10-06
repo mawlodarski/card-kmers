@@ -1,0 +1,37 @@
+comparison,reference,other,other_key,metric,diff_pp,diff_lo,diff_hi,significant,favours
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,sp_precision,11.0262,10.8267,11.2253,1,CARD k-mers
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,sp_recall,-3.4927,-3.6455,-3.3282,1,Kraken2 (CARD)
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,sp_f1,2.5313,2.3936,2.6694,1,CARD k-mers
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,gn_precision,9.3454,9.1618,9.5175,1,CARD k-mers
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,gn_recall,-4.4438,-4.5972,-4.2935,1,Kraken2 (CARD)
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,gn_f1,1.4237,1.2909,1.5563,1,CARD k-mers
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,macro_sp_precision,2.4361,1.3625,3.5475,1,CARD k-mers
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,macro_sp_recall,-6.429,-7.1626,-5.6589,1,Kraken2 (CARD)
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,macro_sp_f1,-2.8291,-3.6241,-2.0668,1,Kraken2 (CARD)
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,macro_gn_precision,2.6393,1.2651,3.8085,1,CARD k-mers
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,macro_gn_recall,-2.0499,-2.9757,-1.2242,1,Kraken2 (CARD)
+CARD k-mers vs Kraken2 (CARD),CARD k-mers (61-mer),Kraken2 (CARD),kraken2_card,macro_gn_f1,-0.1083,-1.0252,0.7503,0,no difference
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,sp_precision,19.8997,19.6149,20.1626,1,CARD k-mers
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,sp_recall,10.7557,10.4827,11.0389,1,CARD k-mers
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,sp_f1,14.5066,14.2632,14.7468,1,CARD k-mers
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,gn_precision,14.3035,14.0788,14.5279,1,CARD k-mers
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,gn_recall,0.8086,0.5871,1.0378,1,CARD k-mers
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,gn_f1,6.548,6.3568,6.7516,1,CARD k-mers
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,macro_sp_precision,0.7383,-0.7393,2.2645,0,no difference
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,macro_sp_recall,-3.1082,-4.1192,-2.0221,1,Kraken2 (default)
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,macro_sp_f1,-0.305,-1.3654,0.7967,0,no difference
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,macro_gn_precision,-0.0293,-2.3685,2.4349,0,no difference
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,macro_gn_recall,-7.4139,-8.9551,-5.8968,1,Kraken2 (default)
+CARD k-mers vs Kraken2 (default),CARD k-mers (61-mer),Kraken2 (default),kraken2_default,macro_gn_f1,-3.237,-4.9348,-1.5322,1,Kraken2 (default)
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,sp_precision,5.4962,5.2878,5.7084,1,CARD k-mers
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,sp_recall,14.7415,14.4658,15.021,1,CARD k-mers
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,sp_f1,11.9225,11.7027,12.1528,1,CARD k-mers
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,gn_precision,1.5073,1.3701,1.6404,1,CARD k-mers
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,gn_recall,14.4113,14.1475,14.6689,1,CARD k-mers
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,gn_f1,10.2028,10.0048,10.396,1,CARD k-mers
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,macro_sp_precision,-0.6127,-2.1976,0.9149,0,no difference
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,macro_sp_recall,-1.3793,-2.432,-0.2931,1,CLARK
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,macro_sp_f1,-0.3299,-1.4328,0.8328,0,no difference
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,macro_gn_precision,5.3626,2.9539,7.7945,1,CARD k-mers
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,macro_gn_recall,2.0214,0.3477,3.64,1,CARD k-mers
+CARD k-mers vs CLARK,CARD k-mers (61-mer),CLARK,clark,macro_gn_f1,4.725,2.8906,6.5562,1,CARD k-mers

@@ -1,0 +1,5 @@
+tool	denominator	correct_species	correct_genus	erroneous	unclassified	rejected	sum	omitted_as_unclassified	correct_species_pct_of_total	correct_genus_pct_of_total	erroneous_pct_of_total	unclassified_pct_of_total	rejected_pct_of_total	calls_made	correct_species_pct_of_calls	correct_genus_pct_of_calls	erroneous_pct_of_calls	abstention_pct_of_total
+CARD k-mers (61-mer)	103389	77894	3091	1292	20936	176	103389	501	75.3407	2.9897	1.2496	20.2497	0.1702	82277	94.6729	3.7568	1.5703	20.42
+Kraken2 (CARD)	103389	81505	4075	10483	7326	0	103389	0	78.8333	3.9414	10.1394	7.0859	0.0	96063	84.8454	4.242	10.9126	7.0859
+Kraken2 (default)	103389	66772	13378	15120	8119	0	103389	0	64.5833	12.9395	14.6244	7.8529	0.0	95270	70.0871	14.0422	15.8707	7.8529
+CLARK	103389	62652	3432	2098	35207	0	103389	0	60.5983	3.3195	2.0292	34.0529	0.0	68182	91.8894	5.0336	3.0771	34.0529

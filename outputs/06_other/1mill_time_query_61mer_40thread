@@ -1,0 +1,23 @@
+	Command being timed: "/workspace/lab/mcarthurlab/wlodarsm/rgi_dev/rgi/rgi kmer_query -i test2.fasta --fasta -k 61 -n 40 -o query"
+	User time (seconds): 540.58
+	System time (seconds): 177.28
+	Percent of CPU this job got: 514%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:19.46
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14598464
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 41407977
+	Voluntary context switches: 11726
+	Involuntary context switches: 3636851
+	Swaps: 0
+	File system inputs: 63920
+	File system outputs: 103280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

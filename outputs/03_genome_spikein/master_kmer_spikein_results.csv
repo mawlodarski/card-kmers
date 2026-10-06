@@ -1,0 +1,1189 @@
+species,coverage,ARO term,Mapped reads with kmer DB hits,CARD*kmer Prediction,Single species (chromosome) reads,Single species (chromosome or plasmid) reads,Single species (plasmid) reads,Single species (no genomic info) reads,Single genus (chromosome) reads,Single genus (chromosome or plasmid) reads,Single genus (plasmid) reads,Single genus (no genomic info) reads,Promiscuous plasmid reads,Unknown taxonomy (chromosome) reads,Unknown taxonomy (chromosome or plasmid) reads,Unknown taxonomy (no genomic info) reads
+Escherichia_coli,0.1x,APH(6)-Id,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.1x,AcrF,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+Escherichia_coli,0.1x,Escherichia coli ampC beta-lactamase,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.1x,Escherichia coli emrE,1,,,,,,,,,,0,1,0,0
+Escherichia_coli,0.1x,TolC,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.1x,acrD,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.1x,dfrA14,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.1x,emrA,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.1x,emrY,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.1x,eptA,6,,,,,,,,,,0,0,6,0
+Escherichia_coli,0.1x,evgA,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,0.1x,evgS,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+Escherichia_coli,0.1x,mdtA,2,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,1,0
+Escherichia_coli,0.1x,mdtB,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.1x,mdtG,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.1x,mdtH,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+Escherichia_coli,0.1x,mdtN,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.1x,mdtO,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,0.1x,mdtP,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.1x,msbA,1,,,,,,,,,,0,1,0,0
+Escherichia_coli,0.1x,ugd,2,,,,,,,,,,0,1,1,0
+Escherichia_coli,0.25x,APH(3'')-Ib,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,AcrE,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,AcrF,9,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,8,0
+Escherichia_coli,0.25x,CRP,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,CTX-M-123,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,CTX-M-254,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,EC-19,0,,,,,,,,,,0,0,0,0
+Escherichia_coli,0.25x,Escherichia coli acrA,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,Escherichia coli mdfA,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,H-NS,1,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,0,0
+Escherichia_coli,0.25x,Klebsiella pneumoniae KpnH,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,Shigella flexneri acrA,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,TolC,6,,,,,,,,,,0,0,6,0
+Escherichia_coli,0.25x,acrB,6,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,5,0
+Escherichia_coli,0.25x,acrD,10,,,,,,,,,,0,0,10,0
+Escherichia_coli,0.25x,bacA,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,dfrA14,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,emrA,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,emrK,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,emrR,1,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,0,0
+Escherichia_coli,0.25x,emrY,3,,,,,,,,,,0,0,3,0
+Escherichia_coli,0.25x,eptA,2,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,evgA,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,0.25x,evgS,6,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,4,0
+Escherichia_coli,0.25x,gadX,0,,,,,,,,,,0,0,0,0
+Escherichia_coli,0.25x,kdpE,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,leuO,2,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,marA,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,mdtA,6,,,,,,,,,,0,0,6,0
+Escherichia_coli,0.25x,mdtB,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+Escherichia_coli,0.25x,mdtC,6,,,,,,,,,,0,0,6,0
+Escherichia_coli,0.25x,mdtE,3,,,,,,,,,,0,3,0,0
+Escherichia_coli,0.25x,mdtF,10,,,,,,,,,,0,10,0,0
+Escherichia_coli,0.25x,mdtG,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,mdtH,5,,,,,,,,,,0,0,5,0
+Escherichia_coli,0.25x,mdtM,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,0.25x,mdtN,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,mdtO,4,Shigella sonnei (chromosome or plasmid): 2; ,,Shigella sonnei: 2; ,,,,,,,0,0,2,0
+Escherichia_coli,0.25x,mdtP,2,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,1,0
+Escherichia_coli,0.25x,msbA,2,,,,,,,,,,0,2,0,0
+Escherichia_coli,0.25x,tet(B),2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,AAC(6')-Ib7,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.5x,APH(3'')-Ib,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.5x,APH(6)-Id,6,,,,,,,,,,0,0,6,0
+Escherichia_coli,0.5x,AcrE,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,AcrF,14,,,,,,,,,,0,0,14,0
+Escherichia_coli,0.5x,AcrS,8,,,,,,,,,,0,1,7,0
+Escherichia_coli,0.5x,CRP,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,CTX-M-123,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,EC-13,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,H-NS,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.5x,Klebsiella pneumoniae KpnH,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,OmpA,0,,,,,,,,,,0,0,0,0
+Escherichia_coli,0.5x,PmrF,7,,,,,,,,,,0,0,7,0
+Escherichia_coli,0.5x,TEM-201,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,TEM-70,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.5x,TolC,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,YojI,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+Escherichia_coli,0.5x,acrB,15,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,14,0
+Escherichia_coli,0.5x,acrD,15,Shigella dysenteriae (chromosome or plasmid): 1; ,,Shigella dysenteriae: 1; ,,,,,,,0,0,14,0
+Escherichia_coli,0.5x,cpxA,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,0.5x,dfrA14,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.5x,emrA,8,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,7,0
+Escherichia_coli,0.5x,emrK,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,0.5x,emrY,7,,,,,,,,,,0,0,7,0
+Escherichia_coli,0.5x,eptA,3,,,,,,,,,,0,0,3,0
+Escherichia_coli,0.5x,evgA,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,0.5x,evgS,6,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,4,0
+Escherichia_coli,0.5x,gadW,2,Escherichia coli (chromosome): 2; ,Escherichia coli: 2; ,,,,,,,,0,0,0,0
+Escherichia_coli,0.5x,kdpE,5,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,3,0
+Escherichia_coli,0.5x,marA,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.5x,mdtA,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,mdtB,18,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,17,0
+Escherichia_coli,0.5x,mdtC,19,,,,,,,,,,0,0,19,0
+Escherichia_coli,0.5x,mdtE,2,,,,,,,,,,0,2,0,0
+Escherichia_coli,0.5x,mdtF,12,,,,,,,,,,0,12,0,0
+Escherichia_coli,0.5x,mdtG,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,mdtH,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,0.5x,mdtM,6,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,3,2,0
+Escherichia_coli,0.5x,mdtN,3,,,,,,,,,,0,0,3,0
+Escherichia_coli,0.5x,mdtO,10,Shigella sonnei (chromosome or plasmid): 1; ,,Shigella sonnei: 1; ,,,,,,,0,0,9,0
+Escherichia_coli,0.5x,mdtP,6,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,5,0
+Escherichia_coli,0.5x,msbA,6,,,,,,,,,,0,6,0,0
+Escherichia_coli,0.5x,tet(B),1,,,,,,,,,,0,0,1,0
+Escherichia_coli,0.5x,ugd,1,,,,,,,,,,0,1,0,0
+Escherichia_coli,1x,APH(3'')-Ib,8,,,,,,,,,,0,0,8,0
+Escherichia_coli,1x,APH(6)-Id,5,,,,,,,,,,0,0,5,0
+Escherichia_coli,1x,AcrE,6,,,,,,,,,,0,0,6,0
+Escherichia_coli,1x,AcrF,19,Shigella flexneri (chromosome or plasmid): 1; ,,Shigella flexneri: 1; ,,,,,,,0,0,18,0
+Escherichia_coli,1x,AcrS,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,1x,CRP,6,,,,,,,,,,0,0,6,0
+Escherichia_coli,1x,CTX-M-254,5,,,,,,,,,,0,0,5,0
+Escherichia_coli,1x,EC-13,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,1x,Escherichia coli acrA,5,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,0,4,0
+Escherichia_coli,1x,Escherichia coli ampC beta-lactamase,3,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,0,2,0
+Escherichia_coli,1x,Escherichia coli mdfA,7,,,,,,,,,,0,0,7,0
+Escherichia_coli,1x,PmrF,9,,,,,,,,,,0,0,9,0
+Escherichia_coli,1x,TEM-201,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,1x,TEM-70,3,,,,,,,,,,0,1,2,0
+Escherichia_coli,1x,TolC,14,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,13,0
+Escherichia_coli,1x,YojI,22,,,,,,,,,,0,0,22,0
+Escherichia_coli,1x,acrB,16,,,,,,,,,,0,0,16,0
+Escherichia_coli,1x,acrD,22,Shigella dysenteriae (chromosome or plasmid): 1; ,,Shigella dysenteriae: 1; ,,,,,,,0,0,21,0
+Escherichia_coli,1x,cpxA,5,,,,,,,,,,0,0,5,0
+Escherichia_coli,1x,dfrA14,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,1x,emrA,9,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,7,0
+Escherichia_coli,1x,emrB,12,,,,,,,,,,0,0,12,0
+Escherichia_coli,1x,emrK,8,,,,,,,,,,0,0,8,0
+Escherichia_coli,1x,emrR,7,,,,,,,,,,0,0,7,0
+Escherichia_coli,1x,emrY,9,,,,,,,,,,0,0,9,0
+Escherichia_coli,1x,eptA,11,,,,,,,,,,0,0,11,0
+Escherichia_coli,1x,evgA,6,,,,,,,,,,0,0,6,0
+Escherichia_coli,1x,evgS,11,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,9,0
+Escherichia_coli,1x,gadW,1,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,0,0,0
+Escherichia_coli,1x,gadX,5,Escherichia coli (chromosome): 3; ,Escherichia coli: 3; ,,,,,,,,0,2,0,0
+Escherichia_coli,1x,kdpE,2,,,,,,,,,,0,1,1,0
+Escherichia_coli,1x,leuO,7,,,,,,,,,,0,0,7,0
+Escherichia_coli,1x,marA,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+Escherichia_coli,1x,mdtA,12,,,,,,,,,,0,0,12,0
+Escherichia_coli,1x,mdtB,17,,,,,,,,,,0,0,17,0
+Escherichia_coli,1x,mdtC,15,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,14,0
+Escherichia_coli,1x,mdtE,4,,,,,,,,,,0,4,0,0
+Escherichia_coli,1x,mdtF,10,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,9,0,0
+Escherichia_coli,1x,mdtG,6,Escherichia coli (chromosome): 1; Escherichia coli (chromosome or plasmid): 1; ,Escherichia coli: 1; ,Escherichia coli: 1; ,,,,,,,0,0,4,0
+Escherichia_coli,1x,mdtH,7,,,,,,,,,,0,0,7,0
+Escherichia_coli,1x,mdtM,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,1x,mdtN,5,,,,,,,,,,0,0,5,0
+Escherichia_coli,1x,mdtO,12,,,,,,,,,,0,0,12,0
+Escherichia_coli,1x,mdtP,20,Escherichia coli (chromosome): 1; Escherichia coli (chromosome or plasmid): 2; Shigella sonnei (chromosome or plasmid): 1; ,Escherichia coli: 1; ,Escherichia coli: 2; Shigella sonnei: 1; ,,,,,,,0,0,16,0
+Escherichia_coli,1x,msbA,18,,,,,,,,,,0,18,0,0
+Escherichia_coli,1x,sul2,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,1x,tet(B),5,,,,,,,,,,0,0,5,0
+Escherichia_coli,1x,ugd,10,Escherichia coli (chromosome): 4; ,Escherichia coli: 4; ,,,,,,,,0,2,4,0
+Escherichia_coli,2x,AAC(6')-Ib7,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,2x,APH(3'')-Ib,10,,,,,,,,,,0,0,10,0
+Escherichia_coli,2x,APH(6)-Id,13,Klebsiella pneumoniae (chromosome or plasmid): 1; Escherichia coli (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; Escherichia coli: 1; ,,,,,,,1,0,10,0
+Escherichia_coli,2x,AcrE,27,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,26,0
+Escherichia_coli,2x,AcrF,36,Shigella flexneri (chromosome or plasmid): 1; ,,Shigella flexneri: 1; ,,,,,,,0,0,35,0
+Escherichia_coli,2x,AcrS,13,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,12,0
+Escherichia_coli,2x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,2x,CRP,4,,,,,,,,,,0,0,4,0
+Escherichia_coli,2x,CTX-M-211,8,,,,,,,,,,0,0,8,0
+Escherichia_coli,2x,CTX-M-254,1,,,,,,,,,,0,0,1,0
+Escherichia_coli,2x,EC-14,17,,,,,,,,,,0,4,13,0
+Escherichia_coli,2x,Escherichia coli acrA,10,,,,,,,,,,0,0,10,0
+Escherichia_coli,2x,Escherichia coli ampC beta-lactamase,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+Escherichia_coli,2x,Escherichia coli mdfA,10,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,2,7,0
+Escherichia_coli,2x,H-NS,7,Escherichia coli (chromosome or plasmid): 3; ,,Escherichia coli: 3; ,,,,,,,0,0,4,0
+Escherichia_coli,2x,Klebsiella pneumoniae KpnH,27,,,,,,,,,,0,0,27,0
+Escherichia_coli,2x,PmrF,16,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,15,0
+Escherichia_coli,2x,Shigella flexneri acrA,7,,,,,,,,,,0,0,7,0
+Escherichia_coli,2x,TEM-228,3,,,,,,,,,,0,0,3,0
+Escherichia_coli,2x,TEM-34,2,,,,,,,,,,0,0,2,0
+Escherichia_coli,2x,TEM-70,8,Klebsiella quasipneumoniae (chromosome or plasmid): 1; ,,Klebsiella quasipneumoniae: 1; ,,,,,,,0,2,5,0
+Escherichia_coli,2x,TolC,32,,,,,,,,,,0,0,32,0
+Escherichia_coli,2x,YojI,21,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,20,0
+Escherichia_coli,2x,acrB,54,Escherichia coli (chromosome): 1; Escherichia coli (chromosome or plasmid): 2; ,Escherichia coli: 1; ,Escherichia coli: 2; ,,,,,,,0,0,51,0
+Escherichia_coli,2x,acrD,42,Escherichia coli (chromosome or plasmid): 1; Shigella dysenteriae (chromosome or plasmid): 1; ,,Escherichia coli: 1; Shigella dysenteriae: 1; ,,,,,,,0,0,40,0
+Escherichia_coli,2x,bacA,13,,,,,,,,,,0,0,13,0
+Escherichia_coli,2x,cpxA,19,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,18,0
+Escherichia_coli,2x,dfrA14,10,,,,,,,,,,0,0,10,0
+Escherichia_coli,2x,emrA,14,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,13,0
+Escherichia_coli,2x,emrK,12,,,,,,,,,,0,0,12,0
+Escherichia_coli,2x,emrR,9,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,8,0
+Escherichia_coli,2x,emrY,17,,,,,,,,,,0,0,17,0
+Escherichia_coli,2x,eptA,27,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,25,0
+Escherichia_coli,2x,evgA,11,,,,,,,,,,0,0,11,0
+Escherichia_coli,2x,evgS,32,Escherichia coli (chromosome or plasmid): 3; ,,Escherichia coli: 3; ,,,,,,,0,0,29,0
+Escherichia_coli,2x,gadW,3,Escherichia coli (chromosome): 3; ,Escherichia coli: 3; ,,,,,,,,0,0,0,0
+Escherichia_coli,2x,gadX,12,Escherichia coli (chromosome): 1; Shigella sonnei (chromosome): 1; ,Escherichia coli: 1; Shigella sonnei: 1; ,,,,,,,,0,10,0,0
+Escherichia_coli,2x,kdpE,8,,,,,,,,,,0,3,5,0
+Escherichia_coli,2x,leuO,17,,,,,,,,,,0,1,16,0
+Escherichia_coli,2x,marA,6,Escherichia coli (chromosome or plasmid): 3; ,,Escherichia coli: 3; ,,,,,,,0,0,3,0
+Escherichia_coli,2x,mdtA,16,Shigella sonnei (chromosome or plasmid): 1; Escherichia coli (chromosome or plasmid): 1; ,,Shigella sonnei: 1; Escherichia coli: 1; ,,,,,,,0,0,14,0
+Escherichia_coli,2x,mdtB,45,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,43,0
+Escherichia_coli,2x,mdtC,48,Escherichia coli (chromosome or plasmid): 4; ,,Escherichia coli: 4; ,,,,,,,0,0,44,0
+Escherichia_coli,2x,mdtE,26,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,25,0,0
+Escherichia_coli,2x,mdtF,38,Escherichia coli (chromosome): 2; ,Escherichia coli: 2; ,,,,,,,,0,36,0,0
+Escherichia_coli,2x,mdtG,12,,,,,,,,,,0,0,12,0
+Escherichia_coli,2x,mdtH,12,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,1,10,0
+Escherichia_coli,2x,mdtM,9,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,2,5,0
+Escherichia_coli,2x,mdtN,16,,,,,,,,,,0,0,16,0
+Escherichia_coli,2x,mdtO,38,Escherichia coli (chromosome or plasmid): 1; Shigella sonnei (chromosome or plasmid): 1; ,,Escherichia coli: 1; Shigella sonnei: 1; ,,,,,,,0,0,35,1
+Escherichia_coli,2x,mdtP,18,,,,,,,,,,0,0,18,0
+Escherichia_coli,2x,msbA,23,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,22,0,0
+Escherichia_coli,2x,sul2,7,,,,,,,,,,0,0,7,0
+Escherichia_coli,2x,tet(B),19,,,,,,,,,,0,0,19,0
+Escherichia_coli,2x,ugd,10,Escherichia coli (chromosome): 3; Escherichia coli (chromosome or plasmid): 1; ,Escherichia coli: 3; ,Escherichia coli: 1; ,,,,,,,0,3,3,0
+Klebsiella_pneumoniae,0.1x,Klebsiella pneumoniae KpnH,1,Klebsiella (chromosome or plasmid): 1; ,,,,,,Klebsiella: 1; ,,,0,0,0,0
+Klebsiella_pneumoniae,0.1x,OmpA,2,,,,,,,,,,0,0,2,0
+Klebsiella_pneumoniae,0.1x,SHV-224,2,,,,,,,,,,0,0,2,0
+Klebsiella_pneumoniae,0.1x,acrB,0,,,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.1x,eptB,2,Klebsiella pneumoniae (chromosome): 1; Klebsiella (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 1; ,,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,AcrF,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,ArnT,2,,,,,,,,,,0,2,0,0
+Klebsiella_pneumoniae,0.25x,FosA6,3,,,,,,,,,,0,0,3,0
+Klebsiella_pneumoniae,0.25x,Klebsiella pneumoniae KpnG,5,Klebsiella (chromosome or plasmid): 5; ,,,,,,Klebsiella: 5; ,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,Klebsiella pneumoniae KpnH,5,Klebsiella pneumoniae (chromosome or plasmid): 1; Klebsiella (chromosome or plasmid): 4; ,,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 4; ,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,LptD,9,Klebsiella pneumoniae (chromosome): 6; Klebsiella (chromosome): 3; ,Klebsiella pneumoniae: 6; ,,,,Klebsiella: 3; ,,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,OmpA,4,,,,,,,,,,0,0,4,0
+Klebsiella_pneumoniae,0.25x,acrD,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,eptB,6,Klebsiella pneumoniae (chromosome): 4; Klebsiella (chromosome): 2; ,Klebsiella pneumoniae: 4; ,,,,Klebsiella: 2; ,,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,mdtF,0,,,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,mexQ,1,Klebsiella (chromosome): 1; ,,,,,Klebsiella: 1; ,,,,0,0,0,0
+Klebsiella_pneumoniae,0.25x,oqxA,4,,,,,,,,,,0,0,4,0
+Klebsiella_pneumoniae,0.25x,oqxB,3,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,2,0
+Klebsiella_pneumoniae,0.5x,AcrF,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,CRP,1,Klebsiella (chromosome): 1; ,,,,,Klebsiella: 1; ,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,H-NS,2,Klebsiella pneumoniae (chromosome): 1; Klebsiella (chromosome or plasmid): 1; ,Klebsiella pneumoniae: 1; ,,,,,Klebsiella: 1; ,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,Klebsiella pneumoniae KpnF,1,Klebsiella (chromosome or plasmid): 1; ,,,,,,Klebsiella: 1; ,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,Klebsiella pneumoniae KpnG,9,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 7; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 7; ,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,Klebsiella pneumoniae KpnH,1,Klebsiella (chromosome or plasmid): 1; ,,,,,,Klebsiella: 1; ,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,Klebsiella pneumoniae OmpK37,6,Klebsiella pneumoniae (chromosome or plasmid): 4; Klebsiella (chromosome or plasmid): 2; ,,Klebsiella pneumoniae: 4; ,,,,Klebsiella: 2; ,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,LptD,2,Klebsiella (chromosome): 2; ,,,,,Klebsiella: 2; ,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,MexF,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,MexI,0,,,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,OmpA,5,,,,,,,,,,0,0,5,0
+Klebsiella_pneumoniae,0.5x,OpmD,1,Pseudomonas aeruginosa (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,Pseudomonas aeruginosa emrE,1,Pseudomonas aeruginosa (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,SHV-224,2,,,,,,,,,,0,0,2,0
+Klebsiella_pneumoniae,0.5x,acrB,5,Klebsiella pneumoniae (chromosome): 5; ,Klebsiella pneumoniae: 5; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,oqxA,3,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,2,0
+Klebsiella_pneumoniae,0.5x,oqxB,11,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 2; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 2; ,,,0,1,6,0
+Klebsiella_pneumoniae,0.5x,rpoB2,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,0.5x,smeE,2,Serratia rubidaea (chromosome): 1; Klebsiella (chromosome): 1; ,Serratia rubidaea: 1; ,,,,Klebsiella: 1; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,AcrF,2,Klebsiella (chromosome): 2; ,,,,,Klebsiella: 2; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,ArnT,15,Klebsiella pneumoniae (chromosome): 9; Klebsiella (chromosome): 6; ,Klebsiella pneumoniae: 9; ,,,,Klebsiella: 6; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,CRP,5,Klebsiella (chromosome): 5; ,,,,,Klebsiella: 5; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,FosA6,3,,,,,,,,,,0,0,3,0
+Klebsiella_pneumoniae,1x,H-NS,4,Klebsiella pneumoniae (chromosome): 1; Klebsiella (chromosome or plasmid): 3; ,Klebsiella pneumoniae: 1; ,,,,,Klebsiella: 3; ,,,0,0,0,0
+Klebsiella_pneumoniae,1x,Klebsiella pneumoniae KpnE,5,Klebsiella pneumoniae (chromosome or plasmid): 1; Klebsiella (chromosome or plasmid): 3; ,,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 3; ,,,0,0,1,0
+Klebsiella_pneumoniae,1x,Klebsiella pneumoniae KpnF,3,Klebsiella (chromosome or plasmid): 3; ,,,,,,Klebsiella: 3; ,,,0,0,0,0
+Klebsiella_pneumoniae,1x,Klebsiella pneumoniae KpnG,7,Klebsiella pneumoniae (chromosome or plasmid): 1; Klebsiella (chromosome or plasmid): 6; ,,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 6; ,,,0,0,0,0
+Klebsiella_pneumoniae,1x,Klebsiella pneumoniae KpnH,3,Klebsiella (chromosome or plasmid): 3; ,,,,,,Klebsiella: 3; ,,,0,0,0,0
+Klebsiella_pneumoniae,1x,Klebsiella pneumoniae OmpK37,11,Klebsiella pneumoniae (chromosome or plasmid): 7; Klebsiella (chromosome or plasmid): 4; ,,Klebsiella pneumoniae: 7; ,,,,Klebsiella: 4; ,,,0,0,0,0
+Klebsiella_pneumoniae,1x,Klebsiella pneumoniae acrA,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,LptD,18,Klebsiella pneumoniae (chromosome): 10; Klebsiella (chromosome): 8; ,Klebsiella pneumoniae: 10; ,,,,Klebsiella: 8; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,MexB,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,MexF,4,Pseudomonas aeruginosa (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,1,0
+Klebsiella_pneumoniae,1x,MexI,1,Pseudomonas (chromosome): 1; ,,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,OmpA,9,,,,,,,,,,0,0,9,0
+Klebsiella_pneumoniae,1x,OpmD,1,Pseudomonas (chromosome): 1; ,,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,OprM,1,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,Pseudomonas aeruginosa emrE,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,SHV-224,1,,,,,,,,,,0,0,1,0
+Klebsiella_pneumoniae,1x,SHV-81,2,,,,,,,,,,0,0,2,0
+Klebsiella_pneumoniae,1x,acrB,6,Klebsiella pneumoniae (chromosome): 6; ,Klebsiella pneumoniae: 6; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,acrD,3,Klebsiella (chromosome): 3; ,,,,,Klebsiella: 3; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,eptB,9,Klebsiella pneumoniae (chromosome): 4; Klebsiella (chromosome): 5; ,Klebsiella pneumoniae: 4; ,,,,Klebsiella: 5; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,mexQ,3,Klebsiella pneumoniae (chromosome): 1; Klebsiella (chromosome): 2; ,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 2; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,msbA,1,Klebsiella (chromosome): 1; ,,,,,Klebsiella: 1; ,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,oqxA,13,Klebsiella pneumoniae (chromosome or plasmid): 4; Escherichia coli (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 4; Escherichia coli: 1; ,,,,,,,0,0,8,0
+Klebsiella_pneumoniae,1x,oqxB,24,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 9; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 9; ,,,0,0,13,0
+Klebsiella_pneumoniae,1x,rpoB2,2,Klebsiella pneumoniae (chromosome): 2; ,Klebsiella pneumoniae: 2; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,1x,smeE,2,Serratia rubidaea (chromosome): 2; ,Serratia rubidaea: 2; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,AcrF,2,Klebsiella (chromosome): 2; ,,,,,Klebsiella: 2; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,ArnT,24,Klebsiella pneumoniae (chromosome): 11; Klebsiella (chromosome): 8; ,Klebsiella pneumoniae: 11; ,,,,Klebsiella: 8; ,,,,0,5,0,0
+Klebsiella_pneumoniae,2x,AxyY,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,CRP,13,Klebsiella (chromosome): 13; ,,,,,Klebsiella: 13; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,FosA6,6,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,5,0
+Klebsiella_pneumoniae,2x,H-NS,9,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 7; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 7; ,,,0,0,0,0
+Klebsiella_pneumoniae,2x,Klebsiella pneumoniae KpnE,7,Klebsiella pneumoniae (chromosome or plasmid): 3; Klebsiella (chromosome or plasmid): 3; ,,Klebsiella pneumoniae: 3; ,,,,Klebsiella: 3; ,,,0,0,1,0
+Klebsiella_pneumoniae,2x,Klebsiella pneumoniae KpnF,6,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 4; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 4; ,,,0,0,0,0
+Klebsiella_pneumoniae,2x,Klebsiella pneumoniae KpnG,18,Klebsiella pneumoniae (chromosome or plasmid): 7; Klebsiella (chromosome or plasmid): 11; ,,Klebsiella pneumoniae: 7; ,,,,Klebsiella: 11; ,,,0,0,0,0
+Klebsiella_pneumoniae,2x,Klebsiella pneumoniae KpnH,4,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 2; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 2; ,,,0,0,0,0
+Klebsiella_pneumoniae,2x,Klebsiella pneumoniae OmpK37,18,Klebsiella pneumoniae (chromosome): 1; Klebsiella pneumoniae (chromosome or plasmid): 11; Klebsiella (chromosome or plasmid): 6; ,Klebsiella pneumoniae: 1; ,Klebsiella pneumoniae: 11; ,,,,Klebsiella: 6; ,,,0,0,0,0
+Klebsiella_pneumoniae,2x,Klebsiella pneumoniae acrA,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,LptD,31,Klebsiella pneumoniae (chromosome): 16; Klebsiella (chromosome): 15; ,Klebsiella pneumoniae: 16; ,,,,Klebsiella: 15; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,MexB,3,Klebsiella pneumoniae (chromosome): 3; ,Klebsiella pneumoniae: 3; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,MexF,6,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,2,0
+Klebsiella_pneumoniae,2x,MexI,2,Pseudomonas (chromosome): 2; ,,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,OmpA,14,Klebsiella (chromosome or plasmid): 2; ,,,,,,Klebsiella: 2; ,,,0,0,12,0
+Klebsiella_pneumoniae,2x,OpmD,2,Pseudomonas (chromosome): 2; ,,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,OprM,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,Pseudomonas aeruginosa emrE,3,Pseudomonas aeruginosa (chromosome): 3; ,Pseudomonas aeruginosa: 3; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,SHV-224,7,,,,,,,,,,0,0,7,0
+Klebsiella_pneumoniae,2x,SHV-85,2,,,,,,,,,,0,0,2,0
+Klebsiella_pneumoniae,2x,acrB,21,Klebsiella pneumoniae (chromosome): 21; ,Klebsiella pneumoniae: 21; ,,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,acrD,6,Klebsiella pneumoniae (chromosome): 1; Klebsiella (chromosome): 5; ,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 5; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,emrR,1,Klebsiella (chromosome or plasmid): 1; ,,,,,,Klebsiella: 1; ,,,0,0,0,0
+Klebsiella_pneumoniae,2x,eptB,17,Klebsiella pneumoniae (chromosome): 8; Klebsiella (chromosome): 9; ,Klebsiella pneumoniae: 8; ,,,,Klebsiella: 9; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,leuO,2,Klebsiella (chromosome): 2; ,,,,,Klebsiella: 2; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,mexQ,5,Klebsiella pneumoniae (chromosome): 2; Klebsiella (chromosome): 3; ,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 3; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,msbA,1,Klebsiella (chromosome): 1; ,,,,,Klebsiella: 1; ,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,oqxA,8,Klebsiella pneumoniae (chromosome or plasmid): 3; ,,Klebsiella pneumoniae: 3; ,,,,,,,0,0,5,0
+Klebsiella_pneumoniae,2x,oqxB,28,Klebsiella pneumoniae (chromosome or plasmid): 3; Escherichia coli (chromosome or plasmid): 3; Klebsiella (chromosome or plasmid): 3; ,,Klebsiella pneumoniae: 3; Escherichia coli: 3; ,,,,Klebsiella: 3; ,,,0,0,19,0
+Klebsiella_pneumoniae,2x,rpoB2,2,Klebsiella pneumoniae (chromosome): 1; Klebsiella pneumoniae (chromosome or plasmid): 1; ,Klebsiella pneumoniae: 1; ,Klebsiella pneumoniae: 1; ,,,,,,,0,0,0,0
+Klebsiella_pneumoniae,2x,smeE,4,Klebsiella pneumoniae (chromosome): 2; Serratia rubidaea (chromosome): 1; Klebsiella (chromosome): 1; ,Klebsiella pneumoniae: 2; Serratia rubidaea: 1; ,,,,Klebsiella: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,MexB,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,MexJ,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,MexK,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,MuxB,4,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,OprA,0,,,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,PmpM,2,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,Pseudomonas aeruginosa catB7,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,TriA,2,Pseudomonas (chromosome): 2; ,,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,TriB,3,Pseudomonas (chromosome): 3; ,,,,,Pseudomonas: 3; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,TriC,4,Pseudomonas (chromosome): 4; ,,,,,Pseudomonas: 4; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,arnA,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,mexM,2,Pseudomonas aeruginosa (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,,,,,0,1,0,0
+Pseudomonas_aeruginosa,0.1x,mexQ,6,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,2,0
+Pseudomonas_aeruginosa,0.1x,mexY,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.1x,opmE,2,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,APH(3')-IIb,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,FosA,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexA,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexB,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexC,2,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,1,0
+Pseudomonas_aeruginosa,0.25x,MexD,9,Pseudomonas aeruginosa (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,4,0
+Pseudomonas_aeruginosa,0.25x,MexE,2,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexF,5,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,1,2,0
+Pseudomonas_aeruginosa,0.25x,MexG,2,Pseudomonas (chromosome): 2; ,,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexH,8,Pseudomonas aeruginosa (chromosome): 3; Pseudomonas (chromosome): 5; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 5; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexI,6,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexJ,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexK,5,Pseudomonas (chromosome or plasmid): 5; ,,,,,,Pseudomonas: 5; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexV,4,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MexW,8,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 5; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MuxA,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MuxB,4,Pseudomonas (chromosome or plasmid): 4; ,,,,,,Pseudomonas: 4; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,MuxC,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,OXA-1022,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,OpmD,2,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,OprJ,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,PDC-277,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,PDC-28,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,Pseudomonas aeruginosa CpxR,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,Pseudomonas aeruginosa catB7,5,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,TriA,2,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,TriB,2,Pseudomonas (chromosome): 2; ,,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,TriC,5,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,arnA,9,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 6; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,bcr-1,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,mexM,2,,,,,,,,,,0,2,0,0
+Pseudomonas_aeruginosa,0.25x,mexN,5,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 4; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 4; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,mexQ,8,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 4; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,3,0
+Pseudomonas_aeruginosa,0.25x,mexY,7,Pseudomonas aeruginosa (chromosome): 7; ,Pseudomonas aeruginosa: 7; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.25x,opmE,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,APH(3')-IIb,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MexA,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MexB,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MexC,4,Pseudomonas aeruginosa (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,1,0
+Pseudomonas_aeruginosa,0.5x,MexD,4,Pseudomonas aeruginosa (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,1,0
+Pseudomonas_aeruginosa,0.5x,MexE,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MexF,11,Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 1; ,,,0,0,4,0
+Pseudomonas_aeruginosa,0.5x,MexI,12,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 11; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 11; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MexJ,6,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MexK,11,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 7; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 7; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MexV,4,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MexW,21,Pseudomonas aeruginosa (chromosome or plasmid): 8; Pseudomonas (chromosome or plasmid): 13; ,,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 13; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MuxA,1,Pseudomonas (chromosome): 1; ,,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MuxB,13,Pseudomonas aeruginosa (chromosome or plasmid): 5; Pseudomonas (chromosome or plasmid): 8; ,,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 8; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,MuxC,11,Pseudomonas aeruginosa (chromosome or plasmid): 8; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,OXA-1278,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,OpmB,7,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,OpmD,6,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 5; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 5; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,OpmH,8,Pseudomonas aeruginosa (chromosome): 6; Pseudomonas (chromosome): 2; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,OprJ,2,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,OprM,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,OprN,1,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,PDC-526,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,ParR,9,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas aeruginosa (chromosome or plasmid): 5; ,Pseudomonas aeruginosa: 4; ,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,ParS,7,Pseudomonas aeruginosa (chromosome or plasmid): 5; Pseudomonas (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,PmpM,3,Pseudomonas (chromosome): 3; ,,,,,Pseudomonas: 3; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,Pseudomonas aeruginosa CpxR,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,Pseudomonas aeruginosa catB7,7,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 5; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,Pseudomonas aeruginosa soxR,1,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,TriA,7,Pseudomonas aeruginosa (chromosome): 3; Pseudomonas (chromosome): 4; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 4; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,TriB,5,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 4; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 4; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,TriC,6,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 2; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,acrB,1,Enterobacter asburiae (chromosome): 1; ,Enterobacter asburiae: 1; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,arnA,11,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 7; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 7; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,basS,10,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 6; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,bcr-1,4,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,mexN,14,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas (chromosome): 9; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 9; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,mexP,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,mexQ,10,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 5; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,4,0
+Pseudomonas_aeruginosa,0.5x,mexY,18,Pseudomonas aeruginosa (chromosome): 18; ,Pseudomonas aeruginosa: 18; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,0.5x,opmE,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,APH(3')-IIb,8,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 6; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,ArmR,0,,,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,FosA,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexA,6,Pseudomonas (chromosome): 1; Pseudomonas (chromosome or plasmid): 5; ,,,,,Pseudomonas: 1; ,Pseudomonas: 5; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexB,16,Pseudomonas aeruginosa (chromosome or plasmid): 16; ,,Pseudomonas aeruginosa: 16; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexC,9,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,7,0
+Pseudomonas_aeruginosa,1x,MexD,15,Pseudomonas aeruginosa (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,10,0
+Pseudomonas_aeruginosa,1x,MexE,11,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome): 1; Pseudomonas (chromosome or plasmid): 6; ,,Pseudomonas aeruginosa: 4; ,,,Pseudomonas: 1; ,Pseudomonas: 6; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexF,22,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 10; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 10; ,,,,Pseudomonas: 2; ,,,0,1,8,0
+Pseudomonas_aeruginosa,1x,MexG,1,Pseudomonas aeruginosa (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexH,3,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 2; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexI,25,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 21; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 21; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexJ,6,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexK,23,Pseudomonas aeruginosa (chromosome or plasmid): 12; Pseudomonas (chromosome or plasmid): 11; ,,Pseudomonas aeruginosa: 12; ,,,,Pseudomonas: 11; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexV,5,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MexW,27,Pseudomonas aeruginosa (chromosome or plasmid): 11; Pseudomonas (chromosome or plasmid): 16; ,,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 16; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MuxA,10,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 6; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MuxB,25,Pseudomonas aeruginosa (chromosome or plasmid): 5; Pseudomonas (chromosome or plasmid): 20; ,,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 20; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,MuxC,19,Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 13; ,,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 13; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,OXA-1022,3,Pseudomonas aeruginosa (chromosome): 3; ,Pseudomonas aeruginosa: 3; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,OXA-1278,3,Pseudomonas aeruginosa (chromosome): 3; ,Pseudomonas aeruginosa: 3; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,OpmB,8,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,OpmD,11,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 7; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 7; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,OpmH,13,Pseudomonas aeruginosa (chromosome): 9; Pseudomonas (chromosome): 4; ,Pseudomonas aeruginosa: 9; ,,,,Pseudomonas: 4; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,OprJ,3,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,OprM,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,OprN,4,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,2,0
+Pseudomonas_aeruginosa,1x,PDC-212,10,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 5; ,,,0,0,1,0
+Pseudomonas_aeruginosa,1x,ParR,5,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,ParS,15,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 8; Pseudomonas (chromosome or plasmid): 6; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,PmpM,17,Pseudomonas aeruginosa (chromosome): 6; Pseudomonas (chromosome): 11; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 11; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,Pseudomonas aeruginosa CpxR,10,Pseudomonas (chromosome or plasmid): 10; ,,,,,,Pseudomonas: 10; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,Pseudomonas aeruginosa catB7,10,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,Pseudomonas aeruginosa emrE,0,,,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,TriA,8,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas (chromosome): 6; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 6; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,TriB,11,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 7; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 7; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,TriC,28,Pseudomonas aeruginosa (chromosome): 10; Pseudomonas (chromosome): 18; ,Pseudomonas aeruginosa: 10; ,,,,Pseudomonas: 18; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,acrB,2,Enterobacter asburiae (chromosome): 1; ,Enterobacter asburiae: 1; ,,,,,,,,0,1,0,0
+Pseudomonas_aeruginosa,1x,arnA,15,Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 9; ,,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 9; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,basS,12,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 9; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 9; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,bcr-1,10,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 5; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 5; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,ceoB,4,,,,,,,,,,0,4,0,0
+Pseudomonas_aeruginosa,1x,cprR,1,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,cprS,7,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,mdsB,4,,,,,,,,,,0,4,0,0
+Pseudomonas_aeruginosa,1x,mexM,11,Pseudomonas aeruginosa (chromosome): 5; ,Pseudomonas aeruginosa: 5; ,,,,,,,,0,6,0,0
+Pseudomonas_aeruginosa,1x,mexN,33,Pseudomonas aeruginosa (chromosome): 12; Pseudomonas (chromosome): 21; ,Pseudomonas aeruginosa: 12; ,,,,Pseudomonas: 21; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,mexP,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,mexQ,38,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 18; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 18; ,,,,,,,0,2,17,0
+Pseudomonas_aeruginosa,1x,mexY,8,Pseudomonas aeruginosa (chromosome): 8; ,Pseudomonas aeruginosa: 8; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,1x,opmE,10,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 7; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 7; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,APH(3')-IIb,7,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 5; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,ArmR,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,FosA,5,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 4; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexA,9,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome): 1; Pseudomonas (chromosome or plasmid): 7; ,,Pseudomonas aeruginosa: 1; ,,,Pseudomonas: 1; ,Pseudomonas: 7; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexB,36,Pseudomonas aeruginosa (chromosome or plasmid): 36; ,,Pseudomonas aeruginosa: 36; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexC,15,Pseudomonas aeruginosa (chromosome or plasmid): 10; ,,Pseudomonas aeruginosa: 10; ,,,,,,,0,0,5,0
+Pseudomonas_aeruginosa,2x,MexD,39,Pseudomonas aeruginosa (chromosome or plasmid): 19; ,,Pseudomonas aeruginosa: 19; ,,,,,,,0,0,20,0
+Pseudomonas_aeruginosa,2x,MexE,22,Pseudomonas aeruginosa (chromosome or plasmid): 11; Pseudomonas (chromosome): 1; Pseudomonas (chromosome or plasmid): 10; ,,Pseudomonas aeruginosa: 11; ,,,Pseudomonas: 1; ,Pseudomonas: 10; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexF,47,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 18; Pseudomonas (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 18; ,,,,Pseudomonas: 3; ,,,0,1,23,0
+Pseudomonas_aeruginosa,2x,MexG,7,Pseudomonas (chromosome): 7; ,,,,,Pseudomonas: 7; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexH,15,Pseudomonas aeruginosa (chromosome): 8; Pseudomonas (chromosome): 7; ,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 7; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexI,47,Pseudomonas aeruginosa (chromosome): 12; Pseudomonas (chromosome): 35; ,Pseudomonas aeruginosa: 12; ,,,,Pseudomonas: 35; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexJ,21,Pseudomonas aeruginosa (chromosome or plasmid): 11; Pseudomonas (chromosome or plasmid): 10; ,,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 10; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexK,51,Pseudomonas aeruginosa (chromosome or plasmid): 18; Pseudomonas (chromosome or plasmid): 33; ,,Pseudomonas aeruginosa: 18; ,,,,Pseudomonas: 33; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexV,17,Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 11; ,,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 11; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MexW,46,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 25; Pseudomonas (chromosome or plasmid): 20; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 25; ,,,,Pseudomonas: 20; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MuxA,29,Pseudomonas aeruginosa (chromosome or plasmid): 14; Pseudomonas (chromosome or plasmid): 15; ,,Pseudomonas aeruginosa: 14; ,,,,Pseudomonas: 15; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MuxB,26,Pseudomonas aeruginosa (chromosome or plasmid): 9; Pseudomonas (chromosome or plasmid): 17; ,,Pseudomonas aeruginosa: 9; ,,,,Pseudomonas: 17; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,MuxC,37,Pseudomonas aeruginosa (chromosome or plasmid): 17; Pseudomonas (chromosome or plasmid): 20; ,,Pseudomonas aeruginosa: 17; ,,,,Pseudomonas: 20; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,OXA-1022,6,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,OXA-1298,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,OpmB,13,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome): 2; Pseudomonas (chromosome or plasmid): 8; ,,Pseudomonas aeruginosa: 3; ,,,Pseudomonas: 2; ,Pseudomonas: 8; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,OpmD,26,Pseudomonas aeruginosa (chromosome): 11; Pseudomonas (chromosome): 15; ,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 15; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,OpmH,15,Pseudomonas aeruginosa (chromosome): 12; Pseudomonas (chromosome): 3; ,Pseudomonas aeruginosa: 12; ,,,,Pseudomonas: 3; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,OprJ,23,Pseudomonas aeruginosa (chromosome or plasmid): 15; Pseudomonas (chromosome or plasmid): 8; ,,Pseudomonas aeruginosa: 15; ,,,,Pseudomonas: 8; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,OprM,13,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 11; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 11; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,OprN,15,Pseudomonas aeruginosa (chromosome or plasmid): 8; ,,Pseudomonas aeruginosa: 8; ,,,,,,,0,0,7,0
+Pseudomonas_aeruginosa,2x,PDC-263,5,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,4,0
+Pseudomonas_aeruginosa,2x,PDC-526,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,PDC-587,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,ParR,11,Pseudomonas aeruginosa (chromosome): 6; Pseudomonas aeruginosa (chromosome or plasmid): 5; ,Pseudomonas aeruginosa: 6; ,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,ParS,16,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas aeruginosa (chromosome or plasmid): 9; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 5; ,Pseudomonas aeruginosa: 9; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,PmpM,21,Pseudomonas aeruginosa (chromosome): 9; Pseudomonas (chromosome): 12; ,Pseudomonas aeruginosa: 9; ,,,,Pseudomonas: 12; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,Pseudomonas aeruginosa CpxR,9,Pseudomonas (chromosome or plasmid): 9; ,,,,,,Pseudomonas: 9; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,Pseudomonas aeruginosa catB7,15,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 10; Pseudomonas (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 10; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,Pseudomonas aeruginosa emrE,5,Pseudomonas aeruginosa (chromosome): 3; Pseudomonas (chromosome): 2; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 2; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,Pseudomonas aeruginosa soxR,6,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,TriA,12,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas (chromosome): 7; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 7; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,TriB,14,Pseudomonas aeruginosa (chromosome): 3; Pseudomonas (chromosome): 11; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 11; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,TriC,54,Pseudomonas aeruginosa (chromosome): 19; Pseudomonas (chromosome): 35; ,Pseudomonas aeruginosa: 19; ,,,,Pseudomonas: 35; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,YajC,1,Pseudomonas (chromosome): 1; ,,,,,Pseudomonas: 1; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,acrB,4,Enterobacter asburiae (chromosome): 2; Enterobacter (chromosome): 1; ,Enterobacter asburiae: 2; ,,,,Enterobacter: 1; ,,,,0,1,0,0
+Pseudomonas_aeruginosa,2x,arnA,27,Pseudomonas aeruginosa (chromosome or plasmid): 14; Pseudomonas (chromosome or plasmid): 13; ,,Pseudomonas aeruginosa: 14; ,,,,Pseudomonas: 13; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,basS,22,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 7; Pseudomonas (chromosome or plasmid): 13; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 7; ,,,,Pseudomonas: 13; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,bcr-1,14,Pseudomonas aeruginosa (chromosome or plasmid): 7; Pseudomonas (chromosome or plasmid): 7; ,,Pseudomonas aeruginosa: 7; ,,,,Pseudomonas: 7; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,ceoB,6,,,,,,,,,,0,6,0,0
+Pseudomonas_aeruginosa,2x,cprR,4,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,cprS,9,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 5; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,mdsB,4,,,,,,,,,,0,4,0,0
+Pseudomonas_aeruginosa,2x,mexM,6,Pseudomonas aeruginosa (chromosome): 3; ,Pseudomonas aeruginosa: 3; ,,,,,,,,0,3,0,0
+Pseudomonas_aeruginosa,2x,mexN,37,Pseudomonas aeruginosa (chromosome): 11; Pseudomonas (chromosome): 26; ,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 26; ,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,mexP,12,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 4; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,mexQ,62,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 27; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 27; ,,,,,,,0,9,24,0
+Pseudomonas_aeruginosa,2x,mexY,37,Pseudomonas aeruginosa (chromosome): 37; ,Pseudomonas aeruginosa: 37; ,,,,,,,,0,0,0,0
+Pseudomonas_aeruginosa,2x,opmE,19,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 11; Pseudomonas (chromosome or plasmid): 6; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+Salmonella_enterica,0.1x,AAC(6')-Ib-cr1,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.1x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,0.1x,CRP,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.1x,Klebsiella pneumoniae KpnE,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.1x,MdtK,4,Salmonella enterica (chromosome or plasmid): 4; ,,Salmonella enterica: 4; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.1x,acrB,3,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.1x,acrD,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.1x,dfrA14,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.1x,marA,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,AAC(6')-Ib-cr9,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.25x,APH(3'')-Ib,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.25x,APH(6)-Id,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.25x,AcrF,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,CTX-M-234,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.25x,Escherichia coli acrA,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,Klebsiella pneumoniae KpnH,4,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 3; ,Salmonella enterica: 1; ,Salmonella enterica: 3; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,OXA-47,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.25x,TEM-70,3,,,,,,,,,,0,0,3,0
+Salmonella_enterica,0.25x,aadA,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.25x,acrB,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,acrD,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,catA1,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.25x,golS,3,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,mdsB,5,Salmonella enterica (chromosome): 5; ,Salmonella enterica: 5; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,mdsC,6,Salmonella enterica (chromosome): 6; ,Salmonella enterica: 6; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,sdiA,4,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 3; ,Salmonella enterica: 1; ,Salmonella enterica: 3; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.25x,tet(A),2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.5x,ANT(3'')-II-AAC(6')-IId bifunctional protein,2,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,1,0
+Salmonella_enterica,0.5x,APH(3'')-Ib,4,,,,,,,,,,0,0,4,0
+Salmonella_enterica,0.5x,APH(6)-Id,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.5x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,CTX-M-137,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.5x,CTX-M-254,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.5x,Escherichia coli mdfA,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,Klebsiella pneumoniae KpnH,6,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 4; ,Salmonella enterica: 2; ,Salmonella enterica: 4; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,MdtK,7,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 6; ,Salmonella enterica: 1; ,Salmonella enterica: 6; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,OXA-534,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.5x,Plasmid-encoded cat (pp-cat),1,Citrobacter portucalensis (chromosome or plasmid): 1; ,,Citrobacter portucalensis: 1; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,PmrF,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,TEM-70,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.5x,aadA,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.5x,aadA15,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.5x,acrB,8,Salmonella enterica (chromosome): 7; ,Salmonella enterica: 7; ,,,,,,,,0,1,0,0
+Salmonella_enterica,0.5x,acrD,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,catB3,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.5x,cpxA,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,dfrA14,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,0.5x,emrA,2,Salmonella enterica (chromosome or plasmid): 2; ,,Salmonella enterica: 2; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,emrR,1,Salmonella enterica (chromosome or plasmid): 1; ,,Salmonella enterica: 1; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,golS,6,Salmonella enterica (chromosome): 6; ,Salmonella enterica: 6; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,marA,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,mdsA,6,Salmonella enterica (chromosome): 6; ,Salmonella enterica: 6; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,mdsB,15,Salmonella enterica (chromosome): 15; ,Salmonella enterica: 15; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,mdsC,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,msbA,4,Salmonella enterica (chromosome): 4; ,Salmonella enterica: 4; ,,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,sdiA,2,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 1; ,Salmonella enterica: 1; ,Salmonella enterica: 1; ,,,,,,,0,0,0,0
+Salmonella_enterica,0.5x,sul2,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,0.5x,tet(A),8,,,,,,,,,,0,0,8,0
+Salmonella_enterica,1x,AAC(6')-Iaa,5,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 3; ,Salmonella enterica: 2; ,Salmonella enterica: 3; ,,,,,,,0,0,0,0
+Salmonella_enterica,1x,AAC(6')-Ib-cr1,5,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,4,0
+Salmonella_enterica,1x,AAC(6')-Ib7,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,1x,ANT(3'')-II-AAC(6')-IId bifunctional protein,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,1x,APH(3'')-Ib,5,,,,,,,,,,0,0,5,0
+Salmonella_enterica,1x,APH(6)-Id,7,,,,,,,,,,1,0,6,0
+Salmonella_enterica,1x,AcrF,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,CRP,3,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,2,0,0
+Salmonella_enterica,1x,CTX-M-211,8,,,,,,,,,,0,0,8,0
+Salmonella_enterica,1x,CTX-M-254,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,1x,Escherichia coli acrA,5,Salmonella enterica (chromosome): 5; ,Salmonella enterica: 5; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,H-NS,5,Salmonella enterica (chromosome): 4; ,Salmonella enterica: 4; ,,,,,,,,0,1,0,0
+Salmonella_enterica,1x,Klebsiella pneumoniae KpnE,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,Klebsiella pneumoniae KpnH,9,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 7; ,Salmonella enterica: 2; ,Salmonella enterica: 7; ,,,,,,,0,0,0,0
+Salmonella_enterica,1x,Klebsiella pneumoniae acrA,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,MdtK,14,Salmonella enterica (chromosome): 4; Salmonella enterica (chromosome or plasmid): 10; ,Salmonella enterica: 4; ,Salmonella enterica: 10; ,,,,,,,0,0,0,0
+Salmonella_enterica,1x,MexB,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,OXA-534,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,1x,OmpA,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,PmrF,4,Salmonella enterica (chromosome): 4; ,Salmonella enterica: 4; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,TEM-248,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,1x,TEM-70,6,,,,,,,,,,0,0,6,0
+Salmonella_enterica,1x,aadA,3,,,,,,,,,,0,0,3,0
+Salmonella_enterica,1x,aadA15,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,1x,acrB,11,Salmonella enterica (chromosome): 10; ,Salmonella enterica: 10; ,,,,,,,,0,1,0,0
+Salmonella_enterica,1x,acrD,6,Salmonella enterica (chromosome): 6; ,Salmonella enterica: 6; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,bacA,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,1x,catA1,5,,,,,,,,,,0,0,5,0
+Salmonella_enterica,1x,cpxA,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,dfrA14,6,,,,,,,,,,0,0,6,0
+Salmonella_enterica,1x,emrA,4,Salmonella enterica (chromosome or plasmid): 4; ,,Salmonella enterica: 4; ,,,,,,,0,0,0,0
+Salmonella_enterica,1x,emrR,2,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 1; ,Salmonella enterica: 1; ,Salmonella enterica: 1; ,,,,,,,0,0,0,0
+Salmonella_enterica,1x,golS,4,Salmonella enterica (chromosome): 4; ,Salmonella enterica: 4; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,kdpE,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,marA,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,mdsA,9,Salmonella enterica (chromosome): 9; ,Salmonella enterica: 9; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,mdsB,11,Salmonella enterica (chromosome): 11; ,Salmonella enterica: 11; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,mdsC,12,Salmonella enterica (chromosome): 12; ,Salmonella enterica: 12; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,mdtC,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,msbA,3,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,0,0,0
+Salmonella_enterica,1x,sdiA,8,Salmonella enterica (chromosome): 4; Salmonella enterica (chromosome or plasmid): 4; ,Salmonella enterica: 4; ,Salmonella enterica: 4; ,,,,,,,0,0,0,0
+Salmonella_enterica,1x,sul2,3,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,2,0
+Salmonella_enterica,1x,tet(A),3,,,,,,,,,,0,0,3,0
+Salmonella_enterica,2x,AAC(6')-Iaa,7,Salmonella enterica (chromosome): 4; Salmonella enterica (chromosome or plasmid): 3; ,Salmonella enterica: 4; ,Salmonella enterica: 3; ,,,,,,,0,0,0,0
+Salmonella_enterica,2x,AAC(6')-Ib-cr4,5,,,,,,,,,,0,0,5,0
+Salmonella_enterica,2x,AAC(6')-Ib7,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,2x,ANT(3'')-II-AAC(6')-IId bifunctional protein,1,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,0,0
+Salmonella_enterica,2x,APH(3'')-Ib,18,Vibrio cholerae (chromosome or plasmid): 1; ,,Vibrio cholerae: 1; ,,,,,,,0,0,17,0
+Salmonella_enterica,2x,APH(6)-Id,8,,,,,,,,,,1,0,7,0
+Salmonella_enterica,2x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,CRP,6,Salmonella enterica (chromosome): 4; ,Salmonella enterica: 4; ,,,,,,,,0,2,0,0
+Salmonella_enterica,2x,CTX-M-211,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,2x,CTX-M-254,9,,,,,,,,,,0,0,9,0
+Salmonella_enterica,2x,Enterobacter cloacae acrA,1,,,,,,,,,,0,1,0,0
+Salmonella_enterica,2x,Escherichia coli acrA,7,Salmonella enterica (chromosome): 7; ,Salmonella enterica: 7; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,Escherichia coli mdfA,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,H-NS,9,Salmonella enterica (chromosome): 7; ,Salmonella enterica: 7; ,,,,,,,,0,2,0,0
+Salmonella_enterica,2x,Klebsiella pneumoniae KpnG,2,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 1; ,Salmonella enterica: 1; ,Salmonella enterica: 1; ,,,,,,,0,0,0,0
+Salmonella_enterica,2x,Klebsiella pneumoniae KpnH,12,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 10; ,Salmonella enterica: 2; ,Salmonella enterica: 10; ,,,,,,,0,0,0,0
+Salmonella_enterica,2x,Klebsiella pneumoniae acrA,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,MdtK,26,Salmonella enterica (chromosome): 10; Salmonella enterica (chromosome or plasmid): 16; ,Salmonella enterica: 10; ,Salmonella enterica: 16; ,,,,,,,0,0,0,0
+Salmonella_enterica,2x,MexB,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,OXA-1,3,,,,,,,,,,0,0,3,0
+Salmonella_enterica,2x,OXA-47,1,,,,,,,,,,0,0,1,0
+Salmonella_enterica,2x,OXA-534,9,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,8,0
+Salmonella_enterica,2x,OmpA,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,PmrF,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,QnrB1,3,,,,,,,,,,0,0,3,0
+Salmonella_enterica,2x,QnrB17,7,,,,,,,,,,0,0,7,0
+Salmonella_enterica,2x,TEM-208,2,,,,,,,,,,0,0,2,0
+Salmonella_enterica,2x,TEM-248,4,,,,,,,,,,0,0,4,0
+Salmonella_enterica,2x,TEM-70,9,,,,,,,,,,0,0,9,0
+Salmonella_enterica,2x,aadA,9,,,,,,,,,,0,0,9,0
+Salmonella_enterica,2x,aadA25,2,Acinetobacter baumannii (chromosome or plasmid): 1; ,,Acinetobacter baumannii: 1; ,,,,,,,0,0,1,0
+Salmonella_enterica,2x,acrB,31,Salmonella enterica (chromosome): 29; ,Salmonella enterica: 29; ,,,,,,,,0,2,0,0
+Salmonella_enterica,2x,acrD,12,Salmonella enterica (chromosome): 12; ,Salmonella enterica: 12; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,bacA,4,Salmonella enterica (chromosome or plasmid): 3; ,,Salmonella enterica: 3; ,,,,,,,0,0,1,0
+Salmonella_enterica,2x,catA1,7,Citrobacter portucalensis (chromosome or plasmid): 2; Escherichia coli (chromosome or plasmid): 1; ,,Citrobacter portucalensis: 2; Escherichia coli: 1; ,,,,,,,0,0,4,0
+Salmonella_enterica,2x,catB3,5,,,,,,,,,,0,0,5,0
+Salmonella_enterica,2x,cpxA,0,,,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,dfrA14,5,,,,,,,,,,0,0,5,0
+Salmonella_enterica,2x,emrA,6,Salmonella enterica (chromosome or plasmid): 6; ,,Salmonella enterica: 6; ,,,,,,,0,0,0,0
+Salmonella_enterica,2x,emrR,6,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 5; ,Salmonella enterica: 1; ,Salmonella enterica: 5; ,,,,,,,0,0,0,0
+Salmonella_enterica,2x,golS,3,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,kdpE,3,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,marA,5,Salmonella enterica (chromosome): 5; ,Salmonella enterica: 5; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,mdsA,22,Salmonella enterica (chromosome): 22; ,Salmonella enterica: 22; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,mdsB,35,Salmonella enterica (chromosome): 35; ,Salmonella enterica: 35; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,mdsC,14,Salmonella enterica (chromosome): 14; ,Salmonella enterica: 14; ,,,,,,,,0,0,0,0
+Salmonella_enterica,2x,msbA,10,Salmonella enterica (chromosome): 7; ,Salmonella enterica: 7; ,,,,,,,,0,3,0,0
+Salmonella_enterica,2x,sdiA,7,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 5; ,Salmonella enterica: 2; ,Salmonella enterica: 5; ,,,,,,,0,0,0,0
+Salmonella_enterica,2x,sul2,6,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,4,0
+Salmonella_enterica,2x,tet(A),22,,,,,,,,,,0,0,22,0
+mixed,0.1x,AAC(6')-Ib-cr1,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,APH(6)-Id,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,AcrF,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+mixed,0.1x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,0,,,,,,,,,,0,0,0,0
+mixed,0.1x,CRP,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+mixed,0.1x,Escherichia coli ampC beta-lactamase,1,,,,,,,,,,0,0,1,0
+mixed,0.1x,Escherichia coli emrE,1,,,,,,,,,,0,1,0,0
+mixed,0.1x,Klebsiella pneumoniae KpnE,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+mixed,0.1x,Klebsiella pneumoniae KpnH,1,Klebsiella (chromosome or plasmid): 1; ,,,,,,Klebsiella: 1; ,,,0,0,0,0
+mixed,0.1x,MdtK,4,Salmonella enterica (chromosome or plasmid): 4; ,,Salmonella enterica: 4; ,,,,,,,0,0,0,0
+mixed,0.1x,MexB,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+mixed,0.1x,MexJ,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+mixed,0.1x,MexK,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.1x,MuxB,4,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+mixed,0.1x,OmpA,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,OprA,0,,,,,,,,,,0,0,0,0
+mixed,0.1x,PmpM,2,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+mixed,0.1x,Pseudomonas aeruginosa catB7,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+mixed,0.1x,SHV-224,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,TolC,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,TriA,2,Pseudomonas (chromosome): 2; ,,,,,Pseudomonas: 2; ,,,,0,0,0,0
+mixed,0.1x,TriB,3,Pseudomonas (chromosome): 3; ,,,,,Pseudomonas: 3; ,,,,0,0,0,0
+mixed,0.1x,TriC,4,Pseudomonas (chromosome): 4; ,,,,,Pseudomonas: 4; ,,,,0,0,0,0
+mixed,0.1x,acrB,3,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,0,0,0
+mixed,0.1x,acrD,3,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,2,0
+mixed,0.1x,arnA,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.1x,dfrA14,3,,,,,,,,,,0,0,3,0
+mixed,0.1x,emrA,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,emrY,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,eptA,6,,,,,,,,,,0,0,6,0
+mixed,0.1x,eptB,2,Klebsiella pneumoniae (chromosome): 1; Klebsiella (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 1; ,,,,0,0,0,0
+mixed,0.1x,evgA,4,,,,,,,,,,0,0,4,0
+mixed,0.1x,evgS,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+mixed,0.1x,marA,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+mixed,0.1x,mdtA,2,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,1,0
+mixed,0.1x,mdtB,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,mdtG,1,,,,,,,,,,0,0,1,0
+mixed,0.1x,mdtH,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+mixed,0.1x,mdtN,2,,,,,,,,,,0,0,2,0
+mixed,0.1x,mdtO,4,,,,,,,,,,0,0,4,0
+mixed,0.1x,mdtP,1,,,,,,,,,,0,0,1,0
+mixed,0.1x,mexM,2,Pseudomonas aeruginosa (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,,,,,0,1,0,0
+mixed,0.1x,mexQ,6,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,2,0
+mixed,0.1x,mexY,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+mixed,0.1x,msbA,1,,,,,,,,,,0,1,0,0
+mixed,0.1x,opmE,2,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.1x,ugd,2,,,,,,,,,,0,1,1,0
+mixed,0.25x,AAC(6')-Ib-cr9,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,APH(3'')-Ib,3,,,,,,,,,,0,0,3,0
+mixed,0.25x,APH(3')-IIb,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.25x,APH(6)-Id,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,AcrE,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,AcrF,10,Klebsiella pneumoniae (chromosome): 1; Escherichia coli (chromosome or plasmid): 1; ,Klebsiella pneumoniae: 1; ,Escherichia coli: 1; ,,,,,,,0,0,8,0
+mixed,0.25x,ArnT,2,,,,,,,,,,0,2,0,0
+mixed,0.25x,CRP,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,CTX-M-234,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,CTX-M-254,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,EC-19,0,,,,,,,,,,0,0,0,0
+mixed,0.25x,Escherichia coli acrA,3,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,2,0
+mixed,0.25x,Escherichia coli mdfA,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,FosA,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+mixed,0.25x,FosA6,3,,,,,,,,,,0,0,3,0
+mixed,0.25x,H-NS,1,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,0,0
+mixed,0.25x,Klebsiella pneumoniae KpnG,5,Klebsiella (chromosome or plasmid): 5; ,,,,,,Klebsiella: 5; ,,,0,0,0,0
+mixed,0.25x,Klebsiella pneumoniae KpnH,10,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 3; Klebsiella pneumoniae (chromosome or plasmid): 1; Klebsiella (chromosome or plasmid): 4; ,Salmonella enterica: 1; ,Salmonella enterica: 3; Klebsiella pneumoniae: 1; ,,,,Klebsiella: 4; ,,,0,0,1,0
+mixed,0.25x,LptD,9,Klebsiella pneumoniae (chromosome): 6; Klebsiella (chromosome): 3; ,Klebsiella pneumoniae: 6; ,,,,Klebsiella: 3; ,,,,0,0,0,0
+mixed,0.25x,MexA,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.25x,MexB,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+mixed,0.25x,MexC,2,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,1,0
+mixed,0.25x,MexD,9,Pseudomonas aeruginosa (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,4,0
+mixed,0.25x,MexE,2,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.25x,MexF,5,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,1,2,0
+mixed,0.25x,MexG,2,Pseudomonas (chromosome): 2; ,,,,,Pseudomonas: 2; ,,,,0,0,0,0
+mixed,0.25x,MexH,8,Pseudomonas aeruginosa (chromosome): 3; Pseudomonas (chromosome): 5; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 5; ,,,,0,0,0,0
+mixed,0.25x,MexI,6,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+mixed,0.25x,MexJ,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+mixed,0.25x,MexK,5,Pseudomonas (chromosome or plasmid): 5; ,,,,,,Pseudomonas: 5; ,,,0,0,0,0
+mixed,0.25x,MexV,4,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+mixed,0.25x,MexW,8,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 5; ,,,0,0,0,0
+mixed,0.25x,MuxA,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,0.25x,MuxB,4,Pseudomonas (chromosome or plasmid): 4; ,,,,,,Pseudomonas: 4; ,,,0,0,0,0
+mixed,0.25x,MuxC,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+mixed,0.25x,OXA-1022,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+mixed,0.25x,OXA-47,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,OmpA,4,,,,,,,,,,0,0,4,0
+mixed,0.25x,OpmD,2,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+mixed,0.25x,OprJ,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+mixed,0.25x,PDC-277,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.25x,PDC-28,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,0.25x,Pseudomonas aeruginosa CpxR,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.25x,Pseudomonas aeruginosa catB7,5,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.25x,Shigella flexneri acrA,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,TEM-70,3,,,,,,,,,,0,0,3,0
+mixed,0.25x,TolC,6,,,,,,,,,,0,0,6,0
+mixed,0.25x,TriA,2,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+mixed,0.25x,TriB,2,Pseudomonas (chromosome): 2; ,,,,,Pseudomonas: 2; ,,,,0,0,0,0
+mixed,0.25x,TriC,5,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+mixed,0.25x,aadA,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,acrB,8,Salmonella enterica (chromosome): 2; Escherichia coli (chromosome or plasmid): 1; ,Salmonella enterica: 2; ,Escherichia coli: 1; ,,,,,,,0,0,5,0
+mixed,0.25x,acrD,13,Salmonella enterica (chromosome): 2; Klebsiella pneumoniae (chromosome): 1; ,Salmonella enterica: 2; Klebsiella pneumoniae: 1; ,,,,,,,,0,0,10,0
+mixed,0.25x,arnA,9,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 6; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+mixed,0.25x,bacA,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,bcr-1,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,0.25x,catA1,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,dfrA14,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,emrA,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,emrK,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,emrR,1,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,0,0
+mixed,0.25x,emrY,3,,,,,,,,,,0,0,3,0
+mixed,0.25x,eptA,2,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,1,0
+mixed,0.25x,eptB,6,Klebsiella pneumoniae (chromosome): 4; Klebsiella (chromosome): 2; ,Klebsiella pneumoniae: 4; ,,,,Klebsiella: 2; ,,,,0,0,0,0
+mixed,0.25x,evgA,4,,,,,,,,,,0,0,4,0
+mixed,0.25x,evgS,6,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,4,0
+mixed,0.25x,gadX,0,,,,,,,,,,0,0,0,0
+mixed,0.25x,golS,3,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,0,0,0
+mixed,0.25x,kdpE,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,leuO,2,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,1,0
+mixed,0.25x,marA,1,,,,,,,,,,0,0,1,0
+mixed,0.25x,mdsB,5,Salmonella enterica (chromosome): 5; ,Salmonella enterica: 5; ,,,,,,,,0,0,0,0
+mixed,0.25x,mdsC,6,Salmonella enterica (chromosome): 6; ,Salmonella enterica: 6; ,,,,,,,,0,0,0,0
+mixed,0.25x,mdtA,6,,,,,,,,,,0,0,6,0
+mixed,0.25x,mdtB,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+mixed,0.25x,mdtC,6,,,,,,,,,,0,0,6,0
+mixed,0.25x,mdtE,3,,,,,,,,,,0,3,0,0
+mixed,0.25x,mdtF,10,,,,,,,,,,0,10,0,0
+mixed,0.25x,mdtG,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,mdtH,5,,,,,,,,,,0,0,5,0
+mixed,0.25x,mdtM,4,,,,,,,,,,0,0,4,0
+mixed,0.25x,mdtN,2,,,,,,,,,,0,0,2,0
+mixed,0.25x,mdtO,4,Shigella sonnei (chromosome or plasmid): 2; ,,Shigella sonnei: 2; ,,,,,,,0,0,2,0
+mixed,0.25x,mdtP,2,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,1,0
+mixed,0.25x,mexM,2,,,,,,,,,,0,2,0,0
+mixed,0.25x,mexN,5,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 4; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 4; ,,,,0,0,0,0
+mixed,0.25x,mexQ,9,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 4; Klebsiella (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 4; ,,,Klebsiella: 1; ,,,,0,0,3,0
+mixed,0.25x,mexY,7,Pseudomonas aeruginosa (chromosome): 7; ,Pseudomonas aeruginosa: 7; ,,,,,,,,0,0,0,0
+mixed,0.25x,msbA,2,,,,,,,,,,0,2,0,0
+mixed,0.25x,opmE,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.25x,oqxA,4,,,,,,,,,,0,0,4,0
+mixed,0.25x,oqxB,3,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,2,0
+mixed,0.25x,sdiA,4,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 3; ,Salmonella enterica: 1; ,Salmonella enterica: 3; ,,,,,,,0,0,0,0
+mixed,0.25x,tet(A),2,,,,,,,,,,0,0,2,0
+mixed,0.25x,tet(B),2,,,,,,,,,,0,0,2,0
+mixed,0.5x,AAC(6')-Ib7,1,,,,,,,,,,0,0,1,0
+mixed,0.5x,ANT(3'')-II-AAC(6')-IId bifunctional protein,2,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,1,0
+mixed,0.5x,APH(3'')-Ib,5,,,,,,,,,,0,0,5,0
+mixed,0.5x,APH(3')-IIb,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,0.5x,APH(6)-Id,8,,,,,,,,,,0,0,8,0
+mixed,0.5x,AcrE,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,AcrF,15,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,14,0
+mixed,0.5x,AcrS,8,,,,,,,,,,0,1,7,0
+mixed,0.5x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,0,,,,,,,,,,0,0,0,0
+mixed,0.5x,CRP,3,Klebsiella (chromosome): 1; ,,,,,Klebsiella: 1; ,,,,0,0,2,0
+mixed,0.5x,CTX-M-137,1,,,,,,,,,,0,0,1,0
+mixed,0.5x,CTX-M-254,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,EC-13,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,Escherichia coli mdfA,1,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,0,0
+mixed,0.5x,H-NS,3,Klebsiella pneumoniae (chromosome): 1; Klebsiella (chromosome or plasmid): 1; ,Klebsiella pneumoniae: 1; ,,,,,Klebsiella: 1; ,,,0,0,1,0
+mixed,0.5x,Klebsiella pneumoniae KpnF,1,Klebsiella (chromosome or plasmid): 1; ,,,,,,Klebsiella: 1; ,,,0,0,0,0
+mixed,0.5x,Klebsiella pneumoniae KpnG,9,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 7; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 7; ,,,0,0,0,0
+mixed,0.5x,Klebsiella pneumoniae KpnH,9,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 4; Klebsiella (chromosome or plasmid): 1; ,Salmonella enterica: 2; ,Salmonella enterica: 4; ,,,,Klebsiella: 1; ,,,0,0,2,0
+mixed,0.5x,Klebsiella pneumoniae OmpK37,6,Klebsiella pneumoniae (chromosome or plasmid): 4; Klebsiella (chromosome or plasmid): 2; ,,Klebsiella pneumoniae: 4; ,,,,Klebsiella: 2; ,,,0,0,0,0
+mixed,0.5x,LptD,2,Klebsiella (chromosome): 2; ,,,,,Klebsiella: 2; ,,,,0,0,0,0
+mixed,0.5x,MdtK,7,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 6; ,Salmonella enterica: 1; ,Salmonella enterica: 6; ,,,,,,,0,0,0,0
+mixed,0.5x,MexA,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.5x,MexB,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+mixed,0.5x,MexC,4,Pseudomonas aeruginosa (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,1,0
+mixed,0.5x,MexD,4,Pseudomonas aeruginosa (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,1,0
+mixed,0.5x,MexE,2,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,0,0
+mixed,0.5x,MexF,13,Pseudomonas aeruginosa (chromosome or plasmid): 8; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 1; ,,,0,0,4,0
+mixed,0.5x,MexI,12,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 11; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 11; ,,,,0,0,0,0
+mixed,0.5x,MexJ,6,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,0.5x,MexK,11,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 7; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 7; ,,,0,0,0,0
+mixed,0.5x,MexV,4,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+mixed,0.5x,MexW,21,Pseudomonas aeruginosa (chromosome or plasmid): 8; Pseudomonas (chromosome or plasmid): 13; ,,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 13; ,,,0,0,0,0
+mixed,0.5x,MuxA,1,Pseudomonas (chromosome): 1; ,,,,,Pseudomonas: 1; ,,,,0,0,0,0
+mixed,0.5x,MuxB,13,Pseudomonas aeruginosa (chromosome or plasmid): 5; Pseudomonas (chromosome or plasmid): 8; ,,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 8; ,,,0,0,0,0
+mixed,0.5x,MuxC,11,Pseudomonas aeruginosa (chromosome or plasmid): 8; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+mixed,0.5x,OXA-1278,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+mixed,0.5x,OXA-534,1,,,,,,,,,,0,0,1,0
+mixed,0.5x,OmpA,5,,,,,,,,,,0,0,5,0
+mixed,0.5x,OpmB,7,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+mixed,0.5x,OpmD,7,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas (chromosome): 5; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 5; ,,,,0,0,0,0
+mixed,0.5x,OpmH,8,Pseudomonas aeruginosa (chromosome): 6; Pseudomonas (chromosome): 2; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 2; ,,,,0,0,0,0
+mixed,0.5x,OprJ,2,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.5x,OprM,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,0.5x,OprN,1,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,0,0
+mixed,0.5x,PDC-526,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.5x,ParR,9,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas aeruginosa (chromosome or plasmid): 5; ,Pseudomonas aeruginosa: 4; ,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,0,0
+mixed,0.5x,ParS,7,Pseudomonas aeruginosa (chromosome or plasmid): 5; Pseudomonas (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,0.5x,Plasmid-encoded cat (pp-cat),1,Citrobacter portucalensis (chromosome or plasmid): 1; ,,Citrobacter portucalensis: 1; ,,,,,,,0,0,0,0
+mixed,0.5x,PmpM,3,Pseudomonas (chromosome): 3; ,,,,,Pseudomonas: 3; ,,,,0,0,0,0
+mixed,0.5x,PmrF,8,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,7,0
+mixed,0.5x,Pseudomonas aeruginosa CpxR,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.5x,Pseudomonas aeruginosa catB7,7,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 5; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.5x,Pseudomonas aeruginosa emrE,1,Pseudomonas aeruginosa (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,,,,,0,0,0,0
+mixed,0.5x,Pseudomonas aeruginosa soxR,1,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,0,0
+mixed,0.5x,SHV-224,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,TEM-201,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,TEM-70,3,,,,,,,,,,0,0,3,0
+mixed,0.5x,TolC,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,TriA,7,Pseudomonas aeruginosa (chromosome): 3; Pseudomonas (chromosome): 4; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 4; ,,,,0,0,0,0
+mixed,0.5x,TriB,5,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 4; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 4; ,,,,0,0,0,0
+mixed,0.5x,TriC,6,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 2; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 2; ,,,,0,0,0,0
+mixed,0.5x,YojI,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+mixed,0.5x,aadA,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,aadA15,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,acrB,29,Salmonella enterica (chromosome): 7; Klebsiella pneumoniae (chromosome): 5; Enterobacter asburiae (chromosome): 1; Escherichia coli (chromosome or plasmid): 1; ,Salmonella enterica: 7; Klebsiella pneumoniae: 5; Enterobacter asburiae: 1; ,Escherichia coli: 1; ,,,,,,,0,1,14,0
+mixed,0.5x,acrD,16,Salmonella enterica (chromosome): 1; Shigella dysenteriae (chromosome or plasmid): 1; ,Salmonella enterica: 1; ,Shigella dysenteriae: 1; ,,,,,,,0,0,14,0
+mixed,0.5x,arnA,11,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 7; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 7; ,,,0,0,0,0
+mixed,0.5x,basS,10,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 6; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+mixed,0.5x,bcr-1,4,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 3; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+mixed,0.5x,catB3,1,,,,,,,,,,0,0,1,0
+mixed,0.5x,cpxA,4,,,,,,,,,,0,0,4,0
+mixed,0.5x,dfrA14,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,emrA,10,Salmonella enterica (chromosome or plasmid): 2; Escherichia coli (chromosome or plasmid): 1; ,,Salmonella enterica: 2; Escherichia coli: 1; ,,,,,,,0,0,7,0
+mixed,0.5x,emrK,4,,,,,,,,,,0,0,4,0
+mixed,0.5x,emrR,1,Salmonella enterica (chromosome or plasmid): 1; ,,Salmonella enterica: 1; ,,,,,,,0,0,0,0
+mixed,0.5x,emrY,7,,,,,,,,,,0,0,7,0
+mixed,0.5x,eptA,3,,,,,,,,,,0,0,3,0
+mixed,0.5x,evgA,4,,,,,,,,,,0,0,4,0
+mixed,0.5x,evgS,6,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,4,0
+mixed,0.5x,gadW,2,Escherichia coli (chromosome): 2; ,Escherichia coli: 2; ,,,,,,,,0,0,0,0
+mixed,0.5x,golS,6,Salmonella enterica (chromosome): 6; ,Salmonella enterica: 6; ,,,,,,,,0,0,0,0
+mixed,0.5x,kdpE,5,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,3,0
+mixed,0.5x,marA,2,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,0,1,0
+mixed,0.5x,mdsA,6,Salmonella enterica (chromosome): 6; ,Salmonella enterica: 6; ,,,,,,,,0,0,0,0
+mixed,0.5x,mdsB,15,Salmonella enterica (chromosome): 15; ,Salmonella enterica: 15; ,,,,,,,,0,0,0,0
+mixed,0.5x,mdsC,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+mixed,0.5x,mdtA,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,mdtB,18,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,17,0
+mixed,0.5x,mdtC,19,,,,,,,,,,0,0,19,0
+mixed,0.5x,mdtE,2,,,,,,,,,,0,2,0,0
+mixed,0.5x,mdtF,12,,,,,,,,,,0,12,0,0
+mixed,0.5x,mdtG,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,mdtH,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,mdtM,6,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,3,2,0
+mixed,0.5x,mdtN,3,,,,,,,,,,0,0,3,0
+mixed,0.5x,mdtO,10,Shigella sonnei (chromosome or plasmid): 1; ,,Shigella sonnei: 1; ,,,,,,,0,0,9,0
+mixed,0.5x,mdtP,6,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,5,0
+mixed,0.5x,mexN,14,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas (chromosome): 9; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 9; ,,,,0,0,0,0
+mixed,0.5x,mexP,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,0.5x,mexQ,10,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 5; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,4,0
+mixed,0.5x,mexY,18,Pseudomonas aeruginosa (chromosome): 18; ,Pseudomonas aeruginosa: 18; ,,,,,,,,0,0,0,0
+mixed,0.5x,msbA,10,Salmonella enterica (chromosome): 4; ,Salmonella enterica: 4; ,,,,,,,,0,6,0,0
+mixed,0.5x,opmE,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 1; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,0.5x,oqxA,3,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,2,0
+mixed,0.5x,oqxB,11,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 2; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 2; ,,,0,1,6,0
+mixed,0.5x,rpoB2,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+mixed,0.5x,sdiA,2,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 1; ,Salmonella enterica: 1; ,Salmonella enterica: 1; ,,,,,,,0,0,0,0
+mixed,0.5x,smeE,2,Serratia rubidaea (chromosome): 1; Klebsiella (chromosome): 1; ,Serratia rubidaea: 1; ,,,,Klebsiella: 1; ,,,,0,0,0,0
+mixed,0.5x,sul2,2,,,,,,,,,,0,0,2,0
+mixed,0.5x,tet(A),8,,,,,,,,,,0,0,8,0
+mixed,0.5x,tet(B),1,,,,,,,,,,0,0,1,0
+mixed,0.5x,ugd,1,,,,,,,,,,0,1,0,0
+mixed,1x,AAC(6')-Iaa,5,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 3; ,Salmonella enterica: 2; ,Salmonella enterica: 3; ,,,,,,,0,0,0,0
+mixed,1x,AAC(6')-Ib-cr1,5,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,4,0
+mixed,1x,AAC(6')-Ib7,2,,,,,,,,,,0,0,2,0
+mixed,1x,ANT(3'')-II-AAC(6')-IId bifunctional protein,2,,,,,,,,,,0,0,2,0
+mixed,1x,APH(3'')-Ib,13,,,,,,,,,,0,0,13,0
+mixed,1x,APH(3')-IIb,8,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 6; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+mixed,1x,APH(6)-Id,12,,,,,,,,,,1,0,11,0
+mixed,1x,AcrE,6,,,,,,,,,,0,0,6,0
+mixed,1x,AcrF,21,Shigella flexneri (chromosome or plasmid): 1; Klebsiella (chromosome): 2; ,,Shigella flexneri: 1; ,,,Klebsiella: 2; ,,,,0,0,18,0
+mixed,1x,AcrS,2,,,,,,,,,,0,0,2,0
+mixed,1x,ArmR,0,,,,,,,,,,0,0,0,0
+mixed,1x,ArnT,15,Klebsiella pneumoniae (chromosome): 9; Klebsiella (chromosome): 6; ,Klebsiella pneumoniae: 9; ,,,,Klebsiella: 6; ,,,,0,0,0,0
+mixed,1x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+mixed,1x,CRP,14,Salmonella enterica (chromosome): 1; Klebsiella (chromosome): 5; ,Salmonella enterica: 1; ,,,,Klebsiella: 5; ,,,,0,2,6,0
+mixed,1x,CTX-M-211,4,,,,,,,,,,0,0,4,0
+mixed,1x,CTX-M-254,10,,,,,,,,,,0,0,10,0
+mixed,1x,EC-13,4,,,,,,,,,,0,0,4,0
+mixed,1x,Escherichia coli acrA,10,Salmonella enterica (chromosome): 5; Escherichia coli (chromosome): 1; ,Salmonella enterica: 5; Escherichia coli: 1; ,,,,,,,,0,0,4,0
+mixed,1x,Escherichia coli ampC beta-lactamase,3,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,0,2,0
+mixed,1x,Escherichia coli mdfA,7,,,,,,,,,,0,0,7,0
+mixed,1x,FosA,4,Pseudomonas aeruginosa (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+mixed,1x,FosA6,3,,,,,,,,,,0,0,3,0
+mixed,1x,H-NS,9,Salmonella enterica (chromosome): 4; Klebsiella pneumoniae (chromosome): 1; Klebsiella (chromosome or plasmid): 3; ,Salmonella enterica: 4; Klebsiella pneumoniae: 1; ,,,,,Klebsiella: 3; ,,,0,1,0,0
+mixed,1x,Klebsiella pneumoniae KpnE,6,Salmonella enterica (chromosome): 1; Klebsiella pneumoniae (chromosome or plasmid): 1; Klebsiella (chromosome or plasmid): 3; ,Salmonella enterica: 1; ,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 3; ,,,0,0,1,0
+mixed,1x,Klebsiella pneumoniae KpnF,3,Klebsiella (chromosome or plasmid): 3; ,,,,,,Klebsiella: 3; ,,,0,0,0,0
+mixed,1x,Klebsiella pneumoniae KpnG,7,Klebsiella pneumoniae (chromosome or plasmid): 1; Klebsiella (chromosome or plasmid): 6; ,,Klebsiella pneumoniae: 1; ,,,,Klebsiella: 6; ,,,0,0,0,0
+mixed,1x,Klebsiella pneumoniae OmpK37,11,Klebsiella pneumoniae (chromosome or plasmid): 7; Klebsiella (chromosome or plasmid): 4; ,,Klebsiella pneumoniae: 7; ,,,,Klebsiella: 4; ,,,0,0,0,0
+mixed,1x,Klebsiella pneumoniae acrA,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+mixed,1x,LptD,18,Klebsiella pneumoniae (chromosome): 10; Klebsiella (chromosome): 8; ,Klebsiella pneumoniae: 10; ,,,,Klebsiella: 8; ,,,,0,0,0,0
+mixed,1x,MdtK,14,Salmonella enterica (chromosome): 4; Salmonella enterica (chromosome or plasmid): 10; ,Salmonella enterica: 4; ,Salmonella enterica: 10; ,,,,,,,0,0,0,0
+mixed,1x,MexA,6,Pseudomonas (chromosome): 1; Pseudomonas (chromosome or plasmid): 5; ,,,,,Pseudomonas: 1; ,Pseudomonas: 5; ,,,0,0,0,0
+mixed,1x,MexB,18,Salmonella enterica (chromosome): 1; Klebsiella pneumoniae (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 16; ,Salmonella enterica: 1; Klebsiella pneumoniae: 1; ,Pseudomonas aeruginosa: 16; ,,,,,,,0,0,0,0
+mixed,1x,MexC,9,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,7,0
+mixed,1x,MexD,15,Pseudomonas aeruginosa (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,10,0
+mixed,1x,MexE,11,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome): 1; Pseudomonas (chromosome or plasmid): 6; ,,Pseudomonas aeruginosa: 4; ,,,Pseudomonas: 1; ,Pseudomonas: 6; ,,,0,0,0,0
+mixed,1x,MexF,26,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 13; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 13; ,,,,Pseudomonas: 2; ,,,0,1,9,0
+mixed,1x,MexG,1,Pseudomonas aeruginosa (chromosome): 1; ,Pseudomonas aeruginosa: 1; ,,,,,,,,0,0,0,0
+mixed,1x,MexH,3,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas (chromosome): 2; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,,0,0,0,0
+mixed,1x,MexI,26,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 22; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 22; ,,,,0,0,0,0
+mixed,1x,MexJ,6,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,1x,MexK,23,Pseudomonas aeruginosa (chromosome or plasmid): 12; Pseudomonas (chromosome or plasmid): 11; ,,Pseudomonas aeruginosa: 12; ,,,,Pseudomonas: 11; ,,,0,0,0,0
+mixed,1x,MexV,5,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+mixed,1x,MexW,27,Pseudomonas aeruginosa (chromosome or plasmid): 11; Pseudomonas (chromosome or plasmid): 16; ,,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 16; ,,,0,0,0,0
+mixed,1x,MuxA,10,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 6; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+mixed,1x,MuxB,25,Pseudomonas aeruginosa (chromosome or plasmid): 5; Pseudomonas (chromosome or plasmid): 20; ,,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 20; ,,,0,0,0,0
+mixed,1x,MuxC,19,Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 13; ,,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 13; ,,,0,0,0,0
+mixed,1x,OXA-1022,3,Pseudomonas aeruginosa (chromosome): 3; ,Pseudomonas aeruginosa: 3; ,,,,,,,,0,0,0,0
+mixed,1x,OXA-1278,3,Pseudomonas aeruginosa (chromosome): 3; ,Pseudomonas aeruginosa: 3; ,,,,,,,,0,0,0,0
+mixed,1x,OXA-534,2,,,,,,,,,,0,0,2,0
+mixed,1x,OmpA,9,,,,,,,,,,0,0,9,0
+mixed,1x,OpmB,8,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+mixed,1x,OpmD,12,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 8; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 8; ,,,,0,0,0,0
+mixed,1x,OpmH,13,Pseudomonas aeruginosa (chromosome): 9; Pseudomonas (chromosome): 4; ,Pseudomonas aeruginosa: 9; ,,,,Pseudomonas: 4; ,,,,0,0,0,0
+mixed,1x,OprJ,3,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,1x,OprM,3,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,1x,OprN,4,Pseudomonas aeruginosa (chromosome or plasmid): 2; ,,Pseudomonas aeruginosa: 2; ,,,,,,,0,0,2,0
+mixed,1x,PDC-212,10,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 5; ,,,0,0,1,0
+mixed,1x,ParR,5,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 3; ,,,,,,,0,0,0,0
+mixed,1x,ParS,15,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 8; Pseudomonas (chromosome or plasmid): 6; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+mixed,1x,PmpM,17,Pseudomonas aeruginosa (chromosome): 6; Pseudomonas (chromosome): 11; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 11; ,,,,0,0,0,0
+mixed,1x,PmrF,13,Salmonella enterica (chromosome): 4; ,Salmonella enterica: 4; ,,,,,,,,0,0,9,0
+mixed,1x,Pseudomonas aeruginosa CpxR,10,Pseudomonas (chromosome or plasmid): 10; ,,,,,,Pseudomonas: 10; ,,,0,0,0,0
+mixed,1x,Pseudomonas aeruginosa catB7,10,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+mixed,1x,Pseudomonas aeruginosa emrE,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+mixed,1x,SHV-224,1,,,,,,,,,,0,0,1,0
+mixed,1x,SHV-81,2,,,,,,,,,,0,0,2,0
+mixed,1x,TEM-228,1,,,,,,,,,,0,0,1,0
+mixed,1x,TEM-70,9,,,,,,,,,,0,1,8,0
+mixed,1x,TolC,14,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,13,0
+mixed,1x,TriA,8,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas (chromosome): 6; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 6; ,,,,0,0,0,0
+mixed,1x,TriB,11,Pseudomonas aeruginosa (chromosome): 4; Pseudomonas (chromosome): 7; ,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 7; ,,,,0,0,0,0
+mixed,1x,TriC,28,Pseudomonas aeruginosa (chromosome): 10; Pseudomonas (chromosome): 18; ,Pseudomonas aeruginosa: 10; ,,,,Pseudomonas: 18; ,,,,0,0,0,0
+mixed,1x,YojI,22,,,,,,,,,,0,0,22,0
+mixed,1x,aadA,3,,,,,,,,,,0,0,3,0
+mixed,1x,aadA15,2,,,,,,,,,,0,0,2,0
+mixed,1x,acrB,35,Salmonella enterica (chromosome): 10; Klebsiella pneumoniae (chromosome): 6; Enterobacter asburiae (chromosome): 1; ,Salmonella enterica: 10; Klebsiella pneumoniae: 6; Enterobacter asburiae: 1; ,,,,,,,,0,2,16,0
+mixed,1x,acrD,31,Salmonella enterica (chromosome): 6; Shigella dysenteriae (chromosome or plasmid): 1; Klebsiella (chromosome): 3; ,Salmonella enterica: 6; ,Shigella dysenteriae: 1; ,,,Klebsiella: 3; ,,,,0,0,21,0
+mixed,1x,arnA,15,Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 9; ,,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 9; ,,,0,0,0,0
+mixed,1x,bacA,1,,,,,,,,,,0,0,1,0
+mixed,1x,basS,12,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 9; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 9; ,,,0,0,0,0
+mixed,1x,bcr-1,10,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 5; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 5; ,,,0,0,0,0
+mixed,1x,catA1,5,,,,,,,,,,0,0,5,0
+mixed,1x,ceoB,4,,,,,,,,,,0,4,0,0
+mixed,1x,cprR,1,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,0,0
+mixed,1x,cprS,7,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+mixed,1x,cpxA,5,,,,,,,,,,0,0,5,0
+mixed,1x,dfrA14,8,,,,,,,,,,0,0,8,0
+mixed,1x,emrA,13,Salmonella enterica (chromosome or plasmid): 4; Escherichia coli (chromosome or plasmid): 2; ,,Salmonella enterica: 4; Escherichia coli: 2; ,,,,,,,0,0,7,0
+mixed,1x,emrB,24,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 7; Klebsiella (chromosome or plasmid): 3; ,Salmonella enterica: 2; ,Salmonella enterica: 7; ,,,,Klebsiella: 3; ,,,0,0,12,0
+mixed,1x,emrK,8,,,,,,,,,,0,0,8,0
+mixed,1x,emrR,9,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 1; ,Salmonella enterica: 1; ,Salmonella enterica: 1; ,,,,,,,0,0,7,0
+mixed,1x,emrY,9,,,,,,,,,,0,0,9,0
+mixed,1x,eptA,11,,,,,,,,,,0,0,11,0
+mixed,1x,eptB,9,Klebsiella pneumoniae (chromosome): 4; Klebsiella (chromosome): 5; ,Klebsiella pneumoniae: 4; ,,,,Klebsiella: 5; ,,,,0,0,0,0
+mixed,1x,evgA,6,,,,,,,,,,0,0,6,0
+mixed,1x,evgS,11,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,9,0
+mixed,1x,gadW,1,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,0,0,0
+mixed,1x,gadX,5,Escherichia coli (chromosome): 3; ,Escherichia coli: 3; ,,,,,,,,0,2,0,0
+mixed,1x,golS,4,Salmonella enterica (chromosome): 4; ,Salmonella enterica: 4; ,,,,,,,,0,0,0,0
+mixed,1x,kdpE,3,Salmonella enterica (chromosome): 1; ,Salmonella enterica: 1; ,,,,,,,,0,1,1,0
+mixed,1x,leuO,7,,,,,,,,,,0,0,7,0
+mixed,1x,marA,6,Salmonella enterica (chromosome): 2; Escherichia coli (chromosome or plasmid): 1; ,Salmonella enterica: 2; ,Escherichia coli: 1; ,,,,,,,0,0,3,0
+mixed,1x,mdsA,9,Salmonella enterica (chromosome): 9; ,Salmonella enterica: 9; ,,,,,,,,0,0,0,0
+mixed,1x,mdsB,15,Salmonella enterica (chromosome): 11; ,Salmonella enterica: 11; ,,,,,,,,0,4,0,0
+mixed,1x,mdsC,12,Salmonella enterica (chromosome): 12; ,Salmonella enterica: 12; ,,,,,,,,0,0,0,0
+mixed,1x,mdtA,12,,,,,,,,,,0,0,12,0
+mixed,1x,mdtB,17,,,,,,,,,,0,0,17,0
+mixed,1x,mdtC,15,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,14,0
+mixed,1x,mdtE,4,,,,,,,,,,0,4,0,0
+mixed,1x,mdtF,10,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,9,0,0
+mixed,1x,mdtG,6,Escherichia coli (chromosome): 1; Escherichia coli (chromosome or plasmid): 1; ,Escherichia coli: 1; ,Escherichia coli: 1; ,,,,,,,0,0,4,0
+mixed,1x,mdtH,7,,,,,,,,,,0,0,7,0
+mixed,1x,mdtM,4,,,,,,,,,,0,0,4,0
+mixed,1x,mdtN,5,,,,,,,,,,0,0,5,0
+mixed,1x,mdtO,12,,,,,,,,,,0,0,12,0
+mixed,1x,mdtP,20,Escherichia coli (chromosome): 1; Escherichia coli (chromosome or plasmid): 2; Shigella sonnei (chromosome or plasmid): 1; ,Escherichia coli: 1; ,Escherichia coli: 2; Shigella sonnei: 1; ,,,,,,,0,0,16,0
+mixed,1x,mexM,11,Pseudomonas aeruginosa (chromosome): 5; ,Pseudomonas aeruginosa: 5; ,,,,,,,,0,6,0,0
+mixed,1x,mexN,33,Pseudomonas aeruginosa (chromosome): 12; Pseudomonas (chromosome): 21; ,Pseudomonas aeruginosa: 12; ,,,,Pseudomonas: 21; ,,,,0,0,0,0
+mixed,1x,mexP,4,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 1; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,1x,mexQ,41,Pseudomonas aeruginosa (chromosome): 1; Klebsiella pneumoniae (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 18; Klebsiella (chromosome): 2; ,Pseudomonas aeruginosa: 1; Klebsiella pneumoniae: 1; ,Pseudomonas aeruginosa: 18; ,,,Klebsiella: 2; ,,,,0,2,17,0
+mixed,1x,mexY,8,Pseudomonas aeruginosa (chromosome): 8; ,Pseudomonas aeruginosa: 8; ,,,,,,,,0,0,0,0
+mixed,1x,msbA,22,Salmonella enterica (chromosome): 3; Klebsiella (chromosome): 1; ,Salmonella enterica: 3; ,,,,Klebsiella: 1; ,,,,0,18,0,0
+mixed,1x,opmE,10,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 7; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 7; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,1x,oqxA,13,Klebsiella pneumoniae (chromosome or plasmid): 4; Escherichia coli (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 4; Escherichia coli: 1; ,,,,,,,0,0,8,0
+mixed,1x,oqxB,24,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 9; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 9; ,,,0,0,13,0
+mixed,1x,rpoB2,2,Klebsiella pneumoniae (chromosome): 2; ,Klebsiella pneumoniae: 2; ,,,,,,,,0,0,0,0
+mixed,1x,sdiA,8,Salmonella enterica (chromosome): 4; Salmonella enterica (chromosome or plasmid): 4; ,Salmonella enterica: 4; ,Salmonella enterica: 4; ,,,,,,,0,0,0,0
+mixed,1x,smeE,2,Serratia rubidaea (chromosome): 2; ,Serratia rubidaea: 2; ,,,,,,,,0,0,0,0
+mixed,1x,sul2,5,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,4,0
+mixed,1x,tet(A),3,,,,,,,,,,0,0,3,0
+mixed,1x,tet(B),5,,,,,,,,,,0,0,5,0
+mixed,1x,ugd,10,Escherichia coli (chromosome): 4; ,Escherichia coli: 4; ,,,,,,,,0,2,4,0
+mixed,2x,AAC(6')-Iaa,7,Salmonella enterica (chromosome): 4; Salmonella enterica (chromosome or plasmid): 3; ,Salmonella enterica: 4; ,Salmonella enterica: 3; ,,,,,,,0,0,0,0
+mixed,2x,AAC(6')-Ib-cr4,5,,,,,,,,,,0,0,5,0
+mixed,2x,AAC(6')-Ib7,2,,,,,,,,,,0,0,2,0
+mixed,2x,ANT(3'')-II-AAC(6')-IId bifunctional protein,1,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,0,0
+mixed,2x,APH(3'')-Ib,28,Vibrio cholerae (chromosome or plasmid): 1; ,,Vibrio cholerae: 1; ,,,,,,,0,0,27,0
+mixed,2x,APH(3')-IIb,7,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 5; ,,,0,0,0,0
+mixed,2x,APH(6)-Id,21,Klebsiella pneumoniae (chromosome or plasmid): 1; Escherichia coli (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; Escherichia coli: 1; ,,,,,,,2,0,17,0
+mixed,2x,AcrE,27,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,26,0
+mixed,2x,AcrF,38,Shigella flexneri (chromosome or plasmid): 1; Klebsiella (chromosome): 2; ,,Shigella flexneri: 1; ,,,Klebsiella: 2; ,,,,0,0,35,0
+mixed,2x,AcrS,13,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,12,0
+mixed,2x,ArmR,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+mixed,2x,ArnT,24,Klebsiella pneumoniae (chromosome): 11; Klebsiella (chromosome): 8; ,Klebsiella pneumoniae: 11; ,,,,Klebsiella: 8; ,,,,0,5,0,0
+mixed,2x,AxyY,1,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,0,0
+mixed,2x,Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin,2,Klebsiella pneumoniae (chromosome): 1; ,Klebsiella pneumoniae: 1; ,,,,,,,,0,0,1,0
+mixed,2x,CRP,23,Salmonella enterica (chromosome): 4; Klebsiella (chromosome): 13; ,Salmonella enterica: 4; ,,,,Klebsiella: 13; ,,,,0,2,4,0
+mixed,2x,CTX-M-211,6,,,,,,,,,,0,0,6,0
+mixed,2x,CTX-M-254,14,,,,,,,,,,0,0,14,0
+mixed,2x,EC-14,17,,,,,,,,,,0,4,13,0
+mixed,2x,Escherichia coli acrA,18,Salmonella enterica (chromosome): 7; ,Salmonella enterica: 7; ,,,,,,,,0,1,10,0
+mixed,2x,Escherichia coli ampC beta-lactamase,4,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,3,0
+mixed,2x,Escherichia coli mdfA,12,Salmonella enterica (chromosome): 2; Escherichia coli (chromosome or plasmid): 1; ,Salmonella enterica: 2; ,Escherichia coli: 1; ,,,,,,,0,2,7,0
+mixed,2x,FosA,5,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 4; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 4; ,,,,,,,0,0,0,0
+mixed,2x,FosA6,6,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,5,0
+mixed,2x,H-NS,25,Salmonella enterica (chromosome): 7; Escherichia coli (chromosome or plasmid): 3; Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 7; ,Salmonella enterica: 7; ,Escherichia coli: 3; Klebsiella pneumoniae: 2; ,,,,Klebsiella: 7; ,,,0,2,4,0
+mixed,2x,Klebsiella pneumoniae KpnE,7,Klebsiella pneumoniae (chromosome or plasmid): 3; Klebsiella (chromosome or plasmid): 3; ,,Klebsiella pneumoniae: 3; ,,,,Klebsiella: 3; ,,,0,0,1,0
+mixed,2x,Klebsiella pneumoniae KpnF,6,Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 4; ,,Klebsiella pneumoniae: 2; ,,,,Klebsiella: 4; ,,,0,0,0,0
+mixed,2x,Klebsiella pneumoniae KpnG,20,Salmonella enterica (chromosome): 1; Klebsiella pneumoniae (chromosome or plasmid): 7; Salmonella enterica (chromosome or plasmid): 1; Klebsiella (chromosome or plasmid): 11; ,Salmonella enterica: 1; ,Klebsiella pneumoniae: 7; Salmonella enterica: 1; ,,,,Klebsiella: 11; ,,,0,0,0,0
+mixed,2x,Klebsiella pneumoniae KpnH,43,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 10; Klebsiella pneumoniae (chromosome or plasmid): 2; Klebsiella (chromosome or plasmid): 2; ,Salmonella enterica: 2; ,Salmonella enterica: 10; Klebsiella pneumoniae: 2; ,,,,Klebsiella: 2; ,,,0,0,27,0
+mixed,2x,Klebsiella pneumoniae OmpK37,18,Klebsiella pneumoniae (chromosome): 1; Klebsiella pneumoniae (chromosome or plasmid): 11; Klebsiella (chromosome or plasmid): 6; ,Klebsiella pneumoniae: 1; ,Klebsiella pneumoniae: 11; ,,,,Klebsiella: 6; ,,,0,0,0,0
+mixed,2x,Klebsiella pneumoniae acrA,2,Salmonella enterica (chromosome): 2; ,Salmonella enterica: 2; ,,,,,,,,0,0,0,0
+mixed,2x,LptD,31,Klebsiella pneumoniae (chromosome): 16; Klebsiella (chromosome): 15; ,Klebsiella pneumoniae: 16; ,,,,Klebsiella: 15; ,,,,0,0,0,0
+mixed,2x,MdtK,26,Salmonella enterica (chromosome): 10; Salmonella enterica (chromosome or plasmid): 16; ,Salmonella enterica: 10; ,Salmonella enterica: 16; ,,,,,,,0,0,0,0
+mixed,2x,MexA,9,Pseudomonas aeruginosa (chromosome or plasmid): 1; Pseudomonas (chromosome): 1; Pseudomonas (chromosome or plasmid): 7; ,,Pseudomonas aeruginosa: 1; ,,,Pseudomonas: 1; ,Pseudomonas: 7; ,,,0,0,0,0
+mixed,2x,MexB,40,Klebsiella pneumoniae (chromosome): 3; Salmonella enterica (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 36; ,Klebsiella pneumoniae: 3; Salmonella enterica: 1; ,Pseudomonas aeruginosa: 36; ,,,,,,,0,0,0,0
+mixed,2x,MexC,15,Pseudomonas aeruginosa (chromosome or plasmid): 10; ,,Pseudomonas aeruginosa: 10; ,,,,,,,0,0,5,0
+mixed,2x,MexD,39,Pseudomonas aeruginosa (chromosome or plasmid): 19; ,,Pseudomonas aeruginosa: 19; ,,,,,,,0,0,20,0
+mixed,2x,MexE,22,Pseudomonas aeruginosa (chromosome or plasmid): 11; Pseudomonas (chromosome): 1; Pseudomonas (chromosome or plasmid): 10; ,,Pseudomonas aeruginosa: 11; ,,,Pseudomonas: 1; ,Pseudomonas: 10; ,,,0,0,0,0
+mixed,2x,MexF,53,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 22; Pseudomonas (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 22; ,,,,Pseudomonas: 3; ,,,0,1,25,0
+mixed,2x,MexG,7,Pseudomonas (chromosome): 7; ,,,,,Pseudomonas: 7; ,,,,0,0,0,0
+mixed,2x,MexH,15,Pseudomonas aeruginosa (chromosome): 8; Pseudomonas (chromosome): 7; ,Pseudomonas aeruginosa: 8; ,,,,Pseudomonas: 7; ,,,,0,0,0,0
+mixed,2x,MexI,49,Pseudomonas aeruginosa (chromosome): 12; Pseudomonas (chromosome): 37; ,Pseudomonas aeruginosa: 12; ,,,,Pseudomonas: 37; ,,,,0,0,0,0
+mixed,2x,MexJ,21,Pseudomonas aeruginosa (chromosome or plasmid): 11; Pseudomonas (chromosome or plasmid): 10; ,,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 10; ,,,0,0,0,0
+mixed,2x,MexK,51,Pseudomonas aeruginosa (chromosome or plasmid): 18; Pseudomonas (chromosome or plasmid): 33; ,,Pseudomonas aeruginosa: 18; ,,,,Pseudomonas: 33; ,,,0,0,0,0
+mixed,2x,MexV,17,Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 11; ,,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 11; ,,,0,0,0,0
+mixed,2x,MexW,46,Pseudomonas aeruginosa (chromosome): 1; Pseudomonas aeruginosa (chromosome or plasmid): 25; Pseudomonas (chromosome or plasmid): 20; ,Pseudomonas aeruginosa: 1; ,Pseudomonas aeruginosa: 25; ,,,,Pseudomonas: 20; ,,,0,0,0,0
+mixed,2x,MuxA,29,Pseudomonas aeruginosa (chromosome or plasmid): 14; Pseudomonas (chromosome or plasmid): 15; ,,Pseudomonas aeruginosa: 14; ,,,,Pseudomonas: 15; ,,,0,0,0,0
+mixed,2x,MuxB,26,Pseudomonas aeruginosa (chromosome or plasmid): 9; Pseudomonas (chromosome or plasmid): 17; ,,Pseudomonas aeruginosa: 9; ,,,,Pseudomonas: 17; ,,,0,0,0,0
+mixed,2x,MuxC,37,Pseudomonas aeruginosa (chromosome or plasmid): 17; Pseudomonas (chromosome or plasmid): 20; ,,Pseudomonas aeruginosa: 17; ,,,,Pseudomonas: 20; ,,,0,0,0,0
+mixed,2x,OXA-1,3,,,,,,,,,,0,0,3,0
+mixed,2x,OXA-1022,6,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas (chromosome): 1; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 1; ,,,,0,0,0,0
+mixed,2x,OXA-1298,2,Pseudomonas aeruginosa (chromosome): 2; ,Pseudomonas aeruginosa: 2; ,,,,,,,,0,0,0,0
+mixed,2x,OXA-47,1,,,,,,,,,,0,0,1,0
+mixed,2x,OXA-534,9,Klebsiella pneumoniae (chromosome or plasmid): 1; ,,Klebsiella pneumoniae: 1; ,,,,,,,0,0,8,0
+mixed,2x,OmpA,14,Klebsiella (chromosome or plasmid): 2; ,,,,,,Klebsiella: 2; ,,,0,0,12,0
+mixed,2x,OpmB,13,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome): 2; Pseudomonas (chromosome or plasmid): 8; ,,Pseudomonas aeruginosa: 3; ,,,Pseudomonas: 2; ,Pseudomonas: 8; ,,,0,0,0,0
+mixed,2x,OpmD,28,Pseudomonas aeruginosa (chromosome): 11; Pseudomonas (chromosome): 17; ,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 17; ,,,,0,0,0,0
+mixed,2x,OpmH,15,Pseudomonas aeruginosa (chromosome): 12; Pseudomonas (chromosome): 3; ,Pseudomonas aeruginosa: 12; ,,,,Pseudomonas: 3; ,,,,0,0,0,0
+mixed,2x,OprJ,23,Pseudomonas aeruginosa (chromosome or plasmid): 15; Pseudomonas (chromosome or plasmid): 8; ,,Pseudomonas aeruginosa: 15; ,,,,Pseudomonas: 8; ,,,0,0,0,0
+mixed,2x,OprM,15,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 11; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 11; ,,,0,0,0,0
+mixed,2x,OprN,15,Pseudomonas aeruginosa (chromosome or plasmid): 8; ,,Pseudomonas aeruginosa: 8; ,,,,,,,0,0,7,0
+mixed,2x,PDC-263,5,Pseudomonas aeruginosa (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 1; ,,,,,,,0,0,4,0
+mixed,2x,PDC-526,1,Pseudomonas (chromosome or plasmid): 1; ,,,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,2x,PDC-587,2,Pseudomonas (chromosome or plasmid): 2; ,,,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,2x,ParR,11,Pseudomonas aeruginosa (chromosome): 6; Pseudomonas aeruginosa (chromosome or plasmid): 5; ,Pseudomonas aeruginosa: 6; ,Pseudomonas aeruginosa: 5; ,,,,,,,0,0,0,0
+mixed,2x,ParS,16,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas aeruginosa (chromosome or plasmid): 9; Pseudomonas (chromosome or plasmid): 2; ,Pseudomonas aeruginosa: 5; ,Pseudomonas aeruginosa: 9; ,,,,Pseudomonas: 2; ,,,0,0,0,0
+mixed,2x,PmpM,21,Pseudomonas aeruginosa (chromosome): 9; Pseudomonas (chromosome): 12; ,Pseudomonas aeruginosa: 9; ,,,,Pseudomonas: 12; ,,,,0,0,0,0
+mixed,2x,PmrF,18,Salmonella enterica (chromosome): 2; Escherichia coli (chromosome or plasmid): 1; ,Salmonella enterica: 2; ,Escherichia coli: 1; ,,,,,,,0,0,15,0
+mixed,2x,Pseudomonas aeruginosa CpxR,9,Pseudomonas (chromosome or plasmid): 9; ,,,,,,Pseudomonas: 9; ,,,0,0,0,0
+mixed,2x,Pseudomonas aeruginosa catB7,15,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 10; Pseudomonas (chromosome or plasmid): 3; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 10; ,,,,Pseudomonas: 3; ,,,0,0,0,0
+mixed,2x,Pseudomonas aeruginosa emrE,8,Pseudomonas aeruginosa (chromosome): 6; Pseudomonas (chromosome): 2; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 2; ,,,,0,0,0,0
+mixed,2x,Pseudomonas aeruginosa soxR,6,Pseudomonas aeruginosa (chromosome or plasmid): 2; Pseudomonas (chromosome or plasmid): 4; ,,Pseudomonas aeruginosa: 2; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+mixed,2x,QnrB1,3,,,,,,,,,,0,0,3,0
+mixed,2x,QnrB17,7,,,,,,,,,,0,0,7,0
+mixed,2x,SHV-196,2,,,,,,,,,,0,0,2,0
+mixed,2x,SHV-224,7,,,,,,,,,,0,0,7,0
+mixed,2x,Shigella flexneri acrA,7,,,,,,,,,,0,0,7,0
+mixed,2x,TEM-127,11,,,,,,,,,,0,0,11,0
+mixed,2x,TEM-70,17,Klebsiella quasipneumoniae (chromosome or plasmid): 1; ,,Klebsiella quasipneumoniae: 1; ,,,,,,,0,2,14,0
+mixed,2x,TolC,32,,,,,,,,,,0,0,32,0
+mixed,2x,TriA,12,Pseudomonas aeruginosa (chromosome): 5; Pseudomonas (chromosome): 7; ,Pseudomonas aeruginosa: 5; ,,,,Pseudomonas: 7; ,,,,0,0,0,0
+mixed,2x,TriB,14,Pseudomonas aeruginosa (chromosome): 3; Pseudomonas (chromosome): 11; ,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 11; ,,,,0,0,0,0
+mixed,2x,TriC,54,Pseudomonas aeruginosa (chromosome): 19; Pseudomonas (chromosome): 35; ,Pseudomonas aeruginosa: 19; ,,,,Pseudomonas: 35; ,,,,0,0,0,0
+mixed,2x,YajC,1,Pseudomonas (chromosome): 1; ,,,,,Pseudomonas: 1; ,,,,0,0,0,0
+mixed,2x,YojI,21,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,20,0
+mixed,2x,aadA,9,,,,,,,,,,0,0,9,0
+mixed,2x,aadA25,2,Acinetobacter baumannii (chromosome or plasmid): 1; ,,Acinetobacter baumannii: 1; ,,,,,,,0,0,1,0
+mixed,2x,acrB,110,Salmonella enterica (chromosome): 29; Klebsiella pneumoniae (chromosome): 21; Enterobacter asburiae (chromosome): 2; Escherichia coli (chromosome): 1; Escherichia coli (chromosome or plasmid): 2; Enterobacter (chromosome): 1; ,Salmonella enterica: 29; Klebsiella pneumoniae: 21; Enterobacter asburiae: 2; Escherichia coli: 1; ,Escherichia coli: 2; ,,,Enterobacter: 1; ,,,,0,3,51,0
+mixed,2x,acrD,60,Salmonella enterica (chromosome): 12; Klebsiella pneumoniae (chromosome): 1; Escherichia coli (chromosome or plasmid): 1; Shigella dysenteriae (chromosome or plasmid): 1; Klebsiella (chromosome): 5; ,Salmonella enterica: 12; Klebsiella pneumoniae: 1; ,Escherichia coli: 1; Shigella dysenteriae: 1; ,,,Klebsiella: 5; ,,,,0,0,40,0
+mixed,2x,arnA,27,Pseudomonas aeruginosa (chromosome or plasmid): 14; Pseudomonas (chromosome or plasmid): 13; ,,Pseudomonas aeruginosa: 14; ,,,,Pseudomonas: 13; ,,,0,0,0,0
+mixed,2x,bacA,17,Salmonella enterica (chromosome or plasmid): 3; ,,Salmonella enterica: 3; ,,,,,,,0,0,14,0
+mixed,2x,basS,22,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 7; Pseudomonas (chromosome or plasmid): 13; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 7; ,,,,Pseudomonas: 13; ,,,0,0,0,0
+mixed,2x,bcr-1,14,Pseudomonas aeruginosa (chromosome or plasmid): 7; Pseudomonas (chromosome or plasmid): 7; ,,Pseudomonas aeruginosa: 7; ,,,,Pseudomonas: 7; ,,,0,0,0,0
+mixed,2x,catA1,7,Citrobacter portucalensis (chromosome or plasmid): 2; Escherichia coli (chromosome or plasmid): 1; ,,Citrobacter portucalensis: 2; Escherichia coli: 1; ,,,,,,,0,0,4,0
+mixed,2x,catB3,5,,,,,,,,,,0,0,5,0
+mixed,2x,ceoB,6,,,,,,,,,,0,6,0,0
+mixed,2x,cprR,4,Pseudomonas aeruginosa (chromosome or plasmid): 3; Pseudomonas (chromosome or plasmid): 1; ,,Pseudomonas aeruginosa: 3; ,,,,Pseudomonas: 1; ,,,0,0,0,0
+mixed,2x,cprS,9,Pseudomonas aeruginosa (chromosome or plasmid): 4; Pseudomonas (chromosome or plasmid): 5; ,,Pseudomonas aeruginosa: 4; ,,,,Pseudomonas: 5; ,,,0,0,0,0
+mixed,2x,cpxA,19,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,0,18,0
+mixed,2x,dfrA14,15,,,,,,,,,,0,0,15,0
+mixed,2x,emrA,20,Salmonella enterica (chromosome or plasmid): 6; Escherichia coli (chromosome or plasmid): 1; ,,Salmonella enterica: 6; Escherichia coli: 1; ,,,,,,,0,0,13,0
+mixed,2x,emrK,12,,,,,,,,,,0,0,12,0
+mixed,2x,emrR,16,Salmonella enterica (chromosome): 1; Salmonella enterica (chromosome or plasmid): 5; Escherichia coli (chromosome or plasmid): 1; Klebsiella (chromosome or plasmid): 1; ,Salmonella enterica: 1; ,Salmonella enterica: 5; Escherichia coli: 1; ,,,,Klebsiella: 1; ,,,0,0,8,0
+mixed,2x,emrY,17,,,,,,,,,,0,0,17,0
+mixed,2x,eptA,27,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,25,0
+mixed,2x,eptB,17,Klebsiella pneumoniae (chromosome): 8; Klebsiella (chromosome): 9; ,Klebsiella pneumoniae: 8; ,,,,Klebsiella: 9; ,,,,0,0,0,0
+mixed,2x,evgA,11,,,,,,,,,,0,0,11,0
+mixed,2x,evgS,32,Escherichia coli (chromosome or plasmid): 3; ,,Escherichia coli: 3; ,,,,,,,0,0,29,0
+mixed,2x,gadW,3,Escherichia coli (chromosome): 3; ,Escherichia coli: 3; ,,,,,,,,0,0,0,0
+mixed,2x,gadX,12,Escherichia coli (chromosome): 1; Shigella sonnei (chromosome): 1; ,Escherichia coli: 1; Shigella sonnei: 1; ,,,,,,,,0,10,0,0
+mixed,2x,golS,3,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,0,0,0
+mixed,2x,kdpE,11,Salmonella enterica (chromosome): 3; ,Salmonella enterica: 3; ,,,,,,,,0,3,5,0
+mixed,2x,leuO,19,Klebsiella (chromosome): 2; ,,,,,Klebsiella: 2; ,,,,0,1,16,0
+mixed,2x,marA,11,Salmonella enterica (chromosome): 5; Escherichia coli (chromosome or plasmid): 3; ,Salmonella enterica: 5; ,Escherichia coli: 3; ,,,,,,,0,0,3,0
+mixed,2x,mdsA,22,Salmonella enterica (chromosome): 22; ,Salmonella enterica: 22; ,,,,,,,,0,0,0,0
+mixed,2x,mdsB,39,Salmonella enterica (chromosome): 35; ,Salmonella enterica: 35; ,,,,,,,,0,4,0,0
+mixed,2x,mdsC,14,Salmonella enterica (chromosome): 14; ,Salmonella enterica: 14; ,,,,,,,,0,0,0,0
+mixed,2x,mdtA,16,Shigella sonnei (chromosome or plasmid): 1; Escherichia coli (chromosome or plasmid): 1; ,,Shigella sonnei: 1; Escherichia coli: 1; ,,,,,,,0,0,14,0
+mixed,2x,mdtB,45,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,43,0
+mixed,2x,mdtC,48,Escherichia coli (chromosome or plasmid): 4; ,,Escherichia coli: 4; ,,,,,,,0,0,44,0
+mixed,2x,mdtE,26,Escherichia coli (chromosome): 1; ,Escherichia coli: 1; ,,,,,,,,0,25,0,0
+mixed,2x,mdtF,38,Escherichia coli (chromosome): 2; ,Escherichia coli: 2; ,,,,,,,,0,36,0,0
+mixed,2x,mdtG,12,,,,,,,,,,0,0,12,0
+mixed,2x,mdtH,12,Escherichia coli (chromosome or plasmid): 1; ,,Escherichia coli: 1; ,,,,,,,0,1,10,0
+mixed,2x,mdtM,9,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,2,5,0
+mixed,2x,mdtN,16,,,,,,,,,,0,0,16,0
+mixed,2x,mdtO,38,Escherichia coli (chromosome or plasmid): 1; Shigella sonnei (chromosome or plasmid): 1; ,,Escherichia coli: 1; Shigella sonnei: 1; ,,,,,,,0,0,35,1
+mixed,2x,mdtP,18,,,,,,,,,,0,0,18,0
+mixed,2x,mexM,6,Pseudomonas aeruginosa (chromosome): 3; ,Pseudomonas aeruginosa: 3; ,,,,,,,,0,3,0,0
+mixed,2x,mexN,37,Pseudomonas aeruginosa (chromosome): 11; Pseudomonas (chromosome): 26; ,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 26; ,,,,0,0,0,0
+mixed,2x,mexP,12,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 6; Pseudomonas (chromosome or plasmid): 4; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 6; ,,,,Pseudomonas: 4; ,,,0,0,0,0
+mixed,2x,mexQ,67,Pseudomonas aeruginosa (chromosome): 2; Klebsiella pneumoniae (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 27; Klebsiella (chromosome): 3; ,Pseudomonas aeruginosa: 2; Klebsiella pneumoniae: 2; ,Pseudomonas aeruginosa: 27; ,,,Klebsiella: 3; ,,,,0,9,24,0
+mixed,2x,mexY,37,Pseudomonas aeruginosa (chromosome): 37; ,Pseudomonas aeruginosa: 37; ,,,,,,,,0,0,0,0
+mixed,2x,msbA,34,Salmonella enterica (chromosome): 7; Escherichia coli (chromosome): 1; Klebsiella (chromosome): 1; ,Salmonella enterica: 7; Escherichia coli: 1; ,,,,Klebsiella: 1; ,,,,0,25,0,0
+mixed,2x,opmE,19,Pseudomonas aeruginosa (chromosome): 2; Pseudomonas aeruginosa (chromosome or plasmid): 11; Pseudomonas (chromosome or plasmid): 6; ,Pseudomonas aeruginosa: 2; ,Pseudomonas aeruginosa: 11; ,,,,Pseudomonas: 6; ,,,0,0,0,0
+mixed,2x,oqxA,8,Klebsiella pneumoniae (chromosome or plasmid): 3; ,,Klebsiella pneumoniae: 3; ,,,,,,,0,0,5,0
+mixed,2x,oqxB,28,Klebsiella pneumoniae (chromosome or plasmid): 3; Escherichia coli (chromosome or plasmid): 3; Klebsiella (chromosome or plasmid): 3; ,,Klebsiella pneumoniae: 3; Escherichia coli: 3; ,,,,Klebsiella: 3; ,,,0,0,19,0
+mixed,2x,rpoB2,2,Klebsiella pneumoniae (chromosome): 1; Klebsiella pneumoniae (chromosome or plasmid): 1; ,Klebsiella pneumoniae: 1; ,Klebsiella pneumoniae: 1; ,,,,,,,0,0,0,0
+mixed,2x,sdiA,7,Salmonella enterica (chromosome): 2; Salmonella enterica (chromosome or plasmid): 5; ,Salmonella enterica: 2; ,Salmonella enterica: 5; ,,,,,,,0,0,0,0
+mixed,2x,smeE,4,Klebsiella pneumoniae (chromosome): 2; Serratia rubidaea (chromosome): 1; Klebsiella (chromosome): 1; ,Klebsiella pneumoniae: 2; Serratia rubidaea: 1; ,,,,Klebsiella: 1; ,,,,0,0,0,0
+mixed,2x,sul2,13,Escherichia coli (chromosome or plasmid): 2; ,,Escherichia coli: 2; ,,,,,,,0,0,11,0
+mixed,2x,tet(A),22,,,,,,,,,,0,0,22,0
+mixed,2x,tet(B),19,,,,,,,,,,0,0,19,0
+mixed,2x,ugd,10,Escherichia coli (chromosome): 3; Escherichia coli (chromosome or plasmid): 1; ,Escherichia coli: 3; ,Escherichia coli: 1; ,,,,,,,0,3,3,0

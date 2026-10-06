@@ -1,0 +1,474 @@
+species,sample_id,gene,aro,cut_off,identity,arg_length_bp,amr_gene_family,drug_class
+Escherichia coli,C0004,cpxA,3000830,Perfect,100.0,1374,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Escherichia coli,C0004,mdtA,3000792,Strict,99.04,1248,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Escherichia coli,C0004,mdtB,3000793,Perfect,100.0,3123,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Escherichia coli,C0004,mdtC,3000794,Strict,99.51,3078,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Escherichia coli,C0004,APH(3'')-Ib,3002639,Strict,99.25,834,APH(3''),aminoglycoside antibiotic
+Escherichia coli,C0004,APH(6)-Id,3002660,Strict,99.64,831,APH(6),aminoglycoside antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnE,3004580,Strict,81.36,366,small multidrug resistance (SMR) antibiotic efflux pump,aminoglycoside antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnF,3004583,Strict,84.4,330,small multidrug resistance (SMR) antibiotic efflux pump,aminoglycoside antibiotic
+Escherichia coli,C0004,acrD,3000491,Strict,99.81,3114,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminoglycoside antibiotic
+Escherichia coli,C0004,cpxA,3000830,Perfect,100.0,1374,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminoglycoside antibiotic
+Escherichia coli,C0004,kdpE,3003841,Strict,99.11,678,kdpDE,aminoglycoside antibiotic
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,carbapenem
+Escherichia coli,C0004,AcrE,3000499,Perfect,100.0,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Escherichia coli,C0004,AcrF,3000502,Strict,99.61,3105,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Escherichia coli,C0004,AcrS,3000656,Perfect,100.0,663,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Escherichia coli,C0004,CTX-M-15,3001878,Perfect,100.0,876,CTX-M beta-lactamase,cephalosporin
+Escherichia coli,C0004,EC-15,3006876,Strict,98.41,1134,EC beta-lactamase,cephalosporin
+Escherichia coli,C0004,Escherichia coli acrA,3004043,Perfect,100.0,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Escherichia coli,C0004,H-NS,3000676,Strict,99.27,414,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Escherichia coli,C0004,Klebsiella pneumoniae KpnE,3004580,Strict,81.36,366,small multidrug resistance (SMR) antibiotic efflux pump,cephalosporin
+Escherichia coli,C0004,Klebsiella pneumoniae KpnF,3004583,Strict,84.4,330,small multidrug resistance (SMR) antibiotic efflux pump,cephalosporin
+Escherichia coli,C0004,TEM-1,3000873,Perfect,100.0,861,TEM beta-lactamase,cephalosporin
+Escherichia coli,C0004,acrB,3000216,Perfect,100.0,3150,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,cephalosporin
+Escherichia coli,C0004,dfrA14,3002859,Strict,99.36,483,trimethoprim resistant dihydrofolate reductase dfr,diaminopyrimidine antibiotic
+Escherichia coli,C0004,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Escherichia coli,C0004,AcrS,3000656,Perfect,100.0,663,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,Escherichia coli acrA,3004043,Perfect,100.0,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,Escherichia coli mdfA,3001328,Strict,96.59,1233,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,Klebsiella pneumoniae KpnE,3004580,Strict,81.36,366,small multidrug resistance (SMR) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,Klebsiella pneumoniae KpnF,3004583,Strict,84.4,330,small multidrug resistance (SMR) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,acrB,3000216,Perfect,100.0,3150,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,leuO,3003843,Strict,99.04,945,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,disinfecting agents and antiseptics
+Escherichia coli,C0004,mdtM,3001214,Strict,98.04,1233,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,mdtN,3003548,Strict,99.71,1032,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,mdtO,3003549,Strict,98.83,2052,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,mdtP,3003550,Strict,97.95,1467,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Escherichia coli,C0004,AcrE,3000499,Perfect,100.0,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,AcrF,3000502,Strict,99.61,3105,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,AcrS,3000656,Perfect,100.0,663,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,CRP,3000518,Strict,99.52,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,Escherichia coli acrA,3004043,Perfect,100.0,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,H-NS,3000676,Strict,99.27,414,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,acrB,3000216,Perfect,100.0,3150,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,emrA,3000027,Strict,99.74,1173,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,emrB,3000074,Perfect,100.0,1539,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,emrR,3000516,Perfect,100.0,531,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,evgA,3000832,Perfect,100.0,615,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,evgS,3000833,Strict,99.5,3594,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,gadX,3000508,Strict,98.54,825,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,fluoroquinolone antibiotic
+Escherichia coli,C0004,mdtE,3000795,Perfect,100.0,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,mdtF,3000796,Strict,99.71,3114,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,mdtH,3001216,Strict,99.75,1209,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,mdtM,3001214,Strict,98.04,1233,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Escherichia coli,C0004,vanG,3002909,Strict,38.23,1095,glycopeptide resistance gene cluster; Van ligase,glycopeptide antibiotic
+Escherichia coli,C0004,AcrS,3000656,Perfect,100.0,663,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Escherichia coli,C0004,Escherichia coli acrA,3004043,Perfect,100.0,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Escherichia coli,C0004,acrB,3000216,Perfect,100.0,3150,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,glycylcycline
+Escherichia coli,C0004,mdtM,3001214,Strict,98.04,1233,major facilitator superfamily (MFS) antibiotic efflux pump,lincosamide antibiotic
+Escherichia coli,C0004,CRP,3000518,Strict,99.52,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,H-NS,3000676,Strict,99.27,414,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnE,3004580,Strict,81.36,366,small multidrug resistance (SMR) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnF,3004583,Strict,84.4,330,small multidrug resistance (SMR) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,evgA,3000832,Perfect,100.0,615,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,evgS,3000833,Strict,99.5,3594,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,gadX,3000508,Strict,98.54,825,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,mdtE,3000795,Perfect,100.0,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,mdtF,3000796,Strict,99.71,3114,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Escherichia coli,C0004,TEM-1,3000873,Perfect,100.0,861,TEM beta-lactamase,monobactam
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,monobactam
+Escherichia coli,C0004,msbA,3003950,Perfect,100.0,1749,ATP-binding cassette (ABC) antibiotic efflux pump,nitroimidazole antibiotic
+Escherichia coli,C0004,leuO,3003843,Strict,99.04,945,major facilitator superfamily (MFS) antibiotic efflux pump,nucleoside antibiotic
+Escherichia coli,C0004,mdtM,3001214,Strict,98.04,1233,major facilitator superfamily (MFS) antibiotic efflux pump,nucleoside antibiotic
+Escherichia coli,C0004,mdtN,3003548,Strict,99.71,1032,major facilitator superfamily (MFS) antibiotic efflux pump,nucleoside antibiotic
+Escherichia coli,C0004,mdtO,3003549,Strict,98.83,2052,major facilitator superfamily (MFS) antibiotic efflux pump,nucleoside antibiotic
+Escherichia coli,C0004,mdtP,3003550,Strict,97.95,1467,major facilitator superfamily (MFS) antibiotic efflux pump,nucleoside antibiotic
+Escherichia coli,C0004,AcrE,3000499,Perfect,100.0,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,AcrF,3000502,Strict,99.61,3105,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,AcrS,3000656,Perfect,100.0,663,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,CRP,3000518,Strict,99.52,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,CTX-M-15,3001878,Perfect,100.0,876,CTX-M beta-lactamase,penicillin beta-lactam
+Escherichia coli,C0004,Escherichia coli acrA,3004043,Perfect,100.0,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,H-NS,3000676,Strict,99.27,414,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,TEM-1,3000873,Perfect,100.0,861,TEM beta-lactamase,penicillin beta-lactam
+Escherichia coli,C0004,acrB,3000216,Perfect,100.0,3150,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,evgA,3000832,Perfect,100.0,615,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,evgS,3000833,Strict,99.5,3594,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,gadX,3000508,Strict,98.54,825,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,penicillin beta-lactam
+Escherichia coli,C0004,mdtE,3000795,Perfect,100.0,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,mdtF,3000796,Strict,99.71,3114,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Escherichia coli,C0004,ArnT,3005053,Strict,63.34,1653,pmr phosphoethanolamine transferase,peptide antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnE,3004580,Strict,81.36,366,small multidrug resistance (SMR) antibiotic efflux pump,peptide antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnF,3004583,Strict,84.4,330,small multidrug resistance (SMR) antibiotic efflux pump,peptide antibiotic
+Escherichia coli,C0004,PmrF,3003578,Strict,99.07,969,pmr phosphoethanolamine transferase,peptide antibiotic
+Escherichia coli,C0004,YojI,3003952,Strict,99.82,1644,ATP-binding cassette (ABC) antibiotic efflux pump,peptide antibiotic
+Escherichia coli,C0004,bacA,3002986,Strict,99.63,822,undecaprenyl pyrophosphate related proteins,peptide antibiotic
+Escherichia coli,C0004,eptA,3003576,Strict,99.63,1644,pmr phosphoethanolamine transferase,peptide antibiotic
+Escherichia coli,C0004,AcrS,3000656,Perfect,100.0,663,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Escherichia coli,C0004,Escherichia coli acrA,3004043,Perfect,100.0,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Escherichia coli,C0004,Escherichia coli mdfA,3001328,Strict,96.59,1233,major facilitator superfamily (MFS) antibiotic efflux pump,phenicol antibiotic
+Escherichia coli,C0004,acrB,3000216,Perfect,100.0,3150,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,phenicol antibiotic
+Escherichia coli,C0004,mdtM,3001214,Strict,98.04,1233,major facilitator superfamily (MFS) antibiotic efflux pump,phenicol antibiotic
+Escherichia coli,C0004,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Escherichia coli,C0004,mdtG,3001329,Perfect,100.0,1227,major facilitator superfamily (MFS) antibiotic efflux pump,phosphonic acid antibiotic
+Escherichia coli,C0004,AcrS,3000656,Perfect,100.0,663,resistance-nodulation-cell division (RND) antibiotic efflux pump,rifamycin antibiotic
+Escherichia coli,C0004,Escherichia coli acrA,3004043,Perfect,100.0,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,rifamycin antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnE,3004580,Strict,81.36,366,small multidrug resistance (SMR) antibiotic efflux pump,rifamycin antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnF,3004583,Strict,84.4,330,small multidrug resistance (SMR) antibiotic efflux pump,rifamycin antibiotic
+Escherichia coli,C0004,acrB,3000216,Perfect,100.0,3150,resistance-nodulation-cell division (RND) antibiotic efflux pump,rifamycin antibiotic
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,rifamycin antibiotic
+Escherichia coli,C0004,sul2,3000412,Perfect,100.0,816,sulfonamide resistant sul,sulfonamide antibiotic
+Escherichia coli,C0004,AcrS,3000656,Perfect,100.0,663,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,Escherichia coli acrA,3004043,Perfect,100.0,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,Escherichia coli mdfA,3001328,Strict,96.59,1233,major facilitator superfamily (MFS) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,H-NS,3000676,Strict,99.27,414,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnE,3004580,Strict,81.36,366,small multidrug resistance (SMR) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,Klebsiella pneumoniae KpnF,3004583,Strict,84.4,330,small multidrug resistance (SMR) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,acrB,3000216,Perfect,100.0,3150,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,emrK,3000206,Strict,99.72,1164,major facilitator superfamily (MFS) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,emrY,3000254,Strict,99.8,1539,major facilitator superfamily (MFS) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,evgA,3000832,Perfect,100.0,615,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,evgS,3000833,Strict,99.5,3594,major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Escherichia coli,C0004,marA,3000263,Perfect,100.0,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,tetracycline antibiotic
+Escherichia coli,C0004,tet(B),3000166,Strict,99.25,1206,major facilitator superfamily (MFS) antibiotic efflux pump,tetracycline antibiotic
+Klebsiella pneumoniae,C0039,LptD,3005059,Perfect,100.0,2349,ATP-binding cassette (ABC) antibiotic efflux pump,aminocoumarin antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnE,3004580,Strict,99.17,363,small multidrug resistance (SMR) antibiotic efflux pump,aminoglycoside antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnF,3004583,Perfect,100.0,330,small multidrug resistance (SMR) antibiotic efflux pump,aminoglycoside antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnG,3004588,Strict,99.74,1173,major facilitator superfamily (MFS) antibiotic efflux pump,aminoglycoside antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnH,3004597,Strict,93.36,1539,major facilitator superfamily (MFS) antibiotic efflux pump,aminoglycoside antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnG,3004588,Strict,99.74,1173,major facilitator superfamily (MFS) antibiotic efflux pump,carbapenem
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnH,3004597,Strict,93.36,1539,major facilitator superfamily (MFS) antibiotic efflux pump,carbapenem
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae OmpK37,3004122,Strict,94.27,1155,General Bacterial Porin with reduced permeability to beta-lactams,carbapenem
+Klebsiella pneumoniae,C0039,LptD,3005059,Perfect,100.0,2349,ATP-binding cassette (ABC) antibiotic efflux pump,carbapenem
+Klebsiella pneumoniae,C0039,MdtQ,3007682,Strict,99.79,1440,Outer Membrane Porin (Opr),carbapenem
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,carbapenem
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnE,3004580,Strict,99.17,363,small multidrug resistance (SMR) antibiotic efflux pump,cephalosporin
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnF,3004583,Perfect,100.0,330,small multidrug resistance (SMR) antibiotic efflux pump,cephalosporin
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnG,3004588,Strict,99.74,1173,major facilitator superfamily (MFS) antibiotic efflux pump,cephalosporin
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnH,3004597,Strict,93.36,1539,major facilitator superfamily (MFS) antibiotic efflux pump,cephalosporin
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae OmpK37,3004122,Strict,94.27,1155,General Bacterial Porin with reduced permeability to beta-lactams,cephalosporin
+Klebsiella pneumoniae,C0039,MdtQ,3007682,Strict,99.79,1440,Outer Membrane Porin (Opr),cephalosporin
+Klebsiella pneumoniae,C0039,SHV-11,3001070,Perfect,100.0,861,SHV beta-lactamase,cephalosporin
+Klebsiella pneumoniae,C0039,Shigella flexneri acrA,3007509,Strict,84.63,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,cephalosporin
+Klebsiella pneumoniae,C0039,oqxA,3003922,Strict,99.74,1176,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Klebsiella pneumoniae,C0039,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnE,3004580,Strict,99.17,363,small multidrug resistance (SMR) antibiotic efflux pump,disinfecting agents and antiseptics
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnF,3004583,Perfect,100.0,330,small multidrug resistance (SMR) antibiotic efflux pump,disinfecting agents and antiseptics
+Klebsiella pneumoniae,C0039,Shigella flexneri acrA,3007509,Strict,84.63,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Klebsiella pneumoniae,C0039,leuO,3003843,Strict,83.44,951,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,disinfecting agents and antiseptics
+Klebsiella pneumoniae,C0039,CRP,3000518,Strict,99.05,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnG,3004588,Strict,99.74,1173,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnH,3004597,Strict,93.36,1539,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,Shigella flexneri acrA,3007509,Strict,84.63,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,adeF,3000777,Strict,59.9,3153,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,emrR,3000516,Strict,92.57,531,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,oqxA,3003922,Strict,99.74,1176,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Klebsiella pneumoniae,C0039,vanG,3002909,Strict,38.66,1098,glycopeptide resistance gene cluster; Van ligase,glycopeptide antibiotic
+Klebsiella pneumoniae,C0039,Shigella flexneri acrA,3007509,Strict,84.63,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,glycylcycline
+Klebsiella pneumoniae,C0039,oqxA,3003922,Strict,99.74,1176,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Klebsiella pneumoniae,C0039,CRP,3000518,Strict,99.05,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnE,3004580,Strict,99.17,363,small multidrug resistance (SMR) antibiotic efflux pump,macrolide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnF,3004583,Perfect,100.0,330,small multidrug resistance (SMR) antibiotic efflux pump,macrolide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnG,3004588,Strict,99.74,1173,major facilitator superfamily (MFS) antibiotic efflux pump,macrolide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnH,3004597,Strict,93.36,1539,major facilitator superfamily (MFS) antibiotic efflux pump,macrolide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae OmpK37,3004122,Strict,94.27,1155,General Bacterial Porin with reduced permeability to beta-lactams,monobactam
+Klebsiella pneumoniae,C0039,MdtQ,3007682,Strict,99.79,1440,Outer Membrane Porin (Opr),monobactam
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,monobactam
+Klebsiella pneumoniae,C0039,oqxA,3003922,Strict,99.74,1176,resistance-nodulation-cell division (RND) antibiotic efflux pump,nitrofuran antibiotic
+Klebsiella pneumoniae,C0039,msbA,3003950,Strict,91.92,1749,ATP-binding cassette (ABC) antibiotic efflux pump,nitroimidazole antibiotic
+Klebsiella pneumoniae,C0039,leuO,3003843,Strict,83.44,951,major facilitator superfamily (MFS) antibiotic efflux pump,nucleoside antibiotic
+Klebsiella pneumoniae,C0039,CRP,3000518,Strict,99.05,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnG,3004588,Strict,99.74,1173,major facilitator superfamily (MFS) antibiotic efflux pump,penicillin beta-lactam
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnH,3004597,Strict,93.36,1539,major facilitator superfamily (MFS) antibiotic efflux pump,penicillin beta-lactam
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae OmpK37,3004122,Strict,94.27,1155,General Bacterial Porin with reduced permeability to beta-lactams,penicillin beta-lactam
+Klebsiella pneumoniae,C0039,MdtQ,3007682,Strict,99.79,1440,Outer Membrane Porin (Opr),penicillin beta-lactam
+Klebsiella pneumoniae,C0039,SHV-11,3001070,Perfect,100.0,861,SHV beta-lactamase,penicillin beta-lactam
+Klebsiella pneumoniae,C0039,Shigella flexneri acrA,3007509,Strict,84.63,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,penicillin beta-lactam
+Klebsiella pneumoniae,C0039,ArnT,3005053,Strict,99.27,1656,pmr phosphoethanolamine transferase,peptide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnE,3004580,Strict,99.17,363,small multidrug resistance (SMR) antibiotic efflux pump,peptide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnF,3004583,Perfect,100.0,330,small multidrug resistance (SMR) antibiotic efflux pump,peptide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnG,3004588,Strict,99.74,1173,major facilitator superfamily (MFS) antibiotic efflux pump,peptide antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnH,3004597,Strict,93.36,1539,major facilitator superfamily (MFS) antibiotic efflux pump,peptide antibiotic
+Klebsiella pneumoniae,C0039,LptD,3005059,Perfect,100.0,2349,ATP-binding cassette (ABC) antibiotic efflux pump,peptide antibiotic
+Klebsiella pneumoniae,C0039,OmpA,3005044,Strict,99.72,1071,General Bacterial Porin with reduced permeability to peptide antibiotics,peptide antibiotic
+Klebsiella pneumoniae,C0039,eptB,3005047,Strict,99.1,1674,pmr phosphoethanolamine transferase,peptide antibiotic
+Klebsiella pneumoniae,C0039,Shigella flexneri acrA,3007509,Strict,84.63,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,phenicol antibiotic
+Klebsiella pneumoniae,C0039,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Klebsiella pneumoniae,C0039,FosA6,3004111,Strict,99.28,420,fosfomycin thiol transferase,phosphonic acid antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnE,3004580,Strict,99.17,363,small multidrug resistance (SMR) antibiotic efflux pump,rifamycin antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnF,3004583,Perfect,100.0,330,small multidrug resistance (SMR) antibiotic efflux pump,rifamycin antibiotic
+Klebsiella pneumoniae,C0039,LptD,3005059,Perfect,100.0,2349,ATP-binding cassette (ABC) antibiotic efflux pump,rifamycin antibiotic
+Klebsiella pneumoniae,C0039,Shigella flexneri acrA,3007509,Strict,84.63,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,rifamycin antibiotic
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,rifamycin antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnE,3004580,Strict,99.17,363,small multidrug resistance (SMR) antibiotic efflux pump,tetracycline antibiotic
+Klebsiella pneumoniae,C0039,Klebsiella pneumoniae KpnF,3004583,Perfect,100.0,330,small multidrug resistance (SMR) antibiotic efflux pump,tetracycline antibiotic
+Klebsiella pneumoniae,C0039,Shigella flexneri acrA,3007509,Strict,84.63,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Klebsiella pneumoniae,C0039,adeF,3000777,Strict,59.9,3153,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Klebsiella pneumoniae,C0039,marA,3000263,Strict,92.74,375,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,tetracycline antibiotic
+Klebsiella pneumoniae,C0039,oqxA,3003922,Strict,99.74,1176,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,ArmR,3004056,Perfect,100.0,162,,(unannotated)
+Pseudomonas aeruginosa,C0224,MexA,3000377,Perfect,100.0,1152,,(unannotated)
+Pseudomonas aeruginosa,C0224,MexB,3000378,Strict,99.9,3141,,(unannotated)
+Pseudomonas aeruginosa,C0224,MexG,3000806,Perfect,100.0,447,,(unannotated)
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Pseudomonas aeruginosa,C0224,MuxB,3004074,Perfect,100.0,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Pseudomonas aeruginosa,C0224,MuxC,3004075,Strict,99.9,3111,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Pseudomonas aeruginosa,C0224,OpmB,3004072,Perfect,100.0,1497,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminocoumarin antibiotic
+Pseudomonas aeruginosa,C0224,APH(3')-IIb,3002645,Strict,98.88,807,APH(3'),aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,PmpM,3004077,Perfect,100.0,1434,multidrug and toxic compound extrusion (MATE) transporter,aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa emrE,3004038,Perfect,100.0,333,small multidrug resistance (SMR) antibiotic efflux pump,aminoglycoside antibiotic
+Pseudomonas aeruginosa,C0224,bcr-1,3003801,Perfect,100.0,1209,major facilitator superfamily (MFS) antibiotic efflux pump,bicyclomycin-like antibiotic
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem
+Pseudomonas aeruginosa,C0224,PDC-5,3002502,Perfect,100.0,1194,PDC beta-lactamase,carbapenem
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),carbapenem
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),carbapenem
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem
+Pseudomonas aeruginosa,C0224,mexP,3003698,Strict,98.44,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem
+Pseudomonas aeruginosa,C0224,mexQ,3003699,Strict,99.53,3162,resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem
+Pseudomonas aeruginosa,C0224,opmE,3003700,Strict,99.39,1476,resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Pseudomonas aeruginosa,C0224,PDC-5,3002502,Perfect,100.0,1194,PDC beta-lactamase,cephalosporin
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),cephalosporin
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),cephalosporin
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa soxR,3004107,Perfect,100.0,471,ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,MexE,3000803,Perfect,100.0,1245,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,MexF,3000804,Perfect,100.0,3189,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,OprN,3000805,Perfect,100.0,1419,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,mexP,3003698,Strict,98.44,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,mexQ,3003699,Strict,99.53,3162,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,opmE,3003700,Strict,99.39,1476,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,rsmA,3005069,Perfect,100.0,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Pseudomonas aeruginosa,C0224,MexH,3000807,Perfect,100.0,1113,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,MexI,3000808,Strict,99.9,3090,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,MexV,3003030,Strict,99.73,1131,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,MexW,3003031,Strict,99.8,3057,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,OpmH,3003682,Strict,97.3,1449,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,PmpM,3004077,Perfect,100.0,1434,multidrug and toxic compound extrusion (MATE) transporter,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa soxR,3004107,Perfect,100.0,471,ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,TriB,3003680,Strict,99.72,1071,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,TriC,3003681,Perfect,100.0,3048,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,mexP,3003698,Strict,98.44,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,mexQ,3003699,Strict,99.53,3162,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,opmE,3003700,Strict,99.39,1476,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,qacJ,3007014,Strict,36.63,324,small multidrug resistance (SMR) antibiotic efflux pump,disinfecting agents and antiseptics
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,MexE,3000803,Perfect,100.0,1245,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,MexF,3000804,Perfect,100.0,3189,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,MexH,3000807,Perfect,100.0,1113,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,MexI,3000808,Strict,99.9,3090,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,MexV,3003030,Strict,99.73,1131,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,MexW,3003031,Strict,99.8,3057,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,OprN,3000805,Perfect,100.0,1419,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,PmpM,3004077,Perfect,100.0,1434,multidrug and toxic compound extrusion (MATE) transporter,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa soxR,3004107,Perfect,100.0,471,ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,adeF,3000777,Strict,59.58,3177,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,rsmA,3005069,Perfect,100.0,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycopeptide antibiotic
+Pseudomonas aeruginosa,C0224,vanW gene in vanG cluster,3002965,Strict,31.58,822,vanW; glycopeptide resistance gene cluster,glycopeptide antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa soxR,3004107,Perfect,100.0,471,ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,MexJ,3003692,Strict,99.73,1104,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,MexK,3003693,Perfect,100.0,3078,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,MexV,3003030,Strict,99.73,1131,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,MexW,3003031,Strict,99.8,3057,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,MuxB,3004074,Perfect,100.0,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,MuxC,3004075,Strict,99.9,3111,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,OpmB,3004072,Perfect,100.0,1497,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),macrolide antibiotic
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),macrolide antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,mexP,3003698,Strict,98.44,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,mexQ,3003699,Strict,99.53,3162,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,opmE,3003700,Strict,99.39,1476,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Pseudomonas aeruginosa,C0224,MuxB,3004074,Perfect,100.0,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,monobactam
+Pseudomonas aeruginosa,C0224,MuxC,3004075,Strict,99.9,3111,resistance-nodulation-cell division (RND) antibiotic efflux pump,monobactam
+Pseudomonas aeruginosa,C0224,OpmB,3004072,Perfect,100.0,1497,resistance-nodulation-cell division (RND) antibiotic efflux pump,monobactam
+Pseudomonas aeruginosa,C0224,PDC-5,3002502,Perfect,100.0,1194,PDC beta-lactamase,monobactam
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),monobactam
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),monobactam
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,monobactam
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,oxazolidinone antibiotic
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,OXA-1032,3008453,Strict,99.62,789,OXA beta-lactamase; OXA-50-like beta-lactamase,penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,PDC-5,3002502,Perfect,100.0,1194,PDC beta-lactamase,penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa soxR,3004107,Perfect,100.0,471,ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Pseudomonas aeruginosa,C0224,ArnT,3005053,Strict,41.73,1650,pmr phosphoethanolamine transferase,peptide antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,peptide antibiotic
+Pseudomonas aeruginosa,C0224,arnA,3002985,Strict,99.7,1989,pmr phosphoethanolamine transferase,peptide antibiotic
+Pseudomonas aeruginosa,C0224,basS,3003583,Perfect,100.0,1434,pmr phosphoethanolamine transferase,peptide antibiotic
+Pseudomonas aeruginosa,C0224,cprR,3005063,Perfect,100.0,672,pmr phosphoethanolamine transferase,peptide antibiotic
+Pseudomonas aeruginosa,C0224,cprS,3005064,Strict,99.77,1296,pmr phosphoethanolamine transferase,peptide antibiotic
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,MexE,3000803,Perfect,100.0,1245,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,MexF,3000804,Perfect,100.0,3189,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,MexV,3003030,Strict,99.73,1131,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,MexW,3003031,Strict,99.8,3057,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,OprN,3000805,Perfect,100.0,1419,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),phenicol antibiotic
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),phenicol antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa catB7,3002679,Strict,99.06,639,chloramphenicol acetyltransferase (CAT),phenicol antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa soxR,3004107,Perfect,100.0,471,ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,mexM,3003704,Strict,98.7,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,mexN,3003705,Strict,99.61,3111,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,mexP,3003698,Strict,98.44,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,mexQ,3003699,Strict,99.53,3162,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,opmE,3003700,Strict,99.39,1476,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,rsmA,3005069,Perfect,100.0,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Pseudomonas aeruginosa,C0224,FosA,3000149,Perfect,100.0,408,fosfomycin thiol transferase,phosphonic acid antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa soxR,3004107,Perfect,100.0,471,ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,rifamycin antibiotic
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,rifamycin antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,sulfonamide antibiotic
+Pseudomonas aeruginosa,C0224,MexD,3000801,Strict,95.52,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,MexJ,3003692,Strict,99.73,1104,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,MexK,3003693,Perfect,100.0,3078,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,MexV,3003030,Strict,99.73,1131,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,MexW,3003031,Strict,99.8,3057,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,MuxB,3004074,Perfect,100.0,3132,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,MuxC,3004075,Strict,99.9,3111,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,OpmB,3004072,Perfect,100.0,1497,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,OprJ,3000802,Strict,98.54,1440,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,OprM,3000379,Perfect,100.0,1458,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,ParR,3005068,Strict,99.15,708,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,ParS,3005067,Strict,99.77,1287,resistance-nodulation-cell division (RND) antibiotic efflux pump; Outer Membrane Porin (Opr),tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa CpxR,3004054,Perfect,100.0,678,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,Pseudomonas aeruginosa soxR,3004107,Perfect,100.0,471,ATP-binding cassette (ABC) antibiotic efflux pump; major facilitator superfamily (MFS) antibiotic efflux pump; resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,YajC,3005040,Perfect,100.0,339,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,adeF,3000777,Strict,59.58,3177,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,mexP,3003698,Strict,98.44,1158,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,mexQ,3003699,Strict,99.53,3162,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Pseudomonas aeruginosa,C0224,opmE,3003700,Strict,99.39,1476,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Salmonella enterica,C1745,AAC(6')-Iaa,3002571,Perfect,100.0,438,AAC(6'),aminoglycoside antibiotic
+Salmonella enterica,C1745,AAC(6')-Ib10,3002581,Strict,97.98,645,AAC(6'),aminoglycoside antibiotic
+Salmonella enterica,C1745,APH(3'')-Ib,3002639,Strict,99.63,804,APH(3''),aminoglycoside antibiotic
+Salmonella enterica,C1745,APH(6)-Id,3002660,Strict,99.64,837,APH(6),aminoglycoside antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnE,3004580,Strict,76.67,363,small multidrug resistance (SMR) antibiotic efflux pump,aminoglycoside antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnF,3004583,Strict,87.16,330,small multidrug resistance (SMR) antibiotic efflux pump,aminoglycoside antibiotic
+Salmonella enterica,C1745,aadA,3002601,Strict,99.61,780,ANT(3''),aminoglycoside antibiotic
+Salmonella enterica,C1745,kdpE,3003841,Strict,91.96,678,kdpDE,aminoglycoside antibiotic
+Salmonella enterica,C1745,golS,3000504,Perfect,100.0,465,resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,carbapenem
+Salmonella enterica,C1745,mdsA,3000789,Perfect,100.0,1227,resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem
+Salmonella enterica,C1745,mdsB,3000790,Perfect,100.0,3168,resistance-nodulation-cell division (RND) antibiotic efflux pump,carbapenem
+Salmonella enterica,C1745,CTX-M-15,3001878,Perfect,100.0,876,CTX-M beta-lactamase,cephalosporin
+Salmonella enterica,C1745,Escherichia coli acrA,3004043,Strict,91.69,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnE,3004580,Strict,76.67,363,small multidrug resistance (SMR) antibiotic efflux pump,cephalosporin
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnF,3004583,Strict,87.16,330,small multidrug resistance (SMR) antibiotic efflux pump,cephalosporin
+Salmonella enterica,C1745,OXA-1,3001396,Perfect,100.0,831,OXA beta-lactamase; OXA-1-like beta-lactamase,cephalosporin
+Salmonella enterica,C1745,TEM-1,3000873,Perfect,100.0,861,TEM beta-lactamase,cephalosporin
+Salmonella enterica,C1745,golS,3000504,Perfect,100.0,465,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,cephalosporin
+Salmonella enterica,C1745,mdsA,3000789,Perfect,100.0,1227,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Salmonella enterica,C1745,mdsB,3000790,Perfect,100.0,3168,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Salmonella enterica,C1745,sdiA,3000826,Perfect,100.0,723,resistance-nodulation-cell division (RND) antibiotic efflux pump,cephalosporin
+Salmonella enterica,C1745,dfrA14,3002859,Strict,99.36,489,trimethoprim resistant dihydrofolate reductase dfr,diaminopyrimidine antibiotic
+Salmonella enterica,C1745,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,diaminopyrimidine antibiotic
+Salmonella enterica,C1745,Escherichia coli acrA,3004043,Strict,91.69,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Salmonella enterica,C1745,Escherichia coli mdfA,3001328,Strict,87.68,1233,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnE,3004580,Strict,76.67,363,small multidrug resistance (SMR) antibiotic efflux pump,disinfecting agents and antiseptics
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnF,3004583,Strict,87.16,330,small multidrug resistance (SMR) antibiotic efflux pump,disinfecting agents and antiseptics
+Salmonella enterica,C1745,leuO,3003843,Strict,86.94,945,major facilitator superfamily (MFS) antibiotic efflux pump,disinfecting agents and antiseptics
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,disinfecting agents and antiseptics
+Salmonella enterica,C1745,sdiA,3000826,Perfect,100.0,723,resistance-nodulation-cell division (RND) antibiotic efflux pump,disinfecting agents and antiseptics
+Salmonella enterica,C1745,CRP,3000518,Strict,99.05,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Salmonella enterica,C1745,Escherichia coli acrA,3004043,Strict,91.69,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Salmonella enterica,C1745,MdtK,3001327,Strict,99.79,1425,multidrug and toxic compound extrusion (MATE) transporter,fluoroquinolone antibiotic
+Salmonella enterica,C1745,QnrB1,3002714,Perfect,100.0,645,quinolone resistance protein (qnr),fluoroquinolone antibiotic
+Salmonella enterica,C1745,emrB,3000074,Strict,95.51,1539,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Salmonella enterica,C1745,emrR,3000516,Strict,93.14,531,major facilitator superfamily (MFS) antibiotic efflux pump,fluoroquinolone antibiotic
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,fluoroquinolone antibiotic
+Salmonella enterica,C1745,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Salmonella enterica,C1745,sdiA,3000826,Perfect,100.0,723,resistance-nodulation-cell division (RND) antibiotic efflux pump,fluoroquinolone antibiotic
+Salmonella enterica,C1745,vanG,3002909,Strict,38.98,1113,glycopeptide resistance gene cluster; Van ligase,glycopeptide antibiotic
+Salmonella enterica,C1745,Escherichia coli acrA,3004043,Strict,91.69,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,glycylcycline
+Salmonella enterica,C1745,sdiA,3000826,Perfect,100.0,723,resistance-nodulation-cell division (RND) antibiotic efflux pump,glycylcycline
+Salmonella enterica,C1745,CRP,3000518,Strict,99.05,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,macrolide antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnE,3004580,Strict,76.67,363,small multidrug resistance (SMR) antibiotic efflux pump,macrolide antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnF,3004583,Strict,87.16,330,small multidrug resistance (SMR) antibiotic efflux pump,macrolide antibiotic
+Salmonella enterica,C1745,TEM-1,3000873,Perfect,100.0,861,TEM beta-lactamase,monobactam
+Salmonella enterica,C1745,golS,3000504,Perfect,100.0,465,resistance-nodulation-cell division (RND) antibiotic efflux pump,monobactam
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,monobactam
+Salmonella enterica,C1745,mdsA,3000789,Perfect,100.0,1227,resistance-nodulation-cell division (RND) antibiotic efflux pump,monobactam
+Salmonella enterica,C1745,mdsB,3000790,Perfect,100.0,3168,resistance-nodulation-cell division (RND) antibiotic efflux pump,monobactam
+Salmonella enterica,C1745,msbA,3003950,Strict,96.39,1749,ATP-binding cassette (ABC) antibiotic efflux pump,nitroimidazole antibiotic
+Salmonella enterica,C1745,leuO,3003843,Strict,86.94,945,major facilitator superfamily (MFS) antibiotic efflux pump,nucleoside antibiotic
+Salmonella enterica,C1745,CRP,3000518,Strict,99.05,633,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Salmonella enterica,C1745,CTX-M-15,3001878,Perfect,100.0,876,CTX-M beta-lactamase,penicillin beta-lactam
+Salmonella enterica,C1745,Escherichia coli acrA,3004043,Strict,91.69,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Salmonella enterica,C1745,OXA-1,3001396,Perfect,100.0,831,OXA beta-lactamase; OXA-1-like beta-lactamase,penicillin beta-lactam
+Salmonella enterica,C1745,TEM-1,3000873,Perfect,100.0,861,TEM beta-lactamase,penicillin beta-lactam
+Salmonella enterica,C1745,golS,3000504,Perfect,100.0,465,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,penicillin beta-lactam
+Salmonella enterica,C1745,mdsA,3000789,Perfect,100.0,1227,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Salmonella enterica,C1745,mdsB,3000790,Perfect,100.0,3168,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Salmonella enterica,C1745,sdiA,3000826,Perfect,100.0,723,resistance-nodulation-cell division (RND) antibiotic efflux pump,penicillin beta-lactam
+Salmonella enterica,C1745,ArnT,3005053,Strict,61.89,1647,pmr phosphoethanolamine transferase,peptide antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnE,3004580,Strict,76.67,363,small multidrug resistance (SMR) antibiotic efflux pump,peptide antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnF,3004583,Strict,87.16,330,small multidrug resistance (SMR) antibiotic efflux pump,peptide antibiotic
+Salmonella enterica,C1745,PmrF,3003578,Strict,87.74,984,pmr phosphoethanolamine transferase,peptide antibiotic
+Salmonella enterica,C1745,bacA,3002986,Strict,97.07,822,undecaprenyl pyrophosphate related proteins,peptide antibiotic
+Salmonella enterica,C1745,Escherichia coli acrA,3004043,Strict,91.69,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Salmonella enterica,C1745,Escherichia coli mdfA,3001328,Strict,87.68,1233,major facilitator superfamily (MFS) antibiotic efflux pump,phenicol antibiotic
+Salmonella enterica,C1745,catA1,3002683,Strict,100.0,651,chloramphenicol acetyltransferase (CAT),phenicol antibiotic
+Salmonella enterica,C1745,golS,3000504,Perfect,100.0,465,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,phenicol antibiotic
+Salmonella enterica,C1745,mdsA,3000789,Perfect,100.0,1227,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Salmonella enterica,C1745,mdsB,3000790,Perfect,100.0,3168,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Salmonella enterica,C1745,rsmA,3005069,Strict,85.25,186,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Salmonella enterica,C1745,sdiA,3000826,Perfect,100.0,723,resistance-nodulation-cell division (RND) antibiotic efflux pump,phenicol antibiotic
+Salmonella enterica,C1745,Escherichia coli acrA,3004043,Strict,91.69,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,rifamycin antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnE,3004580,Strict,76.67,363,small multidrug resistance (SMR) antibiotic efflux pump,rifamycin antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnF,3004583,Strict,87.16,330,small multidrug resistance (SMR) antibiotic efflux pump,rifamycin antibiotic
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,rifamycin antibiotic
+Salmonella enterica,C1745,sdiA,3000826,Perfect,100.0,723,resistance-nodulation-cell division (RND) antibiotic efflux pump,rifamycin antibiotic
+Salmonella enterica,C1745,sul2,3000412,Perfect,100.0,816,sulfonamide resistant sul,sulfonamide antibiotic
+Salmonella enterica,C1745,Escherichia coli acrA,3004043,Strict,91.69,1194,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Salmonella enterica,C1745,Escherichia coli mdfA,3001328,Strict,87.68,1233,major facilitator superfamily (MFS) antibiotic efflux pump,tetracycline antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnE,3004580,Strict,76.67,363,small multidrug resistance (SMR) antibiotic efflux pump,tetracycline antibiotic
+Salmonella enterica,C1745,Klebsiella pneumoniae KpnF,3004583,Strict,87.16,330,small multidrug resistance (SMR) antibiotic efflux pump,tetracycline antibiotic
+Salmonella enterica,C1745,marA,3000263,Strict,95.24,384,resistance-nodulation-cell division (RND) antibiotic efflux pump; General Bacterial Porin with reduced permeability to beta-lactams,tetracycline antibiotic
+Salmonella enterica,C1745,sdiA,3000826,Perfect,100.0,723,resistance-nodulation-cell division (RND) antibiotic efflux pump,tetracycline antibiotic
+Salmonella enterica,C1745,tet(A),3000165,Strict,94.36,1200,major facilitator superfamily (MFS) antibiotic efflux pump,tetracycline antibiotic

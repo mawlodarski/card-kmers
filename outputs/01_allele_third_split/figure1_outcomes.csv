@@ -1,0 +1,25 @@
+tool,tool_key,outcome,outcome_label,stack_order,count,pct_of_n,n
+CARD k-mers (61-mer),card_kmers_61,correct_species,Correct species,0,77894,75.3407,103389
+CARD k-mers (61-mer),card_kmers_61,genus_only,Genus only (abstained species),1,2291,2.2159,103389
+CARD k-mers (61-mer),card_kmers_61,wrong_species_right_genus,"Wrong species, right genus",2,800,0.7738,103389
+CARD k-mers (61-mer),card_kmers_61,erroneous,Erroneous (wrong genus),3,1292,1.2496,103389
+CARD k-mers (61-mer),card_kmers_61,unclassified,Unclassified,4,20936,20.2497,103389
+CARD k-mers (61-mer),card_kmers_61,rejected,Rejected,5,176,0.1702,103389
+Kraken2 (CARD),kraken2_card,correct_species,Correct species,0,81505,78.8333,103389
+Kraken2 (CARD),kraken2_card,genus_only,Genus only (abstained species),1,1686,1.6307,103389
+Kraken2 (CARD),kraken2_card,wrong_species_right_genus,"Wrong species, right genus",2,2389,2.3107,103389
+Kraken2 (CARD),kraken2_card,erroneous,Erroneous (wrong genus),3,10483,10.1394,103389
+Kraken2 (CARD),kraken2_card,unclassified,Unclassified,4,7326,7.0859,103389
+Kraken2 (CARD),kraken2_card,rejected,Rejected,5,0,0.0,103389
+Kraken2 (default),kraken2_default,correct_species,Correct species,0,66772,64.5833,103389
+Kraken2 (default),kraken2_default,genus_only,Genus only (abstained species),1,9098,8.7998,103389
+Kraken2 (default),kraken2_default,wrong_species_right_genus,"Wrong species, right genus",2,4280,4.1397,103389
+Kraken2 (default),kraken2_default,erroneous,Erroneous (wrong genus),3,15120,14.6244,103389
+Kraken2 (default),kraken2_default,unclassified,Unclassified,4,8119,7.8529,103389
+Kraken2 (default),kraken2_default,rejected,Rejected,5,0,0.0,103389
+CLARK,clark,correct_species,Correct species,0,62652,60.5983,103389
+CLARK,clark,genus_only,Genus only (abstained species),1,0,0.0,103389
+CLARK,clark,wrong_species_right_genus,"Wrong species, right genus",2,3432,3.3195,103389
+CLARK,clark,erroneous,Erroneous (wrong genus),3,2098,2.0292,103389
+CLARK,clark,unclassified,Unclassified,4,35207,34.0529,103389
+CLARK,clark,rejected,Rejected,5,0,0.0,103389
